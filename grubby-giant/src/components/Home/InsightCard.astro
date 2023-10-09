@@ -1,0 +1,64 @@
+---
+import { normalizeCmsImage } from "../../../utils/common";
+const { data } = Astro.props;
+const icon = normalizeCmsImage(data?.category?.data?.attributes?.image);
+const image = normalizeCmsImage(data?.image);
+---
+
+<a
+  href={data?.slug}
+  target="_blank"
+  class="hover:shadow-md cursor-pointer w-full lg:min-w-[350px] border-brandLight border rounded-md overflow-hidden"
+>
+  <img
+    src={image?.url}
+    alt={image?.alternativeText}
+    class="h-[224px] lg:h-[235px] object-cover w-full"
+  />
+  <div
+    class="flex h items-center gap-x-3 lg:gap-x-5 my-[0.875rem] px-2 lg:px-5"
+  >
+    <div class="flex items-center gap-[6px]">
+      <!-- <CalendarBrandIcon class="w-5 h-5 text-brand" /> -->
+      <div
+        class="text-lightGray tracking-[0.02em] text-sm lg:text-base font-normal"
+      >
+        {
+          new Date(data?.createdAt as string).toLocaleDateString(undefined, {
+            year: "numeric",
+            month: "short",
+            day: "2-digit",
+          })
+        }
+      </div>
+    </div>
+    <div class="flex items-center gap-[6px]">
+      <img src={icon?.url} alt={icon?.alternativeText} class="h-5 w-5" />
+      <p
+        class="text-lightGray tracking-[0.02em] text-sm lg:text-base font-normal"
+      >
+        {data?.category?.data?.attributes?.title}
+      </p>
+    </div>
+  </div>
+  <p
+    id="text"
+    class="text-[1.35rem] h-[82px] lg:text-2xl mb-3 lg:mb-4 px-2 lg:px-5 border-t border-brandLight pt-3 lg:pt-4"
+  >
+    {data?.title}
+  </p>
+  <div class="text-brand text-[0.875rem] lg:text-base px-2 lg:px-5 py-2">
+    <a href={data?.slug} target="_blank"> READ MORE</a>
+  </div>
+</a>
+
+<style>
+  #text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+</style>

@@ -1,0 +1,16 @@
+---
+import classNames from "classnames";
+import { normalizeCmsImage } from "../../../utils/common";
+import { ServicesWeOfferRComponent } from "../shared/ServiceCard";
+import { type IServicesWeOffer } from "../../../schemas/block";
+
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Keyboard, Grid, Pagination, Autoplay } from "swiper/modules";
+const { data }: any = Astro.props;
+
+---
+
+<div>
+  <ServicesWeOfferRComponent client:load data={data} />
+  
+</div>
