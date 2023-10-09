@@ -17,11 +17,11 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Keyboard, Grid, Pagination, Autoplay } from "swiper/modules";
 import axios from "axios";
 
-// const {
-//   data: {
-//     data: { attributes },
-//   },
-// } = await axios.get(`https://dev-cms.corpcare.co.in/api/home-page?populate=deep,5`);
+const {
+  data: {
+    data: { attributes },
+  },
+} = await axios.get(`https://dev-cms.corpcare.co.in/api/home-page?populate=deep,5`);
 // const response = await fetch('https://dev-cms.corpcare.co.in/api/home-page?populate=deep,5');
 // const rawData = await response.json();
 
@@ -31,7 +31,7 @@ import axios from "axios";
 
 <Layout title="CorpCare">
   {
-    home_page?.attributes?.Blocks?.map((block:any) => {
+    attributes?.Blocks?.map((block:any) => {
       return (
         <>
           {block?.__component === "block.hero" && <Hero blocks={block} />}
