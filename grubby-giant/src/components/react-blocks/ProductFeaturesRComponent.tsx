@@ -7,7 +7,6 @@ import { Pagination, Grid, Keyboard } from 'swiper/modules';
 
 const ProductFeaturesRComponent = ({ data }: { data?: IProductFeatures }) => {
   return (
-    <>
       <div className="bg-white relative">
         {data?.miscellaneousFigure?.map((item, index) => {
           const figure = normalizeCmsImage(item?.figure);
@@ -100,7 +99,6 @@ const ProductFeaturesRComponent = ({ data }: { data?: IProductFeatures }) => {
         </Swiper>
         </div>
       </div>
-    </>
   );
 };
 
