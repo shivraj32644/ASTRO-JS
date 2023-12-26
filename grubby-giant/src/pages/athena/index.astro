@@ -1,0 +1,47 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import athena_data from "../../../data/athena.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import AboutCard from "../../components/astro-blocks/AboutCard.astro";
+import OurPartners from "../../components/astro-blocks/OurPartners.astro";
+import WhyCorpcareIsDifferent from "../../components/astro-blocks/WhyCorpcareIsDifferent.astro";
+import FAQ from "../../components/astro-blocks/FAQ.astro";
+import { Cta } from "../../components/react-blocks/Cta";
+---
+
+<Layout title="CorpCare">
+  {
+    athena_data?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div >
+          <div>
+            {block?.__component === "block.hero" && <Hero blocks={block} />}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.about-card" && (
+              <AboutCard data={block} />
+            )}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.our-partners" && (
+              <OurPartners data={block} />
+            )}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.why-corpcare-is-different" && (
+              <WhyCorpcareIsDifferent data={block} />
+            )}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.faq" && <FAQ data={block} />}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.cta" && (
+              <Cta client:load data={block} />
+            )}
+          </div>
+        </div>
+      );
+    })
+  }
+</Layout>

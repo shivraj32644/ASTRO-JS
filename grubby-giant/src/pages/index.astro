@@ -12,20 +12,10 @@ import OurClients from "../components/Home/OurClients.astro";
 import Recognization from "../components/Home/Recognization.astro";
 import RelatedInsights from "../components/Home/RelatedInsights.astro";
 import Cta from "../components/Home/Cta.astro";
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
 
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Keyboard, Grid, Pagination, Autoplay } from "swiper/modules";
-import axios from "axios";
-
-// const {
-//   data: {
-//     data: { attributes },
-//   },
-// } = await axios.get(`https://dev-cms.corpcare.co.in/api/home-page?populate=deep,5`);
-// const response = await fetch('https://dev-cms.corpcare.co.in/api/home-page?populate=deep,5');
-// const rawData = await response.json();
-
-// console.log("rawData",rawData)
 ---
 
 <Layout title="CorpCare">
@@ -35,7 +25,7 @@ import axios from "axios";
         <>
           {block?.__component === "block.hero" && <Hero blocks={block} />}
           {block?.__component === "block.services-we-offer" && (
-            <ServicesWeOffer data={block} />
+            <ServicesWeOffer  data={block} />
           )}
           {block?.__component === "block.how-we-are-different" && (
             <HowWeAreDifferent data={block} />

@@ -1,0 +1,21 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import marketInsightsPageData from "../../../data/market-insigths-page.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import {Articles} from '../../components/react-shared/RMarketInsigth'
+---
+
+<Layout title="CorpCare">
+  {
+    marketInsightsPageData?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div>
+          <div>
+            {block?.__component === "block.hero" && <Hero blocks={block} />}
+          </div>
+          <Articles client:load  />
+        </div>
+      );
+    })
+  }
+</Layout>

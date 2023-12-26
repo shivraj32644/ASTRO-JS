@@ -1,0 +1,518 @@
+{
+    "id": 1,
+    "attributes": {
+        "createdAt": "2022-10-27T07:02:30.128Z",
+        "updatedAt": "2023-02-01T06:35:52.208Z",
+        "publishedAt": "2022-10-27T07:06:58.682Z",
+        "Blocks": [
+            {
+                "id": 6,
+                "__component": "block.hero",
+                "Content": "Achieve Your Business Goals with Our Comprehensive Lending Products",
+                "backgroundImage": {
+                    "data": {
+                        "id": 92,
+                        "attributes": {
+                            "name": "hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                            "alternativeText": "hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                            "caption": "hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                            "width": 1440,
+                            "height": 620,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "/uploads/large_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca.png",
+                                    "hash": "large_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca",
+                                    "mime": "image/png",
+                                    "name": "large_hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                                    "path": null,
+                                    "size": 703.77,
+                                    "width": 1000,
+                                    "height": 431
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "/uploads/small_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca.png",
+                                    "hash": "small_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca",
+                                    "mime": "image/png",
+                                    "name": "small_hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                                    "path": null,
+                                    "size": 163.67,
+                                    "width": 500,
+                                    "height": 215
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "/uploads/medium_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca.png",
+                                    "hash": "medium_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca",
+                                    "mime": "image/png",
+                                    "name": "medium_hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                                    "path": null,
+                                    "size": 381.88,
+                                    "width": 750,
+                                    "height": 323
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "/uploads/thumbnail_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca.png",
+                                    "hash": "thumbnail_hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_hand-hold-sales-data-economic-growth-graph-chart-business-planning-strategy-analysing-trading-exchange-financial-banking-technology-digital-marketing-profit-growing-plan 1.png",
+                                    "path": null,
+                                    "size": 38.87,
+                                    "width": 245,
+                                    "height": 105
+                                }
+                            },
+                            "hash": "hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 1200.89,
+                            "url": "/uploads/hand_hold_sales_data_economic_growth_graph_chart_business_planning_strategy_analysing_trading_exchange_financial_banking_technology_digital_marketing_profit_growing_plan_1_bf2518a7ca.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-27T07:02:14.787Z",
+                            "updatedAt": "2022-10-27T07:02:14.787Z"
+                        }
+                    }
+                },
+                "Button": {
+                    "id": 5,
+                    "theme": "primary",
+                    "link": {
+                        "id": 66,
+                        "href": "#",
+                        "label": "TALK TO EXPERT",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "__component": "block.about-card",
+                "heading": "Lending Solutions",
+                "subHeading": "Corporate Lending Solutions for Your Business Needs",
+                "content": "We provide a range of lending solutions for corporates, including loan against securities, loan against property, acquisition finance, refinance and top-up, PE/partner buyout, construction finance, NBFC funding, project finance, stressed asset finance, and working capital and term loans. We are here to help your business secure the financing it needs to succeed.",
+                "imagePosition": "left",
+                "image": {
+                    "data": {
+                        "id": 93,
+                        "attributes": {
+                            "name": "hand-climbing-wooden-blocks-represent-growth.png",
+                            "alternativeText": "hand-climbing-wooden-blocks-represent-growth.png",
+                            "caption": "hand-climbing-wooden-blocks-represent-growth.png",
+                            "width": 480,
+                            "height": 544,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "/uploads/small_hand_climbing_wooden_blocks_represent_growth_1eaa06b7a0.png",
+                                    "hash": "small_hand_climbing_wooden_blocks_represent_growth_1eaa06b7a0",
+                                    "mime": "image/png",
+                                    "name": "small_hand-climbing-wooden-blocks-represent-growth.png",
+                                    "path": null,
+                                    "size": 474.28,
+                                    "width": 441,
+                                    "height": 500
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "/uploads/thumbnail_hand_climbing_wooden_blocks_represent_growth_1eaa06b7a0.png",
+                                    "hash": "thumbnail_hand_climbing_wooden_blocks_represent_growth_1eaa06b7a0",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_hand-climbing-wooden-blocks-represent-growth.png",
+                                    "path": null,
+                                    "size": 55.23,
+                                    "width": 138,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "hand_climbing_wooden_blocks_represent_growth_1eaa06b7a0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 375.66,
+                            "url": "/uploads/hand_climbing_wooden_blocks_represent_growth_1eaa06b7a0.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-27T07:03:11.154Z",
+                            "updatedAt": "2022-10-27T07:03:11.154Z"
+                        }
+                    }
+                },
+                "ctaButton": null,
+                "miscellaneousFigure": []
+            },
+            {
+                "id": 2,
+                "__component": "block.why-corpcare-is-different",
+                "heading": "Benefits",
+                "subHeading": "How lending solution benefits ",
+                "backgroundImage": {
+                    "data": {
+                        "id": 94,
+                        "attributes": {
+                            "name": "artistic-outdoor-spiral-staircase 4.png",
+                            "alternativeText": "artistic-outdoor-spiral-staircase 4.png",
+                            "caption": "artistic-outdoor-spiral-staircase 4.png",
+                            "width": 960,
+                            "height": 787,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "/uploads/small_artistic_outdoor_spiral_staircase_4_cdd9f1084b.png",
+                                    "hash": "small_artistic_outdoor_spiral_staircase_4_cdd9f1084b",
+                                    "mime": "image/png",
+                                    "name": "small_artistic-outdoor-spiral-staircase 4.png",
+                                    "path": null,
+                                    "size": 348.91,
+                                    "width": 500,
+                                    "height": 410
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "/uploads/medium_artistic_outdoor_spiral_staircase_4_cdd9f1084b.png",
+                                    "hash": "medium_artistic_outdoor_spiral_staircase_4_cdd9f1084b",
+                                    "mime": "image/png",
+                                    "name": "medium_artistic-outdoor-spiral-staircase 4.png",
+                                    "path": null,
+                                    "size": 754,
+                                    "width": 750,
+                                    "height": 615
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "/uploads/thumbnail_artistic_outdoor_spiral_staircase_4_cdd9f1084b.png",
+                                    "hash": "thumbnail_artistic_outdoor_spiral_staircase_4_cdd9f1084b",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_artistic-outdoor-spiral-staircase 4.png",
+                                    "path": null,
+                                    "size": 64.92,
+                                    "width": 190,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "artistic_outdoor_spiral_staircase_4_cdd9f1084b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 896.66,
+                            "url": "/uploads/artistic_outdoor_spiral_staircase_4_cdd9f1084b.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-27T07:03:32.625Z",
+                            "updatedAt": "2022-10-27T07:03:32.625Z"
+                        }
+                    }
+                },
+                "whyCorpcareCard": [
+                    {
+                        "id": 29,
+                        "cardHeading": "Strong Lender Connects",
+                        "cardDescription": "We have strong relationships with leading financial institutions, including large and mid-size NBFCs, public and private banks, and credit, venture, and foreign funds.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 97,
+                                "attributes": {
+                                    "name": "graph 1.png",
+                                    "alternativeText": "graph 1.png",
+                                    "caption": "graph 1.png",
+                                    "width": 60,
+                                    "height": 60,
+                                    "formats": null,
+                                    "hash": "graph_1_8bd8c56ec0",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 0.88,
+                                    "url": "/uploads/graph_1_8bd8c56ec0.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T07:04:39.770Z",
+                                    "updatedAt": "2022-10-27T07:04:39.770Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 30,
+                        "cardHeading": "Expert in-house team",
+                        "cardDescription": "Our team of experts from various industries understand client requirements and suggest the best suitable solution.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 98,
+                                "attributes": {
+                                    "name": "Group (6).png",
+                                    "alternativeText": "Group (6).png",
+                                    "caption": "Group (6).png",
+                                    "width": 58,
+                                    "height": 60,
+                                    "formats": null,
+                                    "hash": "Group_6_ce62c4089a",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 0.94,
+                                    "url": "/uploads/Group_6_ce62c4089a.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T07:04:39.772Z",
+                                    "updatedAt": "2022-10-27T07:04:39.772Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 31,
+                        "cardHeading": "Quick & Timely Solution",
+                        "cardDescription": "By closely working with lenders and providing information according to their appraisal requirements, we can speed up the underwriting process.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 96,
+                                "attributes": {
+                                    "name": "Group (4).png",
+                                    "alternativeText": "Group (4).png",
+                                    "caption": "Group (4).png",
+                                    "width": 40,
+                                    "height": 60,
+                                    "formats": null,
+                                    "hash": "Group_4_a62a8e40e8",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 1.5,
+                                    "url": "/uploads/Group_4_a62a8e40e8.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T07:04:39.769Z",
+                                    "updatedAt": "2022-10-27T07:04:39.769Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "cardHeading": "Cost-effective, Tailored Solutions",
+                        "cardDescription": "We offer cost-effective solutions that prioritize sustainability. Thanks to our market intelligence and accessibility, we can negotiate better terms and cost-effective structures with lenders.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 95,
+                                "attributes": {
+                                    "name": "Group (5).png",
+                                    "alternativeText": "Group (5).png",
+                                    "caption": "Group (5).png",
+                                    "width": 60,
+                                    "height": 60,
+                                    "formats": null,
+                                    "hash": "Group_5_9695d61dee",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 1.07,
+                                    "url": "/uploads/Group_5_9695d61dee.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T07:04:39.764Z",
+                                    "updatedAt": "2022-10-27T07:04:39.764Z"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "__component": "block.the-process-we-follow",
+                "heading": "HAVE QUESTIONS?",
+                "subheading": "The Process we follow ",
+                "theme": "white",
+                "miscellaneousFigure": [],
+                "items": [
+                    {
+                        "id": 81,
+                        "cardHeading": "Requirement Discovery",
+                        "cardDescription": "We determine the type of loan you need and what lender is the best fit for your business.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 209,
+                                "attributes": {
+                                    "name": "search 1.png",
+                                    "alternativeText": "search 1.png",
+                                    "caption": "search 1.png",
+                                    "width": 128,
+                                    "height": 128,
+                                    "formats": null,
+                                    "hash": "search_1_d05c00b440",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 3.54,
+                                    "url": "/uploads/search_1_d05c00b440.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-08T09:45:56.836Z",
+                                    "updatedAt": "2022-11-08T09:45:56.836Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 82,
+                        "cardHeading": "Prepare Application & Negotiate Terms",
+                        "cardDescription": "We carefully review the terms and negotiate if necessary to ensure that the loan is the best fit for your needs.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 210,
+                                "attributes": {
+                                    "name": "shield (1) 1.png",
+                                    "alternativeText": "shield (1) 1.png",
+                                    "caption": "shield (1) 1.png",
+                                    "width": 128,
+                                    "height": 128,
+                                    "formats": null,
+                                    "hash": "shield_1_1_30a3ba4179",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 3.01,
+                                    "url": "/uploads/shield_1_1_30a3ba4179.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-08T09:45:56.837Z",
+                                    "updatedAt": "2022-12-16T12:30:16.532Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 83,
+                        "cardHeading": "Loan Disbursal",
+                        "cardDescription": "We support and assist you with the disbursal of your loan amount.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 208,
+                                "attributes": {
+                                    "name": "execution 1.png",
+                                    "alternativeText": "execution 1.png",
+                                    "caption": "execution 1.png",
+                                    "width": 128,
+                                    "height": 128,
+                                    "formats": null,
+                                    "hash": "execution_1_974e99bb5c",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 0.97,
+                                    "url": "/uploads/execution_1_974e99bb5c.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-08T09:45:56.827Z",
+                                    "updatedAt": "2022-11-08T09:45:56.827Z"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "__component": "block.cta",
+                "content": "Let us have the opportunity to assist you better.",
+                "buttonTheme": "primary",
+                "backgroundImage": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "name": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                            "alternativeText": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                            "caption": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                            "width": 1440,
+                            "height": 400,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "/uploads/large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                    "hash": "large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                    "mime": "image/png",
+                                    "name": "large_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                    "path": null,
+                                    "size": 243.63,
+                                    "width": 1000,
+                                    "height": 278
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "/uploads/small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                    "hash": "small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                    "mime": "image/png",
+                                    "name": "small_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                    "path": null,
+                                    "size": 52.1,
+                                    "width": 500,
+                                    "height": 139
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "/uploads/medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                    "hash": "medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                    "mime": "image/png",
+                                    "name": "medium_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                    "path": null,
+                                    "size": 126.23,
+                                    "width": 750,
+                                    "height": 208
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "/uploads/thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                    "hash": "thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                    "path": null,
+                                    "size": 13.17,
+                                    "width": 245,
+                                    "height": 68
+                                }
+                            },
+                            "hash": "closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 482.1,
+                            "url": "/uploads/closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-10T07:04:00.210Z",
+                            "updatedAt": "2022-10-12T09:47:36.234Z"
+                        }
+                    }
+                },
+                "button": {
+                    "id": 67,
+                    "href": "#",
+                    "label": "AVAIL LOANS",
+                    "target": null,
+                    "isExternal": false,
+                    "theme": "primary",
+                    "linkImage": {
+                        "data": null
+                    }
+                }
+            }
+        ],
+        "seo": null
+    }
+}

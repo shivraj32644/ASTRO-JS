@@ -1,0 +1,988 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-10-27T07:20:27.994Z",
+            "updatedAt": "2023-02-08T10:15:50.247Z",
+            "publishedAt": "2022-10-27T07:28:53.787Z",
+            "Blocks": [
+                {
+                    "id": 8,
+                    "__component": "block.hero",
+                    "Content": "Maximize Your Returns with the Best Bond Investments Available in the Market",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 107,
+                            "attributes": {
+                                "name": "wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                "alternativeText": "wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                "caption": "wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                "width": 1440,
+                                "height": 620,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b.png",
+                                        "hash": "large_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b",
+                                        "mime": "image/png",
+                                        "name": "large_wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                        "path": null,
+                                        "size": 639.46,
+                                        "width": 1000,
+                                        "height": 431
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b.png",
+                                        "hash": "small_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b",
+                                        "mime": "image/png",
+                                        "name": "small_wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                        "path": null,
+                                        "size": 158.03,
+                                        "width": 500,
+                                        "height": 215
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b.png",
+                                        "hash": "medium_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b",
+                                        "mime": "image/png",
+                                        "name": "medium_wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                        "path": null,
+                                        "size": 354.19,
+                                        "width": 750,
+                                        "height": 323
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b.png",
+                                        "hash": "thumbnail_wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_wooden-human-figures-with-graph-growth-arrows-coins-growth-sales-profits 2.png",
+                                        "path": null,
+                                        "size": 41.02,
+                                        "width": 245,
+                                        "height": 105
+                                    }
+                                },
+                                "hash": "wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 1008.48,
+                                "url": "/uploads/wooden_human_figures_with_graph_growth_arrows_coins_growth_sales_profits_2_99ba01f54b.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T07:17:28.598Z",
+                                "updatedAt": "2022-10-27T07:17:28.598Z"
+                            }
+                        }
+                    },
+                    "Button": {
+                        "id": 7,
+                        "theme": "primary",
+                        "link": {
+                            "id": 70,
+                            "href": "#",
+                            "label": "Get Started",
+                            "target": null,
+                            "isExternal": false,
+                            "theme": "primary",
+                            "linkImage": {
+                                "data": null
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "__component": "block.col-tabs",
+                    "heading": "Invest in Corporate Bonds",
+                    "subHeading": "Expert Guidance Based on Solid Research, Safety Ratings, and Stability",
+                    "tabs": [
+                        {
+                            "id": 5,
+                            "panelHeading": "Explore all Bonds",
+                            "panelDescription": "Invest in high-yield AAA corporate bonds for fixed periodic interest payments and returns up to 12% per year.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 112,
+                                    "attributes": {
+                                        "name": "Group 241354 (1).png",
+                                        "alternativeText": "Group 241354 (1).png",
+                                        "caption": "Group 241354 (1).png",
+                                        "width": 665,
+                                        "height": 362,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241354_1_a18906b5a4.png",
+                                                "hash": "small_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 53.27,
+                                                "width": 500,
+                                                "height": 272
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241354_1_a18906b5a4.png",
+                                                "hash": "thumbnail_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 18.66,
+                                                "width": 245,
+                                                "height": 133
+                                            }
+                                        },
+                                        "hash": "Group_241354_1_a18906b5a4",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 47.92,
+                                        "url": "/uploads/Group_241354_1_a18906b5a4.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:55.763Z",
+                                        "updatedAt": "2022-10-27T07:30:27.920Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 110,
+                                    "attributes": {
+                                        "name": "search (3) 1.png",
+                                        "alternativeText": "search (3) 1.png",
+                                        "caption": "search (3) 1.png",
+                                        "width": 32,
+                                        "height": 33,
+                                        "formats": null,
+                                        "hash": "search_3_1_6b24621b5c",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.71,
+                                        "url": "/uploads/search_3_1_6b24621b5c.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.287Z",
+                                        "updatedAt": "2022-10-27T07:19:01.287Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "panelHeading": "Compare Bonds",
+                            "panelDescription": "Our comparison tool lets you easily see how different bonds stack up against each other, so you can make an informed decision.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 112,
+                                    "attributes": {
+                                        "name": "Group 241354 (1).png",
+                                        "alternativeText": "Group 241354 (1).png",
+                                        "caption": "Group 241354 (1).png",
+                                        "width": 665,
+                                        "height": 362,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241354_1_a18906b5a4.png",
+                                                "hash": "small_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 53.27,
+                                                "width": 500,
+                                                "height": 272
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241354_1_a18906b5a4.png",
+                                                "hash": "thumbnail_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 18.66,
+                                                "width": 245,
+                                                "height": 133
+                                            }
+                                        },
+                                        "hash": "Group_241354_1_a18906b5a4",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 47.92,
+                                        "url": "/uploads/Group_241354_1_a18906b5a4.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:55.763Z",
+                                        "updatedAt": "2022-10-27T07:30:27.920Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 108,
+                                    "attributes": {
+                                        "name": "Group (10).png",
+                                        "alternativeText": "Group (10).png",
+                                        "caption": "Group (10).png",
+                                        "width": 32,
+                                        "height": 31,
+                                        "formats": null,
+                                        "hash": "Group_10_52f5d0c2f2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.34,
+                                        "url": "/uploads/Group_10_52f5d0c2f2.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.286Z",
+                                        "updatedAt": "2022-10-27T07:19:01.286Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "panelHeading": "One Stop Solution",
+                            "panelDescription": "From research to advice to execution, we handle every step of the investment process for you. No need to go to multiple sources for guidance.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 112,
+                                    "attributes": {
+                                        "name": "Group 241354 (1).png",
+                                        "alternativeText": "Group 241354 (1).png",
+                                        "caption": "Group 241354 (1).png",
+                                        "width": 665,
+                                        "height": 362,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241354_1_a18906b5a4.png",
+                                                "hash": "small_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 53.27,
+                                                "width": 500,
+                                                "height": 272
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241354_1_a18906b5a4.png",
+                                                "hash": "thumbnail_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 18.66,
+                                                "width": 245,
+                                                "height": 133
+                                            }
+                                        },
+                                        "hash": "Group_241354_1_a18906b5a4",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 47.92,
+                                        "url": "/uploads/Group_241354_1_a18906b5a4.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:55.763Z",
+                                        "updatedAt": "2022-10-27T07:30:27.920Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 109,
+                                    "attributes": {
+                                        "name": "XMLID_669_.png",
+                                        "alternativeText": "XMLID_669_.png",
+                                        "caption": "XMLID_669_.png",
+                                        "width": 32,
+                                        "height": 29,
+                                        "formats": null,
+                                        "hash": "XMLID_669_4233375312",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.68,
+                                        "url": "/uploads/XMLID_669_4233375312.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.288Z",
+                                        "updatedAt": "2023-03-29T06:37:12.589Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "panelHeading": "Talk to Experts",
+                            "panelDescription": " Our team of advisors is always available to help you navigate the investment process and make smart decisions.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 112,
+                                    "attributes": {
+                                        "name": "Group 241354 (1).png",
+                                        "alternativeText": "Group 241354 (1).png",
+                                        "caption": "Group 241354 (1).png",
+                                        "width": 665,
+                                        "height": 362,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241354_1_a18906b5a4.png",
+                                                "hash": "small_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 53.27,
+                                                "width": 500,
+                                                "height": 272
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241354_1_a18906b5a4.png",
+                                                "hash": "thumbnail_Group_241354_1_a18906b5a4",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241354 (1).png",
+                                                "path": null,
+                                                "size": 18.66,
+                                                "width": 245,
+                                                "height": 133
+                                            }
+                                        },
+                                        "hash": "Group_241354_1_a18906b5a4",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 47.92,
+                                        "url": "/uploads/Group_241354_1_a18906b5a4.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:55.763Z",
+                                        "updatedAt": "2022-10-27T07:30:27.920Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 111,
+                                    "attributes": {
+                                        "name": "Group (9).png",
+                                        "alternativeText": "Group (9).png",
+                                        "caption": "Group (9).png",
+                                        "width": 26,
+                                        "height": 31,
+                                        "formats": null,
+                                        "hash": "Group_9_f387453279",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.65,
+                                        "url": "/uploads/Group_9_f387453279.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.293Z",
+                                        "updatedAt": "2022-10-27T07:19:01.293Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                },
+                {
+                    "id": 1,
+                    "__component": "block.the-way-it-works",
+                    "heading": "The way it works",
+                    "subheading": "Steps to buy or invest bonds online",
+                    "theme": "black",
+                    "miscellaneousFigure": [],
+                    "items": [
+                        {
+                            "id": 42,
+                            "cardHeading": "Bond / Portfolio Selection",
+                            "cardDescription": "Explore different bond options, compare yields and terms, and choose by considering your investment goals and risk tolerance.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 114,
+                                    "attributes": {
+                                        "name": "Group (11).png",
+                                        "alternativeText": "Group (11).png",
+                                        "caption": "Group (11).png",
+                                        "width": 80,
+                                        "height": 62,
+                                        "formats": null,
+                                        "hash": "Group_11_4ed2226346",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.09,
+                                        "url": "/uploads/Group_11_4ed2226346.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:22:01.156Z",
+                                        "updatedAt": "2022-10-27T07:22:01.156Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 43,
+                            "cardHeading": "Consultative Call with Fixed Income Specialist",
+                            "cardDescription": "Consultative call with a fixed income specialist to discuss your bond selection and any questions or concerns you may have.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 113,
+                                    "attributes": {
+                                        "name": "Group (13).png",
+                                        "alternativeText": "Group (13).png",
+                                        "caption": "Group (13).png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_13_6361043e3a",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.6,
+                                        "url": "/uploads/Group_13_6361043e3a.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:22:01.061Z",
+                                        "updatedAt": "2022-10-27T07:22:01.061Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 44,
+                            "cardHeading": "KYC Completion and Documentation",
+                            "cardDescription": " Complete the necessary Know Your Customer (KYC) and documentation requirements. This may include providing proof of identity and other personal information.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 113,
+                                    "attributes": {
+                                        "name": "Group (13).png",
+                                        "alternativeText": "Group (13).png",
+                                        "caption": "Group (13).png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_13_6361043e3a",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.6,
+                                        "url": "/uploads/Group_13_6361043e3a.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:22:01.061Z",
+                                        "updatedAt": "2022-10-27T07:22:01.061Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 45,
+                            "cardHeading": "Deal Confirmation & Closure",
+                            "cardDescription": "Confirm the details of the bond purchase with the bond issuer or broker, and finalize the deal.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 115,
+                                    "attributes": {
+                                        "name": "Group (12).png",
+                                        "alternativeText": "Group (12).png",
+                                        "caption": "Group (12).png",
+                                        "width": 66,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_12_6bcd9f5d5d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2,
+                                        "url": "/uploads/Group_12_6bcd9f5d5d.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:22:01.169Z",
+                                        "updatedAt": "2022-10-27T07:22:01.169Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 91,
+                            "cardHeading": "Payment & Settlement",
+                            "cardDescription": "Make payment for the bonds and complete the settlement process. ",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 210,
+                                    "attributes": {
+                                        "name": "shield (1) 1.png",
+                                        "alternativeText": "shield (1) 1.png",
+                                        "caption": "shield (1) 1.png",
+                                        "width": 128,
+                                        "height": 128,
+                                        "formats": null,
+                                        "hash": "shield_1_1_30a3ba4179",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 3.01,
+                                        "url": "/uploads/shield_1_1_30a3ba4179.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-08T09:45:56.837Z",
+                                        "updatedAt": "2022-12-16T12:30:16.532Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 92,
+                            "cardHeading": "Monitor Your Investment",
+                            "cardDescription": "Keep track of your bond holdings and monitor their performance over time.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 209,
+                                    "attributes": {
+                                        "name": "search 1.png",
+                                        "alternativeText": "search 1.png",
+                                        "caption": "search 1.png",
+                                        "width": 128,
+                                        "height": 128,
+                                        "formats": null,
+                                        "hash": "search_1_d05c00b440",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 3.54,
+                                        "url": "/uploads/search_1_d05c00b440.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-08T09:45:56.836Z",
+                                        "updatedAt": "2022-11-08T09:45:56.836Z"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "__component": "block.why-corp-care-for-fixed-income",
+                    "heading": "Invest in Corporate Bonds",
+                    "subheading": "Get Expert Guidance and Support Every Step of the Way",
+                    "miscellaneousFigure": [],
+                    "items": [
+                        {
+                            "id": 1,
+                            "heading": "One Stop Destination",
+                            "image": {
+                                "data": {
+                                    "id": 120,
+                                    "attributes": {
+                                        "name": "teamwork-business-woman-accounting-concept-financial-office 1.png",
+                                        "alternativeText": "teamwork-business-woman-accounting-concept-financial-office 1.png",
+                                        "caption": "teamwork-business-woman-accounting-concept-financial-office 1.png",
+                                        "width": 350,
+                                        "height": 233,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_teamwork_business_woman_accounting_concept_financial_office_1_e49b406649.png",
+                                                "hash": "thumbnail_teamwork_business_woman_accounting_concept_financial_office_1_e49b406649",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_teamwork-business-woman-accounting-concept-financial-office 1.png",
+                                                "path": null,
+                                                "size": 83.19,
+                                                "width": 234,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "teamwork_business_woman_accounting_concept_financial_office_1_e49b406649",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 132.82,
+                                        "url": "/uploads/teamwork_business_woman_accounting_concept_financial_office_1_e49b406649.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:24:28.578Z",
+                                        "updatedAt": "2022-10-27T07:24:28.578Z"
+                                    }
+                                }
+                            },
+                            "points": [
+                                {
+                                    "id": 1,
+                                    "label": "Non Convertible Debentures"
+                                },
+                                {
+                                    "id": 2,
+                                    "label": "Structured products"
+                                },
+                                {
+                                    "id": 3,
+                                    "label": "Corporate FDs"
+                                },
+                                {
+                                    "id": 4,
+                                    "label": "Capital gain bonds"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "heading": "Transparent Pricing",
+                            "image": {
+                                "data": {
+                                    "id": 117,
+                                    "attributes": {
+                                        "name": "conceptual-search-with-wooden-blocks-magnifying-glass-side-view 1.png",
+                                        "alternativeText": "conceptual-search-with-wooden-blocks-magnifying-glass-side-view 1.png",
+                                        "caption": "conceptual-search-with-wooden-blocks-magnifying-glass-side-view 1.png",
+                                        "width": 350,
+                                        "height": 234,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_conceptual_search_with_wooden_blocks_magnifying_glass_side_view_1_3290be1024.png",
+                                                "hash": "thumbnail_conceptual_search_with_wooden_blocks_magnifying_glass_side_view_1_3290be1024",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_conceptual-search-with-wooden-blocks-magnifying-glass-side-view 1.png",
+                                                "path": null,
+                                                "size": 57.39,
+                                                "width": 233,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "conceptual_search_with_wooden_blocks_magnifying_glass_side_view_1_3290be1024",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 103.91,
+                                        "url": "/uploads/conceptual_search_with_wooden_blocks_magnifying_glass_side_view_1_3290be1024.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:24:03.542Z",
+                                        "updatedAt": "2022-10-27T07:24:03.542Z"
+                                    }
+                                }
+                            },
+                            "points": [
+                                {
+                                    "id": 5,
+                                    "label": "Zero Brokerage to Clients"
+                                },
+                                {
+                                    "id": 7,
+                                    "label": "No Transaction Charges"
+                                },
+                                {
+                                    "id": 14,
+                                    "label": "No Management Fees"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "heading": "Discussion with Experts & Competitiveness",
+                            "image": {
+                                "data": {
+                                    "id": 121,
+                                    "attributes": {
+                                        "name": "executive-marketing-hand-holding-red-dart-put-centre-target-board-business-investment-goal-target-concept 1.png",
+                                        "alternativeText": "executive-marketing-hand-holding-red-dart-put-centre-target-board-business-investment-goal-target-concept 1.png",
+                                        "caption": "executive-marketing-hand-holding-red-dart-put-centre-target-board-business-investment-goal-target-concept 1.png",
+                                        "width": 350,
+                                        "height": 233,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_executive_marketing_hand_holding_red_dart_put_centre_target_board_business_investment_goal_target_concept_1_d60fa2fbcf.png",
+                                                "hash": "thumbnail_executive_marketing_hand_holding_red_dart_put_centre_target_board_business_investment_goal_target_concept_1_d60fa2fbcf",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_executive-marketing-hand-holding-red-dart-put-centre-target-board-business-investment-goal-target-concept 1.png",
+                                                "path": null,
+                                                "size": 55.94,
+                                                "width": 234,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "executive_marketing_hand_holding_red_dart_put_centre_target_board_business_investment_goal_target_concept_1_d60fa2fbcf",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 104.44,
+                                        "url": "/uploads/executive_marketing_hand_holding_red_dart_put_centre_target_board_business_investment_goal_target_concept_1_d60fa2fbcf.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:26:09.369Z",
+                                        "updatedAt": "2022-10-27T07:26:09.369Z"
+                                    }
+                                }
+                            },
+                            "points": [
+                                {
+                                    "id": 13,
+                                    "label": "Personalized Guidance"
+                                },
+                                {
+                                    "id": 10,
+                                    "label": "Access to Multiple Large Brokers for Competitive Quotes "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "heading": "Exchange based Settlements & Single KYC Documentation",
+                            "image": {
+                                "data": {
+                                    "id": 118,
+                                    "attributes": {
+                                        "name": "double-exposure-businessman-touches-shield-icon 1.png",
+                                        "alternativeText": "double-exposure-businessman-touches-shield-icon 1.png",
+                                        "caption": "double-exposure-businessman-touches-shield-icon 1.png",
+                                        "width": 350,
+                                        "height": 233,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_double_exposure_businessman_touches_shield_icon_1_eaf321400e.png",
+                                                "hash": "thumbnail_double_exposure_businessman_touches_shield_icon_1_eaf321400e",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_double-exposure-businessman-touches-shield-icon 1.png",
+                                                "path": null,
+                                                "size": 48.64,
+                                                "width": 234,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "double_exposure_businessman_touches_shield_icon_1_eaf321400e",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 82.42,
+                                        "url": "/uploads/double_exposure_businessman_touches_shield_icon_1_eaf321400e.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:24:03.694Z",
+                                        "updatedAt": "2022-10-27T07:24:03.694Z"
+                                    }
+                                }
+                            },
+                            "points": [
+                                {
+                                    "id": 9,
+                                    "label": "No Counterparty Risk"
+                                },
+                                {
+                                    "id": 8,
+                                    "label": "No direct transfer of fund to CorpCare or other entity"
+                                },
+                                {
+                                    "id": 17,
+                                    "label": "Standard KYC Documentation across Products"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "heading": "Advanced Analytics",
+                            "image": {
+                                "data": {
+                                    "id": 116,
+                                    "attributes": {
+                                        "name": "image 2.png",
+                                        "alternativeText": "image 2.png",
+                                        "caption": "image 2.png",
+                                        "width": 350,
+                                        "height": 233,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_image_2_15df94f84b.png",
+                                                "hash": "thumbnail_image_2_15df94f84b",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_image 2.png",
+                                                "path": null,
+                                                "size": 77.1,
+                                                "width": 234,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "image_2_15df94f84b",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 122.71,
+                                        "url": "/uploads/image_2_15df94f84b.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:24:03.536Z",
+                                        "updatedAt": "2022-10-27T07:24:03.536Z"
+                                    }
+                                }
+                            },
+                            "points": [
+                                {
+                                    "id": 11,
+                                    "label": "State of the art Portfolio Reports for active tracking Client’s Investments and Real time analysis"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "__component": "block.faq",
+                    "heading": "HAVE QUESTIONS?",
+                    "subHeading": "Frequently Asked Questions",
+                    "theme": "white",
+                    "miscellaneousFigure": [],
+                    "disclosure": [
+                        {
+                            "id": 14,
+                            "disclosureHeading": "Is having a Demat account compulsory for investing in bonds through stock exchanges? \n",
+                            "disclosureDescription": "Yes, having demat account is compulsory for investing in bonds through stock exchanges.\n"
+                        },
+                        {
+                            "id": 15,
+                            "disclosureHeading": "What are the different Modes of issuance of bonds? \n",
+                            "disclosureDescription": "Bonds can be issued through a public issue or private placement. \nPrivate placement means an offer or invitation to subscribe or issue of securities, by a company, to a select group of persons (cannot exceed 200, in terms of Companies Act, 2013 and rules issued thereunder), in addition to the Qualified Institutional Buyers. \n\nPublic issue means an offer or invitation by an issuer to the public at large to subscribe to its securities.\n"
+                        },
+                        {
+                            "id": 16,
+                            "disclosureHeading": "What are various risks associated with investing in bonds? \n",
+                            "disclosureDescription": "The major risks that can affect your bond’s return are: \n\na. Inflation risk: This arises when the rate of inflation increases. This will erode the value of your investment as the purchasing power of the bonds' coupons/ yield and principal falls. \n\nb. Interest rate risk: Bond prices are inversely affected by interest rate movements. A rise in interest rates could see a fall in bond prices. If interest rates fall, buyers pay a higher price to receive a coupon that is higher than the prevailing market rates. \n\nC. Call risk: Some bonds have a callable feature which gives the issuer an option to buy back (redeem) the bond before its maturity date at a predefined date. If a bond is called when prevailing interest rates are lower than at the time you bought it, you will be exposed to reinvestment risks.\n \nD. Credit risk: Bonds are forms of debt, so bond prices will be affected by the perceived credit quality or probability of default of the bond issuer. When an issuer defaults, you may lose all or a substantial part of your investment. \nE. Liquidity risk: Bonds are usually less liquid than equity. This may happen if the investors of a particular bond issue are largely buying to hold, so there are fewer buyers and sellers. This may make it harder to buy or sell the bonds. Even in cases where the bonds are listed or traded on an exchange, there is no certainty that a liquid secondary market will develop.\n\n F. Market risk: A bond's price/ value will fluctuate with changing market conditions, including the forces of supply and demand and interest rate changes.\n\nG. Reinvestment risk: In an environment of declining interest rates, investors may have to reinvest the income received and any return of principal at lower prevailing rates.\n"
+                        },
+                        {
+                            "id": 17,
+                            "disclosureHeading": "Terms associated with Bond yields: \n",
+                            "disclosureDescription": "A. Yield to Maturity: The rate of return that an investor would earn if an investor buys the bond at its current market price & held it until maturity, Represents the discount rate which equates the discounted value of a bond’s future cash flows to its current market price. This is the most scientific tool used while valuing the bond securities.\n \nB. Yield to Call: The rate of return an investor would earn if an investor buys a callable bond at its current market price & hold it until the call date.\n \nC. Yield to Put: The rate of return an investor would earn if an investor buys a puttable bond at its current market price & hold it until the put date.\n \nD. Current Yield: It is calculated as annual Coupon divided by the market Price of the Bond.\n"
+                        },
+                        {
+                            "id": 18,
+                            "disclosureHeading": "What is the difference between coupon and yield? \n",
+                            "disclosureDescription": "Coupon is the interest received by the bond holder till maturity. Yield is the return received by the bond holder from his date of investment at the then prevailing market price of the bond. On the date of allotment when the price of the bond is at par the coupon and yield of a bond is the same. The yield may be different once the bond price changes based on demand and supply.\n"
+                        },
+                        {
+                            "id": 19,
+                            "disclosureHeading": "What is meant by clean price and dirty price in bonds?",
+                            "disclosureDescription": "A. Dirty Price: If the bond is traded between two coupon dates, the buyer of the bond will have to compensate the seller for that part of the period between coupons for which the seller owned the bond. The price arrived at after adjusting this factor (accrued interest) is called the Dirty Price. \n\nB. Clean Price: The price arrived at without adjusting the accrued interest component is called Clean Price.\n"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "__component": "block.cta",
+                    "content": "Let us have the opportunity to assist you better.",
+                    "buttonTheme": "primary",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 1,
+                            "attributes": {
+                                "name": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "alternativeText": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "caption": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "width": 1440,
+                                "height": 400,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "large_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 243.63,
+                                        "width": 1000,
+                                        "height": 278
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "small_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 52.1,
+                                        "width": 500,
+                                        "height": 139
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "medium_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 126.23,
+                                        "width": 750,
+                                        "height": 208
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 13.17,
+                                        "width": 245,
+                                        "height": 68
+                                    }
+                                },
+                                "hash": "closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 482.1,
+                                "url": "/uploads/closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-10T07:04:00.210Z",
+                                "updatedAt": "2022-10-12T09:47:36.234Z"
+                            }
+                        }
+                    },
+                    "button": {
+                        "id": 71,
+                        "href": "#",
+                        "label": "START INVESTING",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

@@ -1,0 +1,37 @@
+---
+import wealth_management from '../../../data/wealth-management.json'
+import AboutCard from '../../components/astro-blocks/AboutCard.astro';
+import Hero from '../../components/astro-blocks/Hero.astro';
+import HowCanWeHelpYou from '../../components/astro-blocks/HowCanWeHelpYou.astro';
+import OurClients from '../../components/astro-blocks/OurClients.astro';
+import WhomWeServe from '../../components/astro-blocks/WhomWeServe.astro';
+import Layout from "../../layouts/Layout.astro";
+---
+<Layout title="Wealth Management">
+    {
+      wealth_management?.attributes?.Blocks?.map((block: any) => {
+        return (
+          <>
+            {block?.__component === "block.hero" && <Hero blocks={block} />}
+            {block?.__component === "block.about-card" && (
+              <AboutCard data={block} />
+            )}
+  
+            {block?.__component === "block.how-can-we-help-you" && (
+              <HowCanWeHelpYou data={block} />
+            )}
+            {block?.__component === "block.our-clients" && (
+              <OurClients data={block} />
+            )}
+         
+            {block?.__component === "block.whom-we-serve" && (
+              <WhomWeServe data={block} />
+            )}
+         
+           
+           
+          </>
+        );
+      })
+    }
+  </Layout>

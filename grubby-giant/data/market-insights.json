@@ -1,0 +1,552 @@
+{
+    "data": [
+        {
+            "id": 299,
+            "attributes": {
+                "createdAt": "2023-12-11T04:45:20.722Z",
+                "title": "RBI Monetary Policy Update – Maintains Prolonged Pause",
+                "content": "#",
+                "updatedAt": "2023-12-11T04:48:48.376Z",
+                "publishedAt": "2023-12-11T04:45:22.972Z",
+                "slug": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Corp_Care_RBI_Policy_Maintains_Prolonged_Pause_08_dec_2023_5f0bb0ac82.pdf?updated_at=2023-12-11T04:45:07.921Z",
+                "category": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Investment",
+                            "createdAt": "2022-10-27T07:35:10.485Z",
+                            "updatedAt": "2023-03-29T06:42:47.325Z",
+                            "publishedAt": "2022-10-27T07:35:12.503Z"
+                        }
+                    }
+                },
+                "image": {
+                    "data": {
+                        "id": 1222,
+                        "attributes": {
+                            "name": "RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                            "alternativeText": "RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                            "caption": "RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                            "width": 1001,
+                            "height": 420,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b.png",
+                                    "hash": "large_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b",
+                                    "mime": "image/png",
+                                    "name": "large_RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                                    "path": null,
+                                    "size": 787.07,
+                                    "width": 1000,
+                                    "height": 420
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b.png",
+                                    "hash": "small_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b",
+                                    "mime": "image/png",
+                                    "name": "small_RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                                    "path": null,
+                                    "size": 235.43,
+                                    "width": 500,
+                                    "height": 210
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b.png",
+                                    "hash": "medium_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b",
+                                    "mime": "image/png",
+                                    "name": "medium_RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                                    "path": null,
+                                    "size": 478.91,
+                                    "width": 750,
+                                    "height": 315
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b.png",
+                                    "hash": "thumbnail_RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_RBI Monetary Policy Update – Maintains Prolonged Pause.png",
+                                    "path": null,
+                                    "size": 67.91,
+                                    "width": 245,
+                                    "height": 103
+                                }
+                            },
+                            "hash": "RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 560.59,
+                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/RBI_Monetary_Policy_Update_Maintains_Prolonged_Pause_155bbf061b.png",
+                            "previewUrl": null,
+                            "provider": "aws-s3",
+                            "provider_metadata": null,
+                            "createdAt": "2023-12-11T04:48:44.490Z",
+                            "updatedAt": "2023-12-11T04:48:44.490Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 295,
+            "attributes": {
+                "createdAt": "2023-12-06T05:53:37.601Z",
+                "title": "Risk& Reward Matrix- Money Market Fund- 05 Dec 2023",
+                "content": "#",
+                "updatedAt": "2023-12-06T05:53:39.280Z",
+                "publishedAt": "2023-12-06T05:53:39.276Z",
+                "slug": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Corp_Care_Money_Market_Rn_R_05_Dec2023_57fc4ad02e.pdf?updated_at=2023-12-06T05:53:26.413Z",
+                "category": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Investment",
+                            "createdAt": "2022-10-27T07:35:10.485Z",
+                            "updatedAt": "2023-03-29T06:42:47.325Z",
+                            "publishedAt": "2022-10-27T07:35:12.503Z"
+                        }
+                    }
+                },
+                "image": {
+                    "data": {
+                        "id": 1211,
+                        "attributes": {
+                            "name": "Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                            "alternativeText": "Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                            "caption": "Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                            "width": 1024,
+                            "height": 584,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac.png",
+                                    "hash": "large_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac",
+                                    "mime": "image/png",
+                                    "name": "large_Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                                    "path": null,
+                                    "size": 144.42,
+                                    "width": 1000,
+                                    "height": 570
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac.png",
+                                    "hash": "small_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac",
+                                    "mime": "image/png",
+                                    "name": "small_Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                                    "path": null,
+                                    "size": 46.75,
+                                    "width": 500,
+                                    "height": 285
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac.png",
+                                    "hash": "medium_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac",
+                                    "mime": "image/png",
+                                    "name": "medium_Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                                    "path": null,
+                                    "size": 89.05,
+                                    "width": 750,
+                                    "height": 428
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac.png",
+                                    "hash": "thumbnail_Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_Risk& Reward Matrix- Money Market fund- 05 dec 2023.png",
+                                    "path": null,
+                                    "size": 15.46,
+                                    "width": 245,
+                                    "height": 140
+                                }
+                            },
+                            "hash": "Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 127.63,
+                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Risk_and_Reward_Matrix_Money_Market_fund_05_dec_2023_d3672652ac.png",
+                            "previewUrl": null,
+                            "provider": "aws-s3",
+                            "provider_metadata": null,
+                            "createdAt": "2023-12-06T05:52:36.609Z",
+                            "updatedAt": "2023-12-06T05:52:36.609Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 291,
+            "attributes": {
+                "createdAt": "2023-12-05T05:15:56.585Z",
+                "title": "Risk& Reward Matrix- Ultra Short Duration Fund- 04 Dec 2023",
+                "content": "#",
+                "updatedAt": "2023-12-05T05:15:59.042Z",
+                "publishedAt": "2023-12-05T05:15:59.039Z",
+                "slug": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_04_dec_2023_c0bbb0e012.pdf?updated_at=2023-12-05T05:15:46.644Z",
+                "category": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Investment",
+                            "createdAt": "2022-10-27T07:35:10.485Z",
+                            "updatedAt": "2023-03-29T06:42:47.325Z",
+                            "publishedAt": "2022-10-27T07:35:12.503Z"
+                        }
+                    }
+                },
+                "image": {
+                    "data": {
+                        "id": 1203,
+                        "attributes": {
+                            "name": "Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                            "alternativeText": "Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                            "caption": "Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                            "width": 1236,
+                            "height": 679,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470.png",
+                                    "hash": "large_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470",
+                                    "mime": "image/png",
+                                    "name": "large_Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                                    "path": null,
+                                    "size": 152.6,
+                                    "width": 1000,
+                                    "height": 549
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470.png",
+                                    "hash": "small_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470",
+                                    "mime": "image/png",
+                                    "name": "small_Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                                    "path": null,
+                                    "size": 51.22,
+                                    "width": 500,
+                                    "height": 275
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470.png",
+                                    "hash": "medium_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470",
+                                    "mime": "image/png",
+                                    "name": "medium_Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                                    "path": null,
+                                    "size": 96.93,
+                                    "width": 750,
+                                    "height": 412
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470.png",
+                                    "hash": "thumbnail_Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_Risk& Reward Matrix - Ultra short duration fund- 04 dec 2023.png",
+                                    "path": null,
+                                    "size": 17.03,
+                                    "width": 245,
+                                    "height": 135
+                                }
+                            },
+                            "hash": "Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 175.34,
+                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Risk_and_Reward_Matrix_Ultra_short_duration_fund_04_dec_2023_828dbcf470.png",
+                            "previewUrl": null,
+                            "provider": "aws-s3",
+                            "provider_metadata": null,
+                            "createdAt": "2023-12-05T05:15:16.113Z",
+                            "updatedAt": "2023-12-05T05:15:16.113Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 285,
+            "attributes": {
+                "createdAt": "2023-11-21T06:39:25.569Z",
+                "title": "Risk& Reward Matrix- Low Duration Funds- 21 November 2023",
+                "content": "#",
+                "updatedAt": "2023-11-21T06:39:27.032Z",
+                "publishedAt": "2023-11-21T06:39:27.026Z",
+                "slug": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Corp_Care_Low_Duration_Rn_R_21_Nov2023_8a42163574.pdf?updated_at=2023-11-21T06:39:13.488Z",
+                "category": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Investment",
+                            "createdAt": "2022-10-27T07:35:10.485Z",
+                            "updatedAt": "2023-03-29T06:42:47.325Z",
+                            "publishedAt": "2022-10-27T07:35:12.503Z"
+                        }
+                    }
+                },
+                "image": {
+                    "data": {
+                        "id": 1184,
+                        "attributes": {
+                            "name": "Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                            "alternativeText": "Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                            "caption": "Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                            "width": 1009,
+                            "height": 567,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393.png",
+                                    "hash": "large_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393",
+                                    "mime": "image/png",
+                                    "name": "large_Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                                    "path": null,
+                                    "size": 143.39,
+                                    "width": 1000,
+                                    "height": 562
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393.png",
+                                    "hash": "small_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393",
+                                    "mime": "image/png",
+                                    "name": "small_Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                                    "path": null,
+                                    "size": 46.45,
+                                    "width": 500,
+                                    "height": 281
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393.png",
+                                    "hash": "medium_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393",
+                                    "mime": "image/png",
+                                    "name": "medium_Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                                    "path": null,
+                                    "size": 88.01,
+                                    "width": 750,
+                                    "height": 421
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393.png",
+                                    "hash": "thumbnail_Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_Risk& Reward Matrix- Low Duration Funds- 21 November 2023.png",
+                                    "path": null,
+                                    "size": 15.3,
+                                    "width": 245,
+                                    "height": 138
+                                }
+                            },
+                            "hash": "Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 123.74,
+                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Risk_and_Reward_Matrix_Low_Duration_Funds_21_November_2023_1115390393.png",
+                            "previewUrl": null,
+                            "provider": "aws-s3",
+                            "provider_metadata": null,
+                            "createdAt": "2023-11-21T06:38:48.519Z",
+                            "updatedAt": "2023-11-21T06:38:48.519Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 282,
+            "attributes": {
+                "createdAt": "2023-11-20T10:59:12.296Z",
+                "title": "Risk& Reward Matrix- Money Market Funds- 20th Nov 2023",
+                "content": "#",
+                "updatedAt": "2023-11-20T10:59:13.743Z",
+                "publishedAt": "2023-11-20T10:59:13.740Z",
+                "slug": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Corp_Care_Money_Market_Rn_R_20_Nov2023_51bc4db506.pdf?updated_at=2023-11-20T10:59:00.721Z",
+                "category": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Investment",
+                            "createdAt": "2022-10-27T07:35:10.485Z",
+                            "updatedAt": "2023-03-29T06:42:47.325Z",
+                            "publishedAt": "2022-10-27T07:35:12.503Z"
+                        }
+                    }
+                },
+                "image": {
+                    "data": {
+                        "id": 1178,
+                        "attributes": {
+                            "name": "Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                            "alternativeText": "Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                            "caption": "Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                            "width": 1009,
+                            "height": 580,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca.png",
+                                    "hash": "large_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca",
+                                    "mime": "image/png",
+                                    "name": "large_Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                                    "path": null,
+                                    "size": 145,
+                                    "width": 1000,
+                                    "height": 575
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca.png",
+                                    "hash": "small_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca",
+                                    "mime": "image/png",
+                                    "name": "small_Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                                    "path": null,
+                                    "size": 46.64,
+                                    "width": 500,
+                                    "height": 287
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca.png",
+                                    "hash": "medium_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca",
+                                    "mime": "image/png",
+                                    "name": "medium_Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                                    "path": null,
+                                    "size": 89.98,
+                                    "width": 750,
+                                    "height": 431
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca.png",
+                                    "hash": "thumbnail_Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_Risk& Reward Matrix- Money Market Funds- 20 Nov 2023.png",
+                                    "path": null,
+                                    "size": 15.53,
+                                    "width": 245,
+                                    "height": 141
+                                }
+                            },
+                            "hash": "Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 125.29,
+                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Risk_and_Reward_Matrix_Money_Market_Funds_20_Nov_2023_e5d2aa77ca.png",
+                            "previewUrl": null,
+                            "provider": "aws-s3",
+                            "provider_metadata": null,
+                            "createdAt": "2023-11-20T10:58:30.598Z",
+                            "updatedAt": "2023-11-20T10:58:30.598Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 280,
+            "attributes": {
+                "createdAt": "2023-11-20T05:19:09.081Z",
+                "title": "Risk& Reward Matrix- Ultra short Duration funds- 18 Nov 2023",
+                "content": "#",
+                "updatedAt": "2023-11-20T05:19:48.264Z",
+                "publishedAt": "2023-11-20T05:19:10.686Z",
+                "slug": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Corp_Care_Ultra_Short_D_Rn_R_18_Nov2023_002dfb2045.pdf?updated_at=2023-11-20T05:18:52.737Z",
+                "category": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Investment",
+                            "createdAt": "2022-10-27T07:35:10.485Z",
+                            "updatedAt": "2023-03-29T06:42:47.325Z",
+                            "publishedAt": "2022-10-27T07:35:12.503Z"
+                        }
+                    }
+                },
+                "image": {
+                    "data": {
+                        "id": 1174,
+                        "attributes": {
+                            "name": "Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                            "alternativeText": "Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                            "caption": "Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                            "width": 1030,
+                            "height": 571,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f.png",
+                                    "hash": "large_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f",
+                                    "mime": "image/png",
+                                    "name": "large_Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                                    "path": null,
+                                    "size": 143.38,
+                                    "width": 1000,
+                                    "height": 554
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f.png",
+                                    "hash": "small_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f",
+                                    "mime": "image/png",
+                                    "name": "small_Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                                    "path": null,
+                                    "size": 46.71,
+                                    "width": 500,
+                                    "height": 277
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f.png",
+                                    "hash": "medium_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f",
+                                    "mime": "image/png",
+                                    "name": "medium_Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                                    "path": null,
+                                    "size": 87.84,
+                                    "width": 750,
+                                    "height": 416
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f.png",
+                                    "hash": "thumbnail_Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_Risk& Reward Matrix- Ultra Short Duration Funds- 18 Nov 2023.png",
+                                    "path": null,
+                                    "size": 15.3,
+                                    "width": 245,
+                                    "height": 136
+                                }
+                            },
+                            "hash": "Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 127.33,
+                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Risk_and_Reward_Matrix_Ultra_Short_Duration_Funds_18_Nov_2023_6b4870843f.png",
+                            "previewUrl": null,
+                            "provider": "aws-s3",
+                            "provider_metadata": null,
+                            "createdAt": "2023-11-20T05:18:29.271Z",
+                            "updatedAt": "2023-11-20T05:18:29.271Z"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 6,
+            "pageCount": 14,
+            "total": 82
+        }
+    }
+}

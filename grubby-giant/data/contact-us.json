@@ -1,0 +1,350 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-11-04T07:54:57.692Z",
+            "updatedAt": "2023-01-02T10:20:51.259Z",
+            "publishedAt": "2022-11-04T08:01:02.218Z",
+            "Blocks": [
+                {
+                    "id": 14,
+                    "__component": "block.hero",
+                    "Content": "Connect with Us",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 152,
+                            "attributes": {
+                                "name": "image 38.png",
+                                "alternativeText": "image 38.png",
+                                "caption": "image 38.png",
+                                "width": 1440,
+                                "height": 620,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_image_38_93e65131d6.png",
+                                        "hash": "large_image_38_93e65131d6",
+                                        "mime": "image/png",
+                                        "name": "large_image 38.png",
+                                        "path": null,
+                                        "size": 416.41,
+                                        "width": 1000,
+                                        "height": 431
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_image_38_93e65131d6.png",
+                                        "hash": "small_image_38_93e65131d6",
+                                        "mime": "image/png",
+                                        "name": "small_image 38.png",
+                                        "path": null,
+                                        "size": 97.92,
+                                        "width": 500,
+                                        "height": 215
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_image_38_93e65131d6.png",
+                                        "hash": "medium_image_38_93e65131d6",
+                                        "mime": "image/png",
+                                        "name": "medium_image 38.png",
+                                        "path": null,
+                                        "size": 224.43,
+                                        "width": 750,
+                                        "height": 323
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_image_38_93e65131d6.png",
+                                        "hash": "thumbnail_image_38_93e65131d6",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_image 38.png",
+                                        "path": null,
+                                        "size": 24.43,
+                                        "width": 245,
+                                        "height": 105
+                                    }
+                                },
+                                "hash": "image_38_93e65131d6",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 705.22,
+                                "url": "/uploads/image_38_93e65131d6.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-11-04T07:08:47.700Z",
+                                "updatedAt": "2022-11-04T07:08:47.700Z"
+                            }
+                        }
+                    },
+                    "Button": null
+                },
+                {
+                    "id": 1,
+                    "__component": "block.contact-us-cards",
+                    "cards": [
+                        {
+                            "id": 8,
+                            "heading": "Phone Number",
+                            "subheading": null,
+                            "content": "+91- 84338 73580",
+                            "image": {
+                                "data": {
+                                    "id": 184,
+                                    "attributes": {
+                                        "name": "Group (35).png",
+                                        "alternativeText": "Group (35).png",
+                                        "caption": "Group (35).png",
+                                        "width": 45,
+                                        "height": 45,
+                                        "formats": null,
+                                        "hash": "Group_35_0b476a2f5d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.13,
+                                        "url": "/uploads/Group_35_0b476a2f5d.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:54:16.182Z",
+                                        "updatedAt": "2022-11-04T07:54:16.182Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 9,
+                            "heading": "Address",
+                            "subheading": null,
+                            "content": "CorpCare, Parinee Crescenzo, 1206, B Wing, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+                            "image": {
+                                "data": {
+                                    "id": 182,
+                                    "attributes": {
+                                        "name": "place 1.png",
+                                        "alternativeText": "place 1.png",
+                                        "caption": "place 1.png",
+                                        "width": 45,
+                                        "height": 45,
+                                        "formats": null,
+                                        "hash": "place_1_968f117ce0",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.15,
+                                        "url": "/uploads/place_1_968f117ce0.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:54:16.170Z",
+                                        "updatedAt": "2022-11-04T07:54:16.170Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 10,
+                            "heading": "Email Address",
+                            "subheading": null,
+                            "content": "contact@corpcare.co.in",
+                            "image": {
+                                "data": {
+                                    "id": 183,
+                                    "attributes": {
+                                        "name": "email 1.png",
+                                        "alternativeText": "email 1.png",
+                                        "caption": "email 1.png",
+                                        "width": 45,
+                                        "height": 45,
+                                        "formats": null,
+                                        "hash": "email_1_5203f2af12",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.54,
+                                        "url": "/uploads/email_1_5203f2af12.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:54:16.181Z",
+                                        "updatedAt": "2022-11-04T07:54:16.181Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                },
+                {
+                    "id": 1,
+                    "__component": "block.contact-us-form",
+                    "heading": "Any enquiry - Connect with us",
+                    "subheading": "We are happy to help you always",
+                    "miscellaneousFigure": [],
+                    "image": {
+                        "data": {
+                            "id": 185,
+                            "attributes": {
+                                "name": "close-up-image-male-hands-using-smartphone-with-icon-envelope-email-contact-us-customer-service-e-mail-marketing-concept 2.png",
+                                "alternativeText": "close-up-image-male-hands-using-smartphone-with-icon-envelope-email-contact-us-customer-service-e-mail-marketing-concept 2.png",
+                                "caption": "close-up-image-male-hands-using-smartphone-with-icon-envelope-email-contact-us-customer-service-e-mail-marketing-concept 2.png",
+                                "width": 460,
+                                "height": 646,
+                                "formats": {
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_close_up_image_male_hands_using_smartphone_with_icon_envelope_email_contact_us_customer_service_e_mail_marketing_concept_2_492171640c.png",
+                                        "hash": "small_close_up_image_male_hands_using_smartphone_with_icon_envelope_email_contact_us_customer_service_e_mail_marketing_concept_2_492171640c",
+                                        "mime": "image/png",
+                                        "name": "small_close-up-image-male-hands-using-smartphone-with-icon-envelope-email-contact-us-customer-service-e-mail-marketing-concept 2.png",
+                                        "path": null,
+                                        "size": 321.54,
+                                        "width": 356,
+                                        "height": 500
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_close_up_image_male_hands_using_smartphone_with_icon_envelope_email_contact_us_customer_service_e_mail_marketing_concept_2_492171640c.png",
+                                        "hash": "thumbnail_close_up_image_male_hands_using_smartphone_with_icon_envelope_email_contact_us_customer_service_e_mail_marketing_concept_2_492171640c",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_close-up-image-male-hands-using-smartphone-with-icon-envelope-email-contact-us-customer-service-e-mail-marketing-concept 2.png",
+                                        "path": null,
+                                        "size": 41.89,
+                                        "width": 111,
+                                        "height": 156
+                                    }
+                                },
+                                "hash": "close_up_image_male_hands_using_smartphone_with_icon_envelope_email_contact_us_customer_service_e_mail_marketing_concept_2_492171640c",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 344.17,
+                                "url": "/uploads/close_up_image_male_hands_using_smartphone_with_icon_envelope_email_contact_us_customer_service_e_mail_marketing_concept_2_492171640c.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-11-04T08:00:35.950Z",
+                                "updatedAt": "2022-11-04T08:00:35.950Z"
+                            }
+                        }
+                    },
+                    "formContactUs": {
+                        "data": {
+                            "id": 2,
+                            "attributes": {
+                                "title": "Connect With Us Form",
+                                "slug": "form-1",
+                                "createdAt": "2022-11-04T08:00:10.657Z",
+                                "updatedAt": "2022-11-04T08:00:11.882Z",
+                                "publishedAt": "2022-11-04T08:00:11.879Z",
+                                "inputs": [
+                                    {
+                                        "id": 5,
+                                        "name": "name",
+                                        "label": "Name",
+                                        "placeholder": "Enter Your Full Name",
+                                        "type": "text",
+                                        "validations": [
+                                            {
+                                                "type": "required",
+                                                "params": [
+                                                    "This field is required"
+                                                ]
+                                            }
+                                        ],
+                                        "validationType": "string"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "email",
+                                        "label": "Email",
+                                        "placeholder": "Enter Your Email Address",
+                                        "type": "text",
+                                        "validations": [
+                                            {
+                                                "type": "required",
+                                                "params": [
+                                                    "This field is required"
+                                                ]
+                                            },
+                                            {
+                                                "type": "email",
+                                                "params": [
+                                                    "please enter a valid email"
+                                                ]
+                                            }
+                                        ],
+                                        "validationType": "string"
+                                    },
+                                    {
+                                        "id": 7,
+                                        "name": "phone",
+                                        "label": "Phone",
+                                        "placeholder": "Enter Your Phone Number",
+                                        "type": "tel",
+                                        "validations": [
+                                            {
+                                                "type": "min",
+                                                "params": [
+                                                    100000000,
+                                                    "Please Enter a valid Phone Number"
+                                                ]
+                                            },
+                                            {
+                                                "type": "max",
+                                                "params": [
+                                                    9999999999,
+                                                    "Please Enter a valid Phone Number"
+                                                ]
+                                            },
+                                            {
+                                                "type": "required",
+                                                "params": [
+                                                    "Phone Number is required"
+                                                ]
+                                            },
+                                            {
+                                                "type": "typeError",
+                                                "params": [
+                                                    "Please Enter a valid Phone Number"
+                                                ]
+                                            }
+                                        ],
+                                        "validationType": "number"
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "message",
+                                        "label": "Message",
+                                        "placeholder": "Enter Your Message",
+                                        "type": "textarea",
+                                        "validations": [
+                                            {
+                                                "type": "required",
+                                                "params": [
+                                                    "This field is required"
+                                                ]
+                                            }
+                                        ],
+                                        "validationType": "string"
+                                    }
+                                ],
+                                "button": {
+                                    "id": 83,
+                                    "href": "#",
+                                    "label": "SUBMIT",
+                                    "target": null,
+                                    "isExternal": false,
+                                    "theme": "primary",
+                                    "linkImage": {
+                                        "data": null
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

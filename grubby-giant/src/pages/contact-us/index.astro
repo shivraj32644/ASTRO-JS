@@ -1,0 +1,38 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import contactUsData from "../../../data/contact-us.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import AboutCard from "../../components/astro-blocks/AboutCard.astro";
+import OurPartners from "../../components/astro-blocks/OurPartners.astro";
+import WhyCorpcareIsDifferent from "../../components/astro-blocks/WhyCorpcareIsDifferent.astro";
+import FAQ from "../../components/astro-blocks/FAQ.astro";
+import { Cta } from "../../components/react-blocks/Cta";
+import ContactUsCards from "../../components/astro-blocks/ContactUsCards.astro";
+import { RContactUsForm } from "../../components/react-blocks/RContactUsForm";
+---
+
+<Layout title="CorpCare">
+  {
+    contactUsData?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div >
+          <div>
+            {block?.__component === "block.hero" && <Hero blocks={block} />}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.contact-us-cards" && (
+              <ContactUsCards data={block} />
+            )}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.contact-us-form" && (
+              <RContactUsForm client:load data={block} />
+            )}
+          </div>
+          
+        
+        </div>
+      );
+    })
+  }
+</Layout>

@@ -1,0 +1,30 @@
+---
+import type { ICareersHero } from "../../../schemas/block";
+import { normalizeCmsImage } from "../../../utils/common";
+const { data }: { data?: ICareersHero } = Astro.props
+const image = normalizeCmsImage(data?.careerHeroData?.image);
+
+---
+
+    <div class="bg-white">
+      <div class="container mx-auto lg:p-10 p-5 flex flex-col items-center">
+        <h2
+          class="font-medium text-lg lg:text-xl tracking-[0.02em] text-brand uppercase text-left overflow-hidden before:h-[2px] after:h-[2px] after:bg-brand 
+           after:inline-block after:relative after:align-middle after:w-6
+           before:bg-brand before:inline-block before:relative before:align-middle 
+           before:w-6 before:right-2 after:left-2 
+           mb-2 lg:mb-4"
+        >
+          {data?.careerHeroData?.heading}
+        </h2>
+        <h2 class="text-[1.75rem] lg:text-[2rem] text-center mb-8 lg:mb-10">
+          {data?.careerHeroData?.subheading}
+        </h2>
+        <img
+          src={image.url}
+          alt={image.alternativeText}
+          class="w-full h-[13.75rem] lg:w-[71.25rem] lg:h-[27.5rem] object-cover rounded-md"
+        />
+      </div>
+    </div>
+  

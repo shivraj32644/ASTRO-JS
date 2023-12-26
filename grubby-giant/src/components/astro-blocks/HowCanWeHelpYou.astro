@@ -1,0 +1,49 @@
+---
+import classNames from "classnames";
+import { normalizeCmsImage } from "../../../utils/common";
+const { data }: any = Astro.props;
+import { RHowCanWeHelpYou } from "../react-blocks/RHowCanWeHelpYou.tsx";
+---
+
+<div class="bg-split-white-light-bottom lg:bg-split-white-light-left-40relative">
+  {data?.miscellaneousFigure?.map((item:any, index:any) => {
+    const figure = normalizeCmsImage(item?.figure);
+
+    return (
+      <div
+      
+        class={classNames(
+          'absolute',
+          item?.alignment === 'Top-Left' && 'top-0 left-0',
+          item?.alignment === 'Top-Right' && 'top-0 right-0',
+          item?.alignment === 'Bottom-Left' && 'bottom-0 left-0',
+          item?.alignment === 'Bottom-Right' && 'bottom-0 right-0',
+          item?.alignment === 'Center-Left' && 'bottom-1/2 left-0',
+          item?.alignment === 'Center-Right' && 'bottom-1/2 right-0'
+        )}
+      >
+        <img
+          src={figure?.url}
+          alt={figure?.alternativeText}
+          class="object-cover w-auto h-auto"
+        />
+      </div>
+    );
+  })}
+  <div class="container mx-auto  p-5 lg:p-10">
+    <h2
+      class="font-medium text-lg lg:text-xl  tracking-[0.02em] text-brand uppercase overflow-hidden before:h-[2px] after:h-[2px] after:bg-brand 
+       after:inline-block after:relative after:align-middle after:w-6
+       before:bg-brand before:inline-block before:relative before:align-middle 
+       before:w-6 before:right-2 after:left-2 p-4"
+    >
+      {data?.heading}
+    </h2>
+    <h1 class="font-medium text-2xl lg:text-[2.25rem] lg:leading-[3.5rem] tracking-[0.02em] text-[#191919] mb-10 lg:max-w-xl">
+      {data?.subHeading}
+    </h1>
+
+
+    <RHowCanWeHelpYou client:load data={data} />
+  </div>
+</div>

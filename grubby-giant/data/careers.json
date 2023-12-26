@@ -1,0 +1,525 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-11-04T07:52:13.675Z",
+            "updatedAt": "2023-11-09T05:55:11.945Z",
+            "publishedAt": "2022-11-04T07:52:23.271Z",
+            "Blocks": [
+                {
+                    "id": 1,
+                    "__component": "block.careers-hero",
+                    "careerHeroData": {
+                        "id": 5,
+                        "heading": "JOIN THE TEAM",
+                        "subheading": "Make Your Mark with Our Innovative and Dedicated Team",
+                        "content": "",
+                        "image": {
+                            "data": {
+                                "id": 171,
+                                "attributes": {
+                                    "name": "we-need-you-hiring-employment-work 1.png",
+                                    "alternativeText": "we-need-you-hiring-employment-work 1.png",
+                                    "caption": "we-need-you-hiring-employment-work 1.png",
+                                    "width": 1140,
+                                    "height": 440,
+                                    "formats": {
+                                        "large": {
+                                            "ext": ".png",
+                                            "url": "/uploads/large_we_need_you_hiring_employment_work_1_04e789052b.png",
+                                            "hash": "large_we_need_you_hiring_employment_work_1_04e789052b",
+                                            "mime": "image/png",
+                                            "name": "large_we-need-you-hiring-employment-work 1.png",
+                                            "path": null,
+                                            "size": 666.58,
+                                            "width": 1000,
+                                            "height": 386
+                                        },
+                                        "small": {
+                                            "ext": ".png",
+                                            "url": "/uploads/small_we_need_you_hiring_employment_work_1_04e789052b.png",
+                                            "hash": "small_we_need_you_hiring_employment_work_1_04e789052b",
+                                            "mime": "image/png",
+                                            "name": "small_we-need-you-hiring-employment-work 1.png",
+                                            "path": null,
+                                            "size": 173.73,
+                                            "width": 500,
+                                            "height": 193
+                                        },
+                                        "medium": {
+                                            "ext": ".png",
+                                            "url": "/uploads/medium_we_need_you_hiring_employment_work_1_04e789052b.png",
+                                            "hash": "medium_we_need_you_hiring_employment_work_1_04e789052b",
+                                            "mime": "image/png",
+                                            "name": "medium_we-need-you-hiring-employment-work 1.png",
+                                            "path": null,
+                                            "size": 377.09,
+                                            "width": 750,
+                                            "height": 289
+                                        },
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_we_need_you_hiring_employment_work_1_04e789052b.png",
+                                            "hash": "thumbnail_we_need_you_hiring_employment_work_1_04e789052b",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_we-need-you-hiring-employment-work 1.png",
+                                            "path": null,
+                                            "size": 48.14,
+                                            "width": 245,
+                                            "height": 95
+                                        }
+                                    },
+                                    "hash": "we_need_you_hiring_employment_work_1_04e789052b",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 681.28,
+                                    "url": "/uploads/we_need_you_hiring_employment_work_1_04e789052b.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-04T07:46:24.958Z",
+                                    "updatedAt": "2022-11-04T07:46:24.958Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "__component": "block.work-life-at-corp-care",
+                    "workLifeAtCorpCareData": {
+                        "id": 6,
+                        "heading": "You love working with us",
+                        "subheading": "Work Life at CorpCare",
+                        "content": "At CorpCare, you'll be part of a dynamic and supportive culture that encourages personal and professional development. We offer opportunities for growth and advancement within the company, as well as a supportive work environment that fosters creativity and collaboration.",
+                        "image": {
+                            "data": null
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": 72,
+                            "cardHeading": "Be Mindful",
+                            "cardDescription": "Whether you want to learn something new or improve skills we will help you all the ways",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 181,
+                                    "attributes": {
+                                        "name": "mind 1.png",
+                                        "alternativeText": "mind 1.png",
+                                        "caption": "mind 1.png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "mind_1_a4d9e3196b",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.23,
+                                        "url": "/uploads/mind_1_a4d9e3196b.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:50:55.879Z",
+                                        "updatedAt": "2022-11-04T07:50:55.879Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 73,
+                            "cardHeading": "Solve Elegantly",
+                            "cardDescription": "We value elegant problem-solving and encourage our team members to approach challenges with creativity and curiosity.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 180,
+                                    "attributes": {
+                                        "name": "Group (32).png",
+                                        "alternativeText": "Group (32).png",
+                                        "caption": "Group (32).png",
+                                        "width": 80,
+                                        "height": 70,
+                                        "formats": null,
+                                        "hash": "Group_32_00a3df1557",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.56,
+                                        "url": "/uploads/Group_32_00a3df1557.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:50:55.878Z",
+                                        "updatedAt": "2022-11-04T07:50:55.878Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 76,
+                            "cardHeading": "Debate Passionately",
+                            "cardDescription": "We believe that the best solutions come from a diverse range of perspectives, so we encourage passionate debate and open-minded collaboration.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 177,
+                                    "attributes": {
+                                        "name": "Group (33).png",
+                                        "alternativeText": "Group (33).png",
+                                        "caption": "Group (33).png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_33_d78ff444f2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.32,
+                                        "url": "/uploads/Group_33_d78ff444f2.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:50:55.875Z",
+                                        "updatedAt": "2022-11-04T07:50:55.875Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 74,
+                            "cardHeading": "Own the Outcome",
+                            "cardDescription": "We encourage our team members to be proactive and take initiative, and we reward those who go above and beyond to deliver results.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 179,
+                                    "attributes": {
+                                        "name": "income 1.png",
+                                        "alternativeText": "income 1.png",
+                                        "caption": "income 1.png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "income_1_7e841b2167",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.8,
+                                        "url": "/uploads/income_1_7e841b2167.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:50:55.878Z",
+                                        "updatedAt": "2022-11-04T07:50:55.878Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 75,
+                            "cardHeading": "Meet Great People",
+                            "cardDescription": "In addition to the opportunity to learn and grow, you'll also have the chance to meet and work with some truly remarkable and experienced people.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 178,
+                                    "attributes": {
+                                        "name": "Group (34).png",
+                                        "alternativeText": "Group (34).png",
+                                        "caption": "Group (34).png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_34_864e4fdf52",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.57,
+                                        "url": "/uploads/Group_34_864e4fdf52.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:50:55.877Z",
+                                        "updatedAt": "2022-11-04T07:50:55.877Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 77,
+                            "cardHeading": "Become a Better You ",
+                            "cardDescription": "We'll provide the support and resources you need to achieve your goals, and together, we'll make a difference in the world.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 176,
+                                    "attributes": {
+                                        "name": "XMLID_637_.png",
+                                        "alternativeText": "XMLID_637_.png",
+                                        "caption": "XMLID_637_.png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "XMLID_637_533e9fcf8c",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.05,
+                                        "url": "/uploads/XMLID_637_533e9fcf8c.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:50:55.861Z",
+                                        "updatedAt": "2022-11-04T07:50:55.861Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                },
+                {
+                    "id": 1,
+                    "__component": "block.be-the-part-of-corp-care-team",
+                    "items": [
+                        {
+                            "id": 78,
+                            "cardHeading": "Respect",
+                            "cardDescription": "We respect everyone’s choices and opinions. We strive to create an inclusive and respectful work environment where all team members feel valued and supported.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 175,
+                                    "attributes": {
+                                        "name": "business-contract-hand-putting-hand-shaking-wooden-cube-block-front-human-icon-business-deal-agreement-concept-business-communication-concept-marketing-shaking-hands-teamwork 1.png",
+                                        "alternativeText": "business-contract-hand-putting-hand-shaking-wooden-cube-block-front-human-icon-business-deal-agreement-concept-business-communication-concept-marketing-shaking-hands-teamwork 1.png",
+                                        "caption": "business-contract-hand-putting-hand-shaking-wooden-cube-block-front-human-icon-business-deal-agreement-concept-business-communication-concept-marketing-shaking-hands-teamwork 1.png",
+                                        "width": 340,
+                                        "height": 340,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_business_contract_hand_putting_hand_shaking_wooden_cube_block_front_human_icon_business_deal_agreement_concept_business_communication_concept_marketing_shaking_hands_teamwork_1_cc0cc11b6d.png",
+                                                "hash": "thumbnail_business_contract_hand_putting_hand_shaking_wooden_cube_block_front_human_icon_business_deal_agreement_concept_business_communication_concept_marketing_shaking_hands_teamwork_1_cc0cc11b6d",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_business-contract-hand-putting-hand-shaking-wooden-cube-block-front-human-icon-business-deal-agreement-concept-business-communication-concept-marketing-shaking-hands-teamwork 1.png",
+                                                "path": null,
+                                                "size": 42.3,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "business_contract_hand_putting_hand_shaking_wooden_cube_block_front_human_icon_business_deal_agreement_concept_business_communication_concept_marketing_shaking_hands_teamwork_1_cc0cc11b6d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 121.16,
+                                        "url": "/uploads/business_contract_hand_putting_hand_shaking_wooden_cube_block_front_human_icon_business_deal_agreement_concept_business_communication_concept_marketing_shaking_hands_teamwork_1_cc0cc11b6d.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:48:25.483Z",
+                                        "updatedAt": "2022-11-04T07:48:25.483Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 79,
+                            "cardHeading": "Trust",
+                            "cardDescription": "We believe that trust is earned through open and honest communication, and we encourage our team members to be transparent in their actions and decisions.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 173,
+                                    "attributes": {
+                                        "name": "image 18.png",
+                                        "alternativeText": "image 18.png",
+                                        "caption": "image 18.png",
+                                        "width": 340,
+                                        "height": 340,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_image_18_95b185fdc6.png",
+                                                "hash": "thumbnail_image_18_95b185fdc6",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_image 18.png",
+                                                "path": null,
+                                                "size": 42.01,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "image_18_95b185fdc6",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 141.16,
+                                        "url": "/uploads/image_18_95b185fdc6.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:48:25.416Z",
+                                        "updatedAt": "2022-11-04T07:48:25.416Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 80,
+                            "cardHeading": "Transparency",
+                            "cardDescription": "We believe that being open and transparent helps us build trust with our customers and partners, and allows us to create more value for everyone involved.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 174,
+                                    "attributes": {
+                                        "name": "multi-ethnic-group-three-businesspeople-meeting-modern-office-two-women-man-wearing-suit-looking-laptop-computer 1.png",
+                                        "alternativeText": "multi-ethnic-group-three-businesspeople-meeting-modern-office-two-women-man-wearing-suit-looking-laptop-computer 1.png",
+                                        "caption": "multi-ethnic-group-three-businesspeople-meeting-modern-office-two-women-man-wearing-suit-looking-laptop-computer 1.png",
+                                        "width": 340,
+                                        "height": 340,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_multi_ethnic_group_three_businesspeople_meeting_modern_office_two_women_man_wearing_suit_looking_laptop_computer_1_4d9ecb1bb3.png",
+                                                "hash": "thumbnail_multi_ethnic_group_three_businesspeople_meeting_modern_office_two_women_man_wearing_suit_looking_laptop_computer_1_4d9ecb1bb3",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_multi-ethnic-group-three-businesspeople-meeting-modern-office-two-women-man-wearing-suit-looking-laptop-computer 1.png",
+                                                "path": null,
+                                                "size": 52.68,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "multi_ethnic_group_three_businesspeople_meeting_modern_office_two_women_man_wearing_suit_looking_laptop_computer_1_4d9ecb1bb3",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 170.87,
+                                        "url": "/uploads/multi_ethnic_group_three_businesspeople_meeting_modern_office_two_women_man_wearing_suit_looking_laptop_computer_1_4d9ecb1bb3.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T07:48:25.475Z",
+                                        "updatedAt": "2022-11-04T07:48:25.475Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": [],
+                    "beThePartOfCorpCareData": {
+                        "id": 7,
+                        "heading": "Be the part of CorpCare team",
+                        "subheading": null,
+                        "content": "As a member of the CorpCare team, you'll have the opportunity to contribute your skills and expertise to help us deliver innovative, customer-centric solutions that drive business growth. We believe in the power of collaboration and are always looking for talented and passionate individuals to join our team. Together, we'll work towards common goals and achieve success.\n\nIf you're ready to take your career to the next level and be a part of a remarkable team, we encourage you to apply to join the CorpCare team. Together, we'll co-create customer-centric solutions and capture new financial markets. Let's grow and build together!\n",
+                        "image": {
+                            "data": {
+                                "id": 172,
+                                "attributes": {
+                                    "name": "team-business-people-stacking-hands 2.png",
+                                    "alternativeText": "team-business-people-stacking-hands 2.png",
+                                    "caption": "team-business-people-stacking-hands 2.png",
+                                    "width": 660,
+                                    "height": 540,
+                                    "formats": {
+                                        "small": {
+                                            "ext": ".png",
+                                            "url": "/uploads/small_team_business_people_stacking_hands_2_b98df8ed00.png",
+                                            "hash": "small_team_business_people_stacking_hands_2_b98df8ed00",
+                                            "mime": "image/png",
+                                            "name": "small_team-business-people-stacking-hands 2.png",
+                                            "path": null,
+                                            "size": 535.51,
+                                            "width": 500,
+                                            "height": 409
+                                        },
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_team_business_people_stacking_hands_2_b98df8ed00.png",
+                                            "hash": "thumbnail_team_business_people_stacking_hands_2_b98df8ed00",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_team-business-people-stacking-hands 2.png",
+                                            "path": null,
+                                            "size": 86.41,
+                                            "width": 191,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "team_business_people_stacking_hands_2_b98df8ed00",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 668.94,
+                                    "url": "/uploads/team_business_people_stacking_hands_2_b98df8ed00.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-04T07:47:47.899Z",
+                                    "updatedAt": "2022-11-04T07:47:47.899Z"
+                                }
+                            }
+                        }
+                    },
+                    "ctaLink": {
+                        "id": 82,
+                        "href": "#",
+                        "label": "OPEN POSITIONS",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "__component": "block.join-our-team",
+                    "heading": "JOIN OUR TEAM",
+                    "subheading": "Open Positions",
+                    "miscellaneousFigure": [],
+                    "positions": [
+                        {
+                            "id": 1,
+                            "role": "Manager - Customer Success",
+                            "description": "Job Description:\n\nAs a Customer Success Manager, you will work with the growing number Clients to manage the customer and/or partner relationship through their onboarding, configuration and their satisfaction by serving them as appropriate. Customer Success Managers act as an advisor for product and strategic decisions from customer point of view. In this role, you will plan, manage and execute communication and training programs that directly support the ongoing success and adoption of the services.\n\nRequirements:\n\n- A minimum of 8 years of experience with a minimum of 3 years of experience in a leadership role.\n- Should have managed a team size of 20 people.\n- Graduate in any stream/ MBA would be an added advantage.\n- Good knowledge of conducting RCA.\n- Should be proficient in MS Office- Word, Excel and PowerPoint.\n\nKey Responsibilities:\n\n-  Analysing performance against standard parameters.\n-  Providing feedback to Agents.\n-  Conduct refresher training.\n- Managing & motivating the team to improve the overall customer experience\n- Maintaining dashboard & reports to be sent out to the stakeholders.\n-  Providing actionable data to various internal support groups as needed.\n-  To use a quality monitoring data management system to compile and track at the individual level.\n-  Conduct Performance Management & Appraisals\n-  Design and modify training modules whenever required.\n-  Manage attrition & detect earlier behaviours.",
+                            "applyLink": {
+                                "id": 81,
+                                "href": "#",
+                                "label": "APPLY NOW",
+                                "target": null,
+                                "isExternal": false,
+                                "theme": "primary",
+                                "linkImage": {
+                                    "data": null
+                                }
+                            }
+                        },
+                        {
+                            "id": 34,
+                            "role": "Python Developer",
+                            "description": "Job Description: \n\nWe are seeking a skilled and motivated Python Developer to join our team in building innovative solutions. In this role, you will be responsible for creating and maintaining software using Python, as well as working with the rest of the development team to improve the overall quality of our products.\n\nResponsibilities:\n\n- Design, develop, and maintain high-quality software using Python\n- Build the workers in AWS and use of AWS services\n- Collaborate with cross-functional teams to gather requirements and determine project     scope\n- Debug and resolve technical issues in existing software systems\n- Participate in code reviews and ensure that all code is maintainable, scalable, and follows best practices\n- Write and maintain documentation for software systems \n- Continuously learn and stay up-to-date with industry trends and new technologies\n\nQualifications:\n\n- Strong experience with Python programming language including Django and Fast APIs\n- Understanding of software development best practices, such as version control, testing, and continuous integration/deployment\n- Excellent problem-solving skills and the ability to think creatively\n- Good understanding of data structures and algorithms\n- Knowledge of SQL and database management systems\n- Experience with agile development methodologies\n- Strong written and verbal communication skills\n- A bachelor's degree in computer science, software engineering, or a related field is preferred.\n\n\n",
+                            "applyLink": {
+                                "id": 138,
+                                "href": "#",
+                                "label": "APPLY NOW",
+                                "target": null,
+                                "isExternal": false,
+                                "theme": "primary",
+                                "linkImage": {
+                                    "data": null
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

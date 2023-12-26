@@ -1,0 +1,15 @@
+---
+
+
+import classNames from 'classnames';
+import { useEffect, useState } from 'react';
+import RequestDemoModal from '../shared/RequestDemoModal';
+import axios from 'axios';
+import {RExploreMutualFunds} from '../react-blocks/RExploreMutualFunds'
+const {data} = Astro.props
+
+
+  
+---
+
+<RExploreMutualFunds client:load data={data}/>

@@ -1,0 +1,1747 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-10-31T05:58:12.334Z",
+            "updatedAt": "2023-06-06T04:39:57.157Z",
+            "publishedAt": "2022-11-09T06:09:04.536Z",
+            "Blocks": [
+                {
+                    "id": 11,
+                    "__component": "block.hero",
+                    "Content": "CorpCare assists in selecting best fund and managing investments in most convenient way",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 137,
+                            "attributes": {
+                                "name": "lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                "alternativeText": "lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                "caption": "lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                "width": 1440,
+                                "height": 620,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7.png",
+                                        "hash": "large_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7",
+                                        "mime": "image/png",
+                                        "name": "large_lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                        "path": null,
+                                        "size": 349.58,
+                                        "width": 1000,
+                                        "height": 431
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7.png",
+                                        "hash": "small_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7",
+                                        "mime": "image/png",
+                                        "name": "small_lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                        "path": null,
+                                        "size": 70.46,
+                                        "width": 500,
+                                        "height": 215
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7.png",
+                                        "hash": "medium_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7",
+                                        "mime": "image/png",
+                                        "name": "medium_lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                        "path": null,
+                                        "size": 176.92,
+                                        "width": 750,
+                                        "height": 323
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7.png",
+                                        "hash": "thumbnail_lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_lightbulb-lamp-electrical-technology-energy-power-decoration-ornament-start-business-economy-intelligent-brainstorm-strategy-idea-genius-vision-smart-educate-successful-teamwork-group3d-render (1).png",
+                                        "path": null,
+                                        "size": 16.78,
+                                        "width": 245,
+                                        "height": 105
+                                    }
+                                },
+                                "hash": "lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 611.03,
+                                "url": "/uploads/lightbulb_lamp_electrical_technology_energy_power_decoration_ornament_start_business_economy_intelligent_brainstorm_strategy_idea_genius_vision_smart_educate_successful_teamwork_group3d_render_1_76378f66c7.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-31T05:47:09.747Z",
+                                "updatedAt": "2022-10-31T05:47:09.747Z"
+                            }
+                        }
+                    },
+                    "Button": {
+                        "id": 9,
+                        "theme": "primary",
+                        "link": {
+                            "id": 74,
+                            "href": "#",
+                            "label": "Get Started",
+                            "target": null,
+                            "isExternal": false,
+                            "theme": "primary",
+                            "linkImage": {
+                                "data": null
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "__component": "block.col-tabs",
+                    "heading": "All Transactions, one platform",
+                    "subHeading": "Explore, compare and transact based \non your financial goal",
+                    "tabs": [
+                        {
+                            "id": 13,
+                            "panelHeading": "Explore & Compare ",
+                            "panelDescription": " CorpCare’s platform allows user to easily explore and compare different set of mutual funds, so they can find the best options for their investment goals depending upon their requirement",
+                            "panelImage": {
+                                "data": {
+                                    "id": 48,
+                                    "attributes": {
+                                        "name": "Group 241302.png",
+                                        "alternativeText": "Group 241302.png",
+                                        "caption": "Group 241302.png",
+                                        "width": 524,
+                                        "height": 320,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241302_ff76e26dab.png",
+                                                "hash": "small_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241302.png",
+                                                "path": null,
+                                                "size": 62.54,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241302_ff76e26dab.png",
+                                                "hash": "thumbnail_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241302.png",
+                                                "path": null,
+                                                "size": 19.7,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241302_ff76e26dab",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 42,
+                                        "url": "/uploads/Group_241302_ff76e26dab.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:24:39.228Z",
+                                        "updatedAt": "2022-10-20T07:24:39.228Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 44,
+                                    "attributes": {
+                                        "name": "Group(11).png",
+                                        "alternativeText": "Group(11).png",
+                                        "caption": "Group(11).png",
+                                        "width": 33,
+                                        "height": 33,
+                                        "formats": null,
+                                        "hash": "Group_11_c40cd222b2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.54,
+                                        "url": "/uploads/Group_11_c40cd222b2.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:23:10.526Z",
+                                        "updatedAt": "2022-10-20T07:23:10.526Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 14,
+                            "panelHeading": "Top funds",
+                            "panelDescription": " CorpCare’s Research team highlights the top-performing mutual funds on its platform, making it easy for users to identify the best options for their portfolio",
+                            "panelImage": {
+                                "data": {
+                                    "id": 48,
+                                    "attributes": {
+                                        "name": "Group 241302.png",
+                                        "alternativeText": "Group 241302.png",
+                                        "caption": "Group 241302.png",
+                                        "width": 524,
+                                        "height": 320,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241302_ff76e26dab.png",
+                                                "hash": "small_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241302.png",
+                                                "path": null,
+                                                "size": 62.54,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241302_ff76e26dab.png",
+                                                "hash": "thumbnail_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241302.png",
+                                                "path": null,
+                                                "size": 19.7,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241302_ff76e26dab",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 42,
+                                        "url": "/uploads/Group_241302_ff76e26dab.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:24:39.228Z",
+                                        "updatedAt": "2022-10-20T07:24:39.228Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 45,
+                                    "attributes": {
+                                        "name": "XMLID_457_.png",
+                                        "alternativeText": "XMLID_457_.png",
+                                        "caption": "XMLID_457_.png",
+                                        "width": 33,
+                                        "height": 33,
+                                        "formats": null,
+                                        "hash": "XMLID_457_89d1350073",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.57,
+                                        "url": "/uploads/XMLID_457_89d1350073.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:23:10.734Z",
+                                        "updatedAt": "2022-10-20T07:23:10.734Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "panelHeading": "Portfolio Analysis & Restructuring",
+                            "panelDescription": "CorpCare’s platform offers advanced portfolio analysis tools that help users understand the risk and performance of their investments, and assists in improving their portfolio structure",
+                            "panelImage": {
+                                "data": {
+                                    "id": 48,
+                                    "attributes": {
+                                        "name": "Group 241302.png",
+                                        "alternativeText": "Group 241302.png",
+                                        "caption": "Group 241302.png",
+                                        "width": 524,
+                                        "height": 320,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241302_ff76e26dab.png",
+                                                "hash": "small_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241302.png",
+                                                "path": null,
+                                                "size": 62.54,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241302_ff76e26dab.png",
+                                                "hash": "thumbnail_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241302.png",
+                                                "path": null,
+                                                "size": 19.7,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241302_ff76e26dab",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 42,
+                                        "url": "/uploads/Group_241302_ff76e26dab.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:24:39.228Z",
+                                        "updatedAt": "2022-10-20T07:24:39.228Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 46,
+                                    "attributes": {
+                                        "name": "Group(12).png",
+                                        "alternativeText": "Group(12).png",
+                                        "caption": "Group(12).png",
+                                        "width": 33,
+                                        "height": 33,
+                                        "formats": null,
+                                        "hash": "Group_12_56c8ea10a2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.59,
+                                        "url": "/uploads/Group_12_56c8ea10a2.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:23:10.735Z",
+                                        "updatedAt": "2022-10-20T07:23:10.735Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 16,
+                            "panelHeading": "Purchase, Redeem or Switch",
+                            "panelDescription": "CorpCare’s platform makes it easy for users to buy and sell mutual funds, with seamless integration of their existing investments, further making it simple and hassle free though unique technology-driven approach",
+                            "panelImage": {
+                                "data": {
+                                    "id": 48,
+                                    "attributes": {
+                                        "name": "Group 241302.png",
+                                        "alternativeText": "Group 241302.png",
+                                        "caption": "Group 241302.png",
+                                        "width": 524,
+                                        "height": 320,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241302_ff76e26dab.png",
+                                                "hash": "small_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241302.png",
+                                                "path": null,
+                                                "size": 62.54,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241302_ff76e26dab.png",
+                                                "hash": "thumbnail_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241302.png",
+                                                "path": null,
+                                                "size": 19.7,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241302_ff76e26dab",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 42,
+                                        "url": "/uploads/Group_241302_ff76e26dab.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:24:39.228Z",
+                                        "updatedAt": "2022-10-20T07:24:39.228Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 47,
+                                    "attributes": {
+                                        "name": "Group(13).png",
+                                        "alternativeText": "Group(13).png",
+                                        "caption": "Group(13).png",
+                                        "width": 33,
+                                        "height": 31,
+                                        "formats": null,
+                                        "hash": "Group_13_969738d6a6",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.47,
+                                        "url": "/uploads/Group_13_969738d6a6.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:23:10.738Z",
+                                        "updatedAt": "2022-10-20T07:23:10.738Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 17,
+                            "panelHeading": "Easy Monitoring",
+                            "panelDescription": "CorpCare’s platform provides users with real-time updates on their mutual fund investments, so they can easily track their portfolio and its performance at consolidated level and take informed decisions",
+                            "panelImage": {
+                                "data": {
+                                    "id": 48,
+                                    "attributes": {
+                                        "name": "Group 241302.png",
+                                        "alternativeText": "Group 241302.png",
+                                        "caption": "Group 241302.png",
+                                        "width": 524,
+                                        "height": 320,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241302_ff76e26dab.png",
+                                                "hash": "small_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241302.png",
+                                                "path": null,
+                                                "size": 62.54,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241302_ff76e26dab.png",
+                                                "hash": "thumbnail_Group_241302_ff76e26dab",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241302.png",
+                                                "path": null,
+                                                "size": 19.7,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241302_ff76e26dab",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 42,
+                                        "url": "/uploads/Group_241302_ff76e26dab.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:24:39.228Z",
+                                        "updatedAt": "2022-10-20T07:24:39.228Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 210,
+                                    "attributes": {
+                                        "name": "shield (1) 1.png",
+                                        "alternativeText": "shield (1) 1.png",
+                                        "caption": "shield (1) 1.png",
+                                        "width": 128,
+                                        "height": 128,
+                                        "formats": null,
+                                        "hash": "shield_1_1_30a3ba4179",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 3.01,
+                                        "url": "/uploads/shield_1_1_30a3ba4179.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-08T09:45:56.837Z",
+                                        "updatedAt": "2022-12-16T12:30:16.532Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                },
+                {
+                    "id": 3,
+                    "__component": "block.product-features",
+                    "heading": "Strategic features",
+                    "miscellaneousFigure": [],
+                    "productCard": [
+                        {
+                            "id": 53,
+                            "cardHeading": "In-depth Client Goal Analysis",
+                            "cardDescription": "CorpCare’s platform offers a thorough analysis of each client's investment goals, including their risk tolerance and long-term objectives, to help them select the best mutual funds for their portfolio",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 41,
+                                    "attributes": {
+                                        "name": "Group(8).png",
+                                        "alternativeText": "Group(8).png",
+                                        "caption": "Group(8).png",
+                                        "width": 66,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_8_1a11ab9cef",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.09,
+                                        "url": "/uploads/Group_8_1a11ab9cef.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:20:36.150Z",
+                                        "updatedAt": "2022-10-20T07:20:36.150Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 54,
+                            "cardHeading": "Customized and Innovative Solutions",
+                            "cardDescription": "CorpCare provide customized investment recommendations based on each client's unique financial situation, using innovative tools and techniques to ensure that their portfolio is optimized for their goals",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 42,
+                                    "attributes": {
+                                        "name": "Group(9).png",
+                                        "alternativeText": "Group(9).png",
+                                        "caption": "Group(9).png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_9_5317295be3",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.56,
+                                        "url": "/uploads/Group_9_5317295be3.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:20:36.148Z",
+                                        "updatedAt": "2022-10-20T07:20:36.148Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 55,
+                            "cardHeading": "Portfolio Review",
+                            "cardDescription": "CorpCare’s platform includes regular portfolio review sessions with financial experts, to help clients stay on track and make any necessary adjustments to their investments",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 42,
+                                    "attributes": {
+                                        "name": "Group(9).png",
+                                        "alternativeText": "Group(9).png",
+                                        "caption": "Group(9).png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_9_5317295be3",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.56,
+                                        "url": "/uploads/Group_9_5317295be3.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T07:20:36.148Z",
+                                        "updatedAt": "2022-10-20T07:20:36.148Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 104,
+                            "cardHeading": "Constant Monitoring",
+                            "cardDescription": "CorpCare offer constant monitoring of mutual fund performance and market trends, providing clients with real-time updates and alerts to help them stay informed and make informed investment decisions",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 249,
+                                    "attributes": {
+                                        "name": "Group (1).png",
+                                        "alternativeText": "Group (1).png",
+                                        "caption": "Group (1).png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_1_c28db89d76",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.06,
+                                        "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Group_1_c28db89d76.png",
+                                        "previewUrl": null,
+                                        "provider": "aws-s3",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-28T10:09:34.980Z",
+                                        "updatedAt": "2022-12-28T10:09:34.980Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "subHeadingParts": [
+                        {
+                            "id": 12,
+                            "text": "One app, ",
+                            "color": "black"
+                        },
+                        {
+                            "id": 13,
+                            "text": "multiple features ",
+                            "color": "brand"
+                        },
+                        {
+                            "id": 14,
+                            "text": "with continous expertise support",
+                            "color": "black"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "__component": "block.the-way-it-works",
+                    "heading": "The way it works",
+                    "subheading": "How to invest in Mutual Funds  through CorpCare",
+                    "theme": "black",
+                    "miscellaneousFigure": [],
+                    "items": [
+                        {
+                            "id": 57,
+                            "cardHeading": "Explore",
+                            "cardDescription": "Users can start by exploring the various mutual fund options available on CorpCare platform, using the comparison tools and expert recommendations to identify the best options for their investment goals",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 139,
+                                    "attributes": {
+                                        "name": "edit 1.png",
+                                        "alternativeText": "edit 1.png",
+                                        "caption": "edit 1.png",
+                                        "width": 80,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "edit_1_dd9f388556",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.96,
+                                        "url": "/uploads/edit_1_dd9f388556.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-31T05:54:41.676Z",
+                                        "updatedAt": "2022-10-31T05:54:41.676Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 59,
+                            "cardHeading": "Register",
+                            "cardDescription": "To invest in mutual funds through CorpCare, users will need to register for an account and provide some basic personal and financial information",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 140,
+                                    "attributes": {
+                                        "name": "Group (21).png",
+                                        "alternativeText": "Group (21).png",
+                                        "caption": "Group (21).png",
+                                        "width": 80,
+                                        "height": 81,
+                                        "formats": null,
+                                        "hash": "Group_21_4460293530",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.98,
+                                        "url": "/uploads/Group_21_4460293530.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-31T05:54:41.684Z",
+                                        "updatedAt": "2022-10-31T05:54:41.684Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 58,
+                            "cardHeading": "Invest",
+                            "cardDescription": "Once registered, users can easily invest in mutual funds through CorpCare platform",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 138,
+                                    "attributes": {
+                                        "name": "Group (22).png",
+                                        "alternativeText": "Group (22).png",
+                                        "caption": "Group (22).png",
+                                        "width": 62,
+                                        "height": 81,
+                                        "formats": null,
+                                        "hash": "Group_22_61d01eae75",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.81,
+                                        "url": "/uploads/Group_22_61d01eae75.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-31T05:54:41.634Z",
+                                        "updatedAt": "2022-10-31T05:54:41.634Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 60,
+                            "cardHeading": "Track",
+                            "cardDescription": "After investing, users can easily track the performance of their mutual fund investments through CorpCare platform, with real-time updates and alerts to help them stay informed and make informed decisions",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 138,
+                                    "attributes": {
+                                        "name": "Group (22).png",
+                                        "alternativeText": "Group (22).png",
+                                        "caption": "Group (22).png",
+                                        "width": 62,
+                                        "height": 81,
+                                        "formats": null,
+                                        "hash": "Group_22_61d01eae75",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.81,
+                                        "url": "/uploads/Group_22_61d01eae75.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-31T05:54:41.634Z",
+                                        "updatedAt": "2022-10-31T05:54:41.634Z"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "__component": "block.explore-mutual-funds",
+                    "heading": "Explore Mutual Funds",
+                    "subHeading": "We are here to optimize your Risk Adjusted Returns on investments"
+                },
+                {
+                    "id": 8,
+                    "__component": "block.our-partners",
+                    "Heading": "Collaborators",
+                    "SubHeading": null,
+                    "Theme": "Main Page Background",
+                    "miscellaneousFigure": [],
+                    "PartnerImages": {
+                        "data": [
+                            {
+                                "id": 418,
+                                "attributes": {
+                                    "name": "abc.jpg",
+                                    "alternativeText": "abc.jpg",
+                                    "caption": "abc.jpg",
+                                    "width": 85,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "abc_a707076b6e",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.23,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/abc_a707076b6e.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.213Z",
+                                    "updatedAt": "2023-02-01T07:46:49.213Z"
+                                }
+                            },
+                            {
+                                "id": 408,
+                                "attributes": {
+                                    "name": "axis-mf.jpg",
+                                    "alternativeText": "axis-mf.jpg",
+                                    "caption": "axis-mf.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "axis_mf_0ab7912992",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.5,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/axis_mf_0ab7912992.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.180Z",
+                                    "updatedAt": "2023-02-01T07:46:49.180Z"
+                                }
+                            },
+                            {
+                                "id": 406,
+                                "attributes": {
+                                    "name": "boi-mf.jpg",
+                                    "alternativeText": "boi-mf.jpg",
+                                    "caption": "boi-mf.jpg",
+                                    "width": 210,
+                                    "height": 148,
+                                    "formats": null,
+                                    "hash": "boi_mf_d0b778b573",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.9,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/boi_mf_d0b778b573.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.182Z",
+                                    "updatedAt": "2023-02-01T07:46:49.182Z"
+                                }
+                            },
+                            {
+                                "id": 397,
+                                "attributes": {
+                                    "name": "bnp.jpg",
+                                    "alternativeText": "bnp.jpg",
+                                    "caption": "bnp.jpg",
+                                    "width": 160,
+                                    "height": 38,
+                                    "formats": null,
+                                    "hash": "bnp_f991db6432",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 8.55,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/bnp_f991db6432.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.163Z",
+                                    "updatedAt": "2023-02-01T07:46:49.163Z"
+                                }
+                            },
+                            {
+                                "id": 392,
+                                "attributes": {
+                                    "name": "canara.jpg",
+                                    "alternativeText": "canara.jpg",
+                                    "caption": "canara.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "canara_9081f96849",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.33,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/canara_9081f96849.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:48.400Z",
+                                    "updatedAt": "2023-02-01T07:46:48.400Z"
+                                }
+                            },
+                            {
+                                "id": 424,
+                                "attributes": {
+                                    "name": "dsp.jpg",
+                                    "alternativeText": "dsp.jpg",
+                                    "caption": "dsp.jpg",
+                                    "width": 160,
+                                    "height": 58,
+                                    "formats": null,
+                                    "hash": "dsp_a12771d3a2",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.14,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/dsp_a12771d3a2.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.243Z",
+                                    "updatedAt": "2023-02-01T07:46:49.243Z"
+                                }
+                            },
+                            {
+                                "id": 393,
+                                "attributes": {
+                                    "name": "edelweiss.jpg",
+                                    "alternativeText": "edelweiss.jpg",
+                                    "caption": "edelweiss.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "edelweiss_0dc657bc4a",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.79,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/edelweiss_0dc657bc4a.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:48.401Z",
+                                    "updatedAt": "2023-02-01T07:46:48.401Z"
+                                }
+                            },
+                            {
+                                "id": 402,
+                                "attributes": {
+                                    "name": "franklin.jpg",
+                                    "alternativeText": "franklin.jpg",
+                                    "caption": "franklin.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "franklin_e815e088cb",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.02,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/franklin_e815e088cb.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.179Z",
+                                    "updatedAt": "2023-02-01T07:46:49.179Z"
+                                }
+                            },
+                            {
+                                "id": 394,
+                                "attributes": {
+                                    "name": "hdfc.jpg",
+                                    "alternativeText": "hdfc.jpg",
+                                    "caption": "hdfc.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "hdfc_6976628246",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.2,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/hdfc_6976628246.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:48.406Z",
+                                    "updatedAt": "2023-02-01T07:46:48.406Z"
+                                }
+                            },
+                            {
+                                "id": 398,
+                                "attributes": {
+                                    "name": "hsbc.jpg",
+                                    "alternativeText": "hsbc.jpg",
+                                    "caption": "hsbc.jpg",
+                                    "width": 160,
+                                    "height": 51,
+                                    "formats": null,
+                                    "hash": "hsbc_e5aadd8f78",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.66,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/hsbc_e5aadd8f78.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.164Z",
+                                    "updatedAt": "2023-02-01T07:46:49.164Z"
+                                }
+                            },
+                            {
+                                "id": 405,
+                                "attributes": {
+                                    "name": "icici.jpg",
+                                    "alternativeText": "icici.jpg",
+                                    "caption": "icici.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "icici_671161a3cb",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.55,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/icici_671161a3cb.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.182Z",
+                                    "updatedAt": "2023-02-01T07:46:49.182Z"
+                                }
+                            },
+                            {
+                                "id": 416,
+                                "attributes": {
+                                    "name": "idfc.jpg",
+                                    "alternativeText": "idfc.jpg",
+                                    "caption": "idfc.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "idfc_f0e4db542a",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.49,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/idfc_f0e4db542a.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.211Z",
+                                    "updatedAt": "2023-02-01T07:46:49.211Z"
+                                }
+                            },
+                            {
+                                "id": 420,
+                                "attributes": {
+                                    "name": "iifl.jpg",
+                                    "alternativeText": "iifl.jpg",
+                                    "caption": "iifl.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "iifl_297368f19e",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.04,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/iifl_297368f19e.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.224Z",
+                                    "updatedAt": "2023-02-01T07:46:49.224Z"
+                                }
+                            },
+                            {
+                                "id": 413,
+                                "attributes": {
+                                    "name": "indiabulls.jpg",
+                                    "alternativeText": "indiabulls.jpg",
+                                    "caption": "indiabulls.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "indiabulls_182da0ee01",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.29,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/indiabulls_182da0ee01.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.198Z",
+                                    "updatedAt": "2023-02-01T07:46:49.198Z"
+                                }
+                            },
+                            {
+                                "id": 415,
+                                "attributes": {
+                                    "name": "invesco.jpg",
+                                    "alternativeText": "invesco.jpg",
+                                    "caption": "invesco.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "invesco_57e4a64521",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.85,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/invesco_57e4a64521.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.210Z",
+                                    "updatedAt": "2023-02-01T07:46:49.210Z"
+                                }
+                            },
+                            {
+                                "id": 419,
+                                "attributes": {
+                                    "name": "iti.jpg",
+                                    "alternativeText": "iti.jpg",
+                                    "caption": "iti.jpg",
+                                    "width": 175,
+                                    "height": 88,
+                                    "formats": null,
+                                    "hash": "iti_79dd8c3aa5",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.43,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/iti_79dd8c3aa5.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.213Z",
+                                    "updatedAt": "2023-02-01T07:46:49.213Z"
+                                }
+                            },
+                            {
+                                "id": 422,
+                                "attributes": {
+                                    "name": "jm.jpg",
+                                    "alternativeText": "jm.jpg",
+                                    "caption": "jm.jpg",
+                                    "width": 160,
+                                    "height": 76,
+                                    "formats": null,
+                                    "hash": "jm_03db8c8052",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.32,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/jm_03db8c8052.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.226Z",
+                                    "updatedAt": "2023-02-01T07:46:49.226Z"
+                                }
+                            },
+                            {
+                                "id": 409,
+                                "attributes": {
+                                    "name": "kotak.jpg",
+                                    "alternativeText": "kotak.jpg",
+                                    "caption": "kotak.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "kotak_8bea8f8911",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.15,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/kotak_8bea8f8911.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.194Z",
+                                    "updatedAt": "2023-02-01T07:46:49.194Z"
+                                }
+                            },
+                            {
+                                "id": 404,
+                                "attributes": {
+                                    "name": "lic.jpg",
+                                    "alternativeText": "lic.jpg",
+                                    "caption": "lic.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "lic_c76cffa40e",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.52,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/lic_c76cffa40e.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.181Z",
+                                    "updatedAt": "2023-02-01T07:46:49.181Z"
+                                }
+                            },
+                            {
+                                "id": 430,
+                                "attributes": {
+                                    "name": "Mahindra.jpg",
+                                    "alternativeText": "Mahindra.jpg",
+                                    "caption": "Mahindra.jpg",
+                                    "width": 190,
+                                    "height": 58,
+                                    "formats": null,
+                                    "hash": "Mahindra_fa40002352",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.12,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Mahindra_fa40002352.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.430Z",
+                                    "updatedAt": "2023-02-01T07:46:49.430Z"
+                                }
+                            },
+                            {
+                                "id": 411,
+                                "attributes": {
+                                    "name": "Mirae.jpg",
+                                    "alternativeText": "Mirae.jpg",
+                                    "caption": "Mirae.jpg",
+                                    "width": 160,
+                                    "height": 63,
+                                    "formats": null,
+                                    "hash": "Mirae_377bfa6f4f",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.56,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Mirae_377bfa6f4f.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.196Z",
+                                    "updatedAt": "2023-02-01T07:46:49.196Z"
+                                }
+                            },
+                            {
+                                "id": 395,
+                                "attributes": {
+                                    "name": "Motilal oswal.jpg",
+                                    "alternativeText": "Motilal oswal.jpg",
+                                    "caption": "Motilal oswal.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "Motilal_oswal_113f63b5f5",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.69,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Motilal_oswal_113f63b5f5.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.161Z",
+                                    "updatedAt": "2023-02-01T07:46:49.161Z"
+                                }
+                            },
+                            {
+                                "id": 399,
+                                "attributes": {
+                                    "name": "Navi Mutual funds.jpg",
+                                    "alternativeText": "Navi Mutual funds.jpg",
+                                    "caption": "Navi Mutual funds.jpg",
+                                    "width": 205,
+                                    "height": 106,
+                                    "formats": null,
+                                    "hash": "Navi_Mutual_funds_bb50bbcbce",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.74,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Navi_Mutual_funds_bb50bbcbce.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.165Z",
+                                    "updatedAt": "2023-02-01T07:46:49.165Z"
+                                }
+                            },
+                            {
+                                "id": 423,
+                                "attributes": {
+                                    "name": "Nippon.jpg",
+                                    "alternativeText": "Nippon.jpg",
+                                    "caption": "Nippon.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "Nippon_a341060b7b",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 5.82,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Nippon_a341060b7b.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.226Z",
+                                    "updatedAt": "2023-02-01T07:46:49.226Z"
+                                }
+                            },
+                            {
+                                "id": 426,
+                                "attributes": {
+                                    "name": "Nj Mutual funds'.jpg",
+                                    "alternativeText": "Nj Mutual funds'.jpg",
+                                    "caption": "Nj Mutual funds'.jpg",
+                                    "width": 160,
+                                    "height": 76,
+                                    "formats": null,
+                                    "hash": "Nj_Mutual_funds_f50be07480",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.55,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Nj_Mutual_funds_f50be07480.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.254Z",
+                                    "updatedAt": "2023-02-01T07:46:49.254Z"
+                                }
+                            },
+                            {
+                                "id": 425,
+                                "attributes": {
+                                    "name": "PGIM.jpg",
+                                    "alternativeText": "PGIM.jpg",
+                                    "caption": "PGIM.jpg",
+                                    "width": 160,
+                                    "height": 55,
+                                    "formats": null,
+                                    "hash": "PGIM_b260115ce3",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.99,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/PGIM_b260115ce3.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.243Z",
+                                    "updatedAt": "2023-02-01T07:46:49.243Z"
+                                }
+                            },
+                            {
+                                "id": 400,
+                                "attributes": {
+                                    "name": "PPFAS.jpg",
+                                    "alternativeText": "PPFAS.jpg",
+                                    "caption": "PPFAS.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "PPFAS_47d9b99877",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.79,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/PPFAS_47d9b99877.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.166Z",
+                                    "updatedAt": "2023-02-01T07:46:49.166Z"
+                                }
+                            },
+                            {
+                                "id": 403,
+                                "attributes": {
+                                    "name": "QUANT.jpg",
+                                    "alternativeText": "QUANT.jpg",
+                                    "caption": "QUANT.jpg",
+                                    "width": 160,
+                                    "height": 74,
+                                    "formats": null,
+                                    "hash": "QUANT_5473fdeb81",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.03,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/QUANT_5473fdeb81.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.183Z",
+                                    "updatedAt": "2023-02-01T07:46:49.183Z"
+                                }
+                            },
+                            {
+                                "id": 396,
+                                "attributes": {
+                                    "name": "QUANTUM.jpg",
+                                    "alternativeText": "QUANTUM.jpg",
+                                    "caption": "QUANTUM.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "QUANTUM_86585193d3",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.03,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/QUANTUM_86585193d3.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.162Z",
+                                    "updatedAt": "2023-02-01T07:46:49.162Z"
+                                }
+                            },
+                            {
+                                "id": 428,
+                                "attributes": {
+                                    "name": "SAMCO.jfif",
+                                    "alternativeText": "SAMCO.jfif",
+                                    "caption": "SAMCO.jfif",
+                                    "width": 225,
+                                    "height": 225,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".jfif",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_SAMCO_dedce0e640.jfif",
+                                            "hash": "thumbnail_SAMCO_dedce0e640",
+                                            "mime": "image/jpeg",
+                                            "name": "thumbnail_SAMCO.jfif",
+                                            "path": null,
+                                            "size": 4.37,
+                                            "width": 156,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "SAMCO_dedce0e640",
+                                    "ext": ".jfif",
+                                    "mime": "image/jpeg",
+                                    "size": 6.79,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/SAMCO_dedce0e640.jfif",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.369Z",
+                                    "updatedAt": "2023-02-01T07:46:49.369Z"
+                                }
+                            },
+                            {
+                                "id": 421,
+                                "attributes": {
+                                    "name": "SBI.jpg",
+                                    "alternativeText": "SBI.jpg",
+                                    "caption": "SBI.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "SBI_dbc5094911",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.89,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/SBI_dbc5094911.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.225Z",
+                                    "updatedAt": "2023-02-01T07:46:49.225Z"
+                                }
+                            },
+                            {
+                                "id": 401,
+                                "attributes": {
+                                    "name": "SHRIRAM.jpg",
+                                    "alternativeText": "SHRIRAM.jpg",
+                                    "caption": "SHRIRAM.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "SHRIRAM_aa32353bb8",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.03,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/SHRIRAM_aa32353bb8.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.178Z",
+                                    "updatedAt": "2023-02-01T07:46:49.178Z"
+                                }
+                            },
+                            {
+                                "id": 412,
+                                "attributes": {
+                                    "name": "SUNDRAM.jpg",
+                                    "alternativeText": "SUNDRAM.jpg",
+                                    "caption": "SUNDRAM.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "SUNDRAM_3f743ef329",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.08,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/SUNDRAM_3f743ef329.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.197Z",
+                                    "updatedAt": "2023-02-01T07:46:49.197Z"
+                                }
+                            },
+                            {
+                                "id": 414,
+                                "attributes": {
+                                    "name": "TATA MF.jpg",
+                                    "alternativeText": "TATA MF.jpg",
+                                    "caption": "TATA MF.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "TATA_MF_298fa6c760",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.81,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/TATA_MF_298fa6c760.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.208Z",
+                                    "updatedAt": "2023-02-01T07:46:49.208Z"
+                                }
+                            },
+                            {
+                                "id": 407,
+                                "attributes": {
+                                    "name": "TAURUS.jpg",
+                                    "alternativeText": "TAURUS.jpg",
+                                    "caption": "TAURUS.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "TAURUS_cbdce26830",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 3.04,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/TAURUS_cbdce26830.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.183Z",
+                                    "updatedAt": "2023-02-01T07:46:49.183Z"
+                                }
+                            },
+                            {
+                                "id": 427,
+                                "attributes": {
+                                    "name": "TRUST MF.jpg",
+                                    "alternativeText": "TRUST MF.jpg",
+                                    "caption": "TRUST MF.jpg",
+                                    "width": 200,
+                                    "height": 89,
+                                    "formats": null,
+                                    "hash": "TRUST_MF_273caf82ec",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 14.16,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/TRUST_MF_273caf82ec.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.306Z",
+                                    "updatedAt": "2023-02-01T07:46:49.306Z"
+                                }
+                            },
+                            {
+                                "id": 417,
+                                "attributes": {
+                                    "name": "UNION MF.jpg",
+                                    "alternativeText": "UNION MF.jpg",
+                                    "caption": "UNION MF.jpg",
+                                    "width": 165,
+                                    "height": 83,
+                                    "formats": null,
+                                    "hash": "UNION_MF_8b279cfe2c",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 4.02,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/UNION_MF_8b279cfe2c.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.212Z",
+                                    "updatedAt": "2023-02-01T07:46:49.212Z"
+                                }
+                            },
+                            {
+                                "id": 410,
+                                "attributes": {
+                                    "name": "UTI.jpg",
+                                    "alternativeText": "UTI.jpg",
+                                    "caption": "UTI.jpg",
+                                    "width": 160,
+                                    "height": 85,
+                                    "formats": null,
+                                    "hash": "UTI_600b2f753f",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 2.84,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/UTI_600b2f753f.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.195Z",
+                                    "updatedAt": "2023-02-01T07:46:49.195Z"
+                                }
+                            },
+                            {
+                                "id": 429,
+                                "attributes": {
+                                    "name": "WHITEOAK.jpg",
+                                    "alternativeText": "WHITEOAK.jpg",
+                                    "caption": "WHITEOAK.jpg",
+                                    "width": 250,
+                                    "height": 78,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".jpg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_WHITEOAK_602c0759ab.jpg",
+                                            "hash": "thumbnail_WHITEOAK_602c0759ab",
+                                            "mime": "image/jpeg",
+                                            "name": "thumbnail_WHITEOAK.jpg",
+                                            "path": null,
+                                            "size": 5.44,
+                                            "width": 245,
+                                            "height": 76
+                                        }
+                                    },
+                                    "hash": "WHITEOAK_602c0759ab",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 5.27,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/WHITEOAK_602c0759ab.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T07:46:49.383Z",
+                                    "updatedAt": "2023-02-01T07:46:49.383Z"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "__component": "block.faq",
+                    "heading": "HAVE QUESTIONS?",
+                    "subHeading": "Frequently Asked Questions",
+                    "theme": "white",
+                    "miscellaneousFigure": [],
+                    "disclosure": [
+                        {
+                            "id": 24,
+                            "disclosureHeading": "What are the different types of Debt Funds?",
+                            "disclosureDescription": "- Overnight Funds – invest in 1-day maturity debt securities\n- Liquid Funds – invest in money market instruments maturing within 90 days\n- Floating Rate Funds - invest in floating rate debt securities \n- Ultra-Short Duration Funds – invest in debt securities maturing in 3-6 months\n- Low Duration Fund – invest in securities maturing within 6-12 months\n- Money Market Funds – invest in money market instruments with maturity up to 1 year\n- Short Duration Funds – invest in securities 1-3 years maturity\n- Medium Duration Funds – invest in debt securities with 3-4 years maturity\n- Medium-to-Long Duration Funds - invest in debt securities with 4-7 years maturity\n- Long-Duration Funds – invest in long maturity debt (over 7 years)\n- Corporate Bond Funds- invest in corporate bonds\n- Banking &amp; PSU Funds – invest in debts of banks, PSUs, PFIs\n- Gilt Funds – invest in Government bonds of varying maturities\n- Gilt Fund with 10-years Constant Duration – invest in G-secs with 10 year maturity\n- Dynamic Funds – invest in Debt Funds securities across maturities Credit Risk Funds – invest in\ncorporate bonds below highest ratings"
+                        },
+                        {
+                            "id": 28,
+                            "disclosureHeading": "How do interest rate changes affect my return from Debt Funds?",
+                            "disclosureDescription": "- Debt Funds invest in fixed income securities like corporate or Government bonds and money market\ninstruments. These securities are interest bearing instruments that pay a fixed interest to investors\nat regular intervals and pay the principal amount at the time of maturity. The prices of these\nsecurities are directly affected by interest rate changes. Bond prices and interest rates are inversely\nproportional.\n- A bond’s coupon rate is fixed at the time when the bond is first issued at Face Value. If interest rates\nfall below the coupon rate, the bond looks more attractive as it carries higher interest than currently\navailable in the market. Hence, demand for such bonds go up, pushing their prices up. If interest\nrates rise, these bonds look unattractive and their prices fall due to lower demand.\n- When interest rates rise, prices of fixed income securities fall. This leads to a decline in the NAV of\nfixed income funds that hold these securities in their portfolio. On the other hand, when interest\nrates fall, prices of fixed income securities rise, leading to an increase in the NAVs of fixed income\nfunds. Thus, one gets a positive return from fixed income fund investment when interest rates fall\nand vice-versa."
+                        },
+                        {
+                            "id": 27,
+                            "disclosureHeading": "What is the co-relation between risk and return?",
+                            "disclosureDescription": "- The ‘risk’ is measured as either, probability of loss of capital or as swings and fluctuations in\ninvestment value. Asset classes like equity are undoubtedly the riskiest, and money in a savings bank\naccount or in a government bond is least risky.\n- In the Mutual Fund universe, a liquid fund is least risky and an equity fund is most risky.\nSo, the only reason to invest in equity would be an expectation of higher reward. However, higher\nreturns come to those who invest in equity after careful study and adopting a patient, long term\ntime horizon. In fact, risk in equity can be mitigated by adopting diversification as well having a\nlonger term time horizon.\n- Every category of mutual fund schemes have different types of risks – credit risk, interest rate risk,\nliquidity risk, market/price risk, business risk, event risk, regulatory risk, etc. Your investment advisor\nand fund manager’s expertise, and diversification, can help mitigate them."
+                        },
+                        {
+                            "id": 64,
+                            "disclosureHeading": "Are Debt Funds risk-free?",
+                            "disclosureDescription": "- It’s a misconception that Debts Fund have no risk just because they don’t invest in equities. It’s true\nthat Debt Funds are less risky compared to Equity Funds but that doesn’t mean Debt Funds\nguarantee that your money will never face any loss. Debt funds invest in debt and money market\nsecurities that are prone to different kind of risk factors as compared to equity funds that invest in\nstock market. \n- Debt Funds are exposed to interest rate risk, credit risk and liquidity risk that are quite different from\nthe stock market risk we all are familiar with. While these risk factors are not as pronounced as stock\nmarket risk on an everyday basis, they can’t be ignored completely.\n- Interest rate risk arises due to changes in interest rates that affect the prices of bonds the Debt Fund\nhas invested in. Credit risk arises when there is a financial crisis in any of the companies whose\nbonds the debt fund has invested in because this makes the payment of interest and principal due\non these bonds extremely uncertain. Liquidity risk arises in case of debt securities that are not\nfrequently traded and hence the fund may be forced to sell these securities in its portfolio at a loss\nunder unfavourable circumstances. Hence investing in Debt Funds may be relatively less risky as\ncompared to Equity Funds but not completely risk-free."
+                        },
+                        {
+                            "id": 25,
+                            "disclosureHeading": "What are Target Maturity Funds?",
+                            "disclosureDescription": "Target maturity funds (TMFs) help investors navigate the risks associated with debt funds better by\naligning their portfolios with the maturity date of the fund. These are passive debt funds that track\nan underlying bond index. Thus, the portfolio of such funds comprises of bonds that are part of the\nunderlying bond index, and these bonds have maturities hovering around the fund’s stated maturity.\nThe bonds in the portfolio are held to maturity and all interest payments received during the holding\nperiod are reinvested in the fund. Thus, Target Maturity bond funds operate in an accrual mode like\nFMPs. However, unlike FMPs, TMFs are open-ended in nature and are offered either as target\nmaturity debt index funds or target maturity bond ETFs. Thus, TMFs offer greater liquidity than\nFMPs."
+                        },
+                        {
+                            "id": 26,
+                            "disclosureHeading": "What are the advantages of investing in Target Maturity Funds?",
+                            "disclosureDescription": "- Target Maturity Funds have better return visibility as compared to other debt funds as the portfolio\nof these funds is held to maturity (HTM) portfolio. This keeps the return expectations in line with the\nfund’s Yield-to-Maturity (YTM).\n- Being passive in nature, target maturity bond funds deploy their funds based on the composition of\nthe underlying bond index and hence has the clear visibility of the portfolio at any point in time.\nCurrently, most of the target maturity funds invests in government bonds, PSU bonds, and State\nDevelopment Loans. This lowers the default and credit risk of TMFs as compared to other debt\nfunds.\n- Since target maturity funds are open-ended and available as index funds or ETFs, they offer greater\nliquidity especially in comparison to FMPs which are closed ended in nature."
+                        },
+                        {
+                            "id": 65,
+                            "disclosureHeading": "Why does the disclaimer say Mutual Funds are subject to market risk?",
+                            "disclosureDescription": "- Mutual Funds invest in securities and the nature of securities depends on the scheme’s objective.\nFor instance, an equity or growth fund would invest in company shares. A liquid fund would invest in\nCertificates of Deposit and Commercial Paper.\n- All of these securities are however traded in the ‘Market’. Company shares are bought and sold\nthrough the stock exchange, which is part of the Capital Market. Similarly, debt instruments like\nGovernment Securities, can be traded through a platform at the Stock Exchange or through\nspecialised systems called NDS. These serve as markets to buy and sell securities and the buyers and\nsellers are diverse. So, the entire process of buying and selling, and price determination is done by\nthe ‘market’.\n- The price of any security is dependent on ‘market forces’, and the market acts on any news or\ndevelopment, making it difficult to predict the direction of the market, it&#39;s impossible to predict the\nprice of a share or security in the short term. There are too many factors and players that influence\nits direction.\n- Thus, every investor should know that there always exists a certain risk to security price from an all-\nimportant entity known as the ‘Market’. They should also know that Mutual Funds are designed to\nreduce this risk as much as possible."
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "__component": "block.cta",
+                    "content": "Let us have the opportunity to assist you better.",
+                    "buttonTheme": "primary",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 1,
+                            "attributes": {
+                                "name": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "alternativeText": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "caption": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "width": 1440,
+                                "height": 400,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "large_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 243.63,
+                                        "width": 1000,
+                                        "height": 278
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "small_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 52.1,
+                                        "width": 500,
+                                        "height": 139
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "medium_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 126.23,
+                                        "width": 750,
+                                        "height": 208
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 13.17,
+                                        "width": 245,
+                                        "height": 68
+                                    }
+                                },
+                                "hash": "closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 482.1,
+                                "url": "/uploads/closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-10T07:04:00.210Z",
+                                "updatedAt": "2022-10-12T09:47:36.234Z"
+                            }
+                        }
+                    },
+                    "button": {
+                        "id": 75,
+                        "href": "#",
+                        "label": "START INVESTING",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

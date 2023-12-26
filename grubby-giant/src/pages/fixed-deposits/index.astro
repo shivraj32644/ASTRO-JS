@@ -1,0 +1,39 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import fixed_deposites_data from "../../../data/fixed-deposits.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import ColTabs from "../../components/astro-blocks/ColTabs.astro";
+import ProductFeatures from "../../components/astro-blocks/ProductFeatures.astro";
+import TheWayItWorks from "../../components/astro-blocks/TheWayItWorks.astro";
+import ExploreMutualFunds from "../../components/astro-blocks/ExploreMutualFunds.astro";
+import OurPartners from "../../components/astro-blocks/OurPartners.astro";
+import WhyCorpcareIsDifferent from "../../components/astro-blocks/WhyCorpcareIsDifferent.astro";
+import FAQ from "../../components/astro-blocks/FAQ.astro";
+import { Cta } from "../../components/react-blocks/Cta";
+---
+
+<Layout title="CorpCare">
+  {
+    fixed_deposites_data?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <>
+          {block?.__component === "block.hero" && <Hero blocks={block} />}
+          {block?.__component === "block.col-tabs" && <ColTabs data={block} />}
+          {block?.__component === "block.why-corpcare-is-different" && <WhyCorpcareIsDifferent data={block} />}
+          {block?.__component === "block.faq" && (
+            <FAQ data={block} />
+          )}
+          {block?.__component === "block.our-partners" && (
+            <OurPartners data={block} />
+          )}
+          {block?.__component === "block.cta" && (
+            <Cta client:load data={block} />
+          )}
+
+
+         
+        </>
+      );
+    })
+  }
+</Layout>

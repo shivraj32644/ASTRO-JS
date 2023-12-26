@@ -1,0 +1,88 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-10-27T07:32:19.000Z",
+            "updatedAt": "2022-10-27T07:32:27.715Z",
+            "publishedAt": "2022-10-27T07:32:27.712Z",
+            "Blocks": [
+                {
+                    "id": 9,
+                    "__component": "block.hero",
+                    "Content": "Blogs",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 122,
+                            "attributes": {
+                                "name": "businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                "alternativeText": "businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                "caption": "businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                "width": 1440,
+                                "height": 400,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17.png",
+                                        "hash": "large_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17",
+                                        "mime": "image/png",
+                                        "name": "large_businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                        "path": null,
+                                        "size": 367.69,
+                                        "width": 1000,
+                                        "height": 278
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17.png",
+                                        "hash": "small_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17",
+                                        "mime": "image/png",
+                                        "name": "small_businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                        "path": null,
+                                        "size": 94.16,
+                                        "width": 500,
+                                        "height": 139
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17.png",
+                                        "hash": "medium_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17",
+                                        "mime": "image/png",
+                                        "name": "medium_businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                        "path": null,
+                                        "size": 205.21,
+                                        "width": 750,
+                                        "height": 208
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17.png",
+                                        "hash": "thumbnail_businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_businessman-hand-arranging-wood-block-with-business-goal-symbol-ideas-planning-goals-against-business-success-business-strategy-marketing-target-concept 1 (1).png",
+                                        "path": null,
+                                        "size": 26.66,
+                                        "width": 245,
+                                        "height": 68
+                                    }
+                                },
+                                "hash": "businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 606.02,
+                                "url": "/uploads/businessman_hand_arranging_wood_block_with_business_goal_symbol_ideas_planning_goals_against_business_success_business_strategy_marketing_target_concept_1_1_5594708f17.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T07:32:08.792Z",
+                                "updatedAt": "2022-10-27T07:32:08.792Z"
+                            }
+                        }
+                    },
+                    "Button": null
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

@@ -1,9 +1,10 @@
 ---
 import Footer from "../components/global/Footer.astro";
 import Header from "../components/global/Header.astro";
-interface Props {
-  title: string;
-}
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import "swiper/css/bundle";
 
 const { title } = Astro.props;
 ---
@@ -20,6 +21,7 @@ const { title } = Astro.props;
   </head>
   <body>
     <Header />
+
     <slot />
     <Footer />
   </body>

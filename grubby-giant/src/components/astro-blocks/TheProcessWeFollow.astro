@@ -1,0 +1,99 @@
+---
+import classNames from 'classnames';
+import {RTheProcessWeFollow} from '../react-blocks/RTheProcessWeFollow.tsx'
+import { normalizeCmsImage } from '../../../utils/common';
+const {data} = Astro.props
+---
+
+
+    <div
+      class={classNames(
+        'relative',
+        data?.theme === 'white' && 'bg-white',
+        data?.theme === 'black' && 'bg-[#191919]'
+      )}
+    >
+      {data?.miscellaneousFigure?.map((item:any, index:number) => {
+        const figure = normalizeCmsImage(item?.figure);
+
+        return (
+          <div
+           
+            class={classNames(
+              'absolute',
+              item?.alignment === 'Top-Left' && 'top-0 left-0',
+              item?.alignment === 'Top-Right' && 'top-0 right-0',
+              item?.alignment === 'Bottom-Left' && 'bottom-0 left-0',
+              item?.alignment === 'Bottom-Right' && 'bottom-0 right-0',
+              item?.alignment === 'Center-Left' && 'bottom-1/2 left-0',
+              item?.alignment === 'Center-Right' && 'bottom-1/2 right-0'
+            )}
+          >
+            <img
+              src={figure?.url}
+              alt={figure?.alternativeText}
+              class="object-cover w-auto h-auto"
+            />
+          </div>
+        );
+      })}
+      <div class="container  mx-auto p-5 lg:p-10">
+        <h2
+          class="font-medium text-lg lg:text-xl  tracking-[0.02em] text-brand uppercase overflow-hidden before:h-[2px] after:h-[2px] after:bg-brand 
+           after:inline-block after:relative after:align-middle after:w-6
+           before:bg-brand before:inline-block before:relative before:align-middle 
+           before:w-6 before:right-2 after:left-2 p-4"
+        >
+          {data?.heading}
+        </h2>
+        <h1 class="lg:w-[35rem] font-medium text-2xl lg:text-[2.25rem] leading-[3.5rem] tracking-[0.02em] mb-10">
+          {data?.subheading}
+        </h1>
+
+        
+        <RTheProcessWeFollow client:load data={data}/>
+
+        <div class="lg:hidden flex items-center h-full gap-x-5">
+          <div class="flex flex-col items-center flex-[2] ">
+            {data?.items?.map((item:any, index:number) => {
+              const cardImage = normalizeCmsImage(item?.cardImage);
+              return (
+                <div  class=" flex w-full justify-around gap-10">
+                  <div class="flex flex-col items-center z-10">
+                    <span
+                      class={classNames(
+                        'border-l-[6px] h-full',
+                        index !== 0 ? 'border-brand ' : 'border-transparent'
+                      )}
+                    ></span>
+
+                    <div class="w-10 h-10 p-2 text-white bg-brand flex justify-center items-center rounded-md">
+                      {index + 1}
+                    </div>
+                    <span
+                      class={classNames(
+                        'border-l-[6px] h-full',
+                        index !== data?.items?.length - 1
+                          ? 'border-brand '
+                          : 'border-transparent'
+                      )}
+                    ></span>
+                  </div>
+                  <div class="lg:max-w-[240px] w-full h-[15rem] bg-white p-5 border border-brand rounded-md my-3 overflow-y-auto">
+                    <img
+                      src={cardImage?.url}
+                      alt={cardImage?.alternativeText}
+                      class="max-w-[56px] w-auto h-14 object-scale-down mb-5"
+                    />
+                    <p class="text-xl mb-2 font-semibold">
+                      {item.cardHeading}
+                    </p>
+                    <p class="text-md">{item.cardDescription}</p>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+    </div>

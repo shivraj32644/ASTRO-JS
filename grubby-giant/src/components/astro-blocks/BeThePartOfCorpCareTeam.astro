@@ -1,0 +1,102 @@
+---
+import classNames from "classnames";
+import type { IBeThePartOfCorpCareTeam } from "../../../schemas/block";
+import { normalizeCmsImage } from "../../../utils/common";
+import MarkdownPreviewer from "./MarkdownPreviewer.astro";
+const { data }: { data?: IBeThePartOfCorpCareTeam } = Astro.props;
+const image = normalizeCmsImage(data?.beThePartOfCorpCareData?.image);
+---
+
+<div class="bg-white relative">
+  {
+    data?.miscellaneousFigure?.map((item, index) => {
+      const figure = normalizeCmsImage(item?.figure);
+
+      return (
+        <div
+          class={classNames(
+            "absolute",
+            item?.alignment === "Top-Left" && "top-0 left-0",
+            item?.alignment === "Top-Right" && "top-0 right-0",
+            item?.alignment === "Bottom-Left" && "bottom-0 left-0",
+            item?.alignment === "Bottom-Right" && "bottom-0 right-0",
+            item?.alignment === "Center-Left" && "bottom-1/2 left-0",
+            item?.alignment === "Center-Right" && "bottom-1/2 right-0"
+          )}
+        >
+          <img
+            src={figure?.url}
+            alt={figure?.alternativeText}
+            class="object-cover w-auto h-auto"
+          />
+        </div>
+      );
+    })
+  }
+  <div
+    class="flex flex-col lg:flex-row gap-x-20 gap-y-8 2xl:container mx-auto 2xl:p-10"
+  >
+    <img
+      src={image.url}
+      alt={image.alternativeText}
+      class="lg:w-[41.25rem] lg:h-[33.75rem] mr-5 lg:mr-0 w-full"
+    />
+    <div
+      class="flex flex-col justify-center
+                        gap-y-5 lg:gap-y-8
+                        lg:w-[34.375rem]
+                        px-5"
+    >
+      <h2 class="text-[1.75rem] lg:text-4xl tracking-[0.02em]">
+        {data?.beThePartOfCorpCareData?.heading}
+      </h2>
+
+      <div class="markdown-body !bg-white">
+        <MarkdownPreviewer
+          className="text-lg lg:text-[1.25rem] text-[#555555]"
+          data={(data?.beThePartOfCorpCareData?.content as string) || ""}
+        />
+      </div>
+      <button
+        class={classNames(
+          "w-44",
+          data?.ctaLink?.theme === "primary" && "Button",
+          data?.ctaLink?.theme === "secondary" && "OutlineButton"
+        )}
+        onclick="() =>document.getElementById('openPosition')?.scrollIntoView()"
+      >
+        {data?.ctaLink?.label}
+      </button>
+    </div>
+  </div>
+
+  <div
+    class="flex flex-col lg:flex-row justify-center items-center gap-x-10 gap-y-8 container mx-auto lg:p-10 p-5 my-[1.25rem] lg:my-[2.5rem]"
+  >
+    {
+      data?.items?.map((item, index) => {
+        const cardImage = normalizeCmsImage(item?.cardImage);
+        return (
+          <div
+            class="lg:max-w-full w-full max-w-[21.25rem] lg:min-w-[21.25rem] min-h-[21.25rem] rounded-md 
+              flex flex-col justify-end items-center
+              gap-y-2
+              p-6"
+            style={{
+              background: `linear-gradient(180deg, rgba(42, 36, 25, 0.3), rgba(0, 0, 0, 0.6)), url(${cardImage.url}) no-repeat`,
+              backgroundRepeat: "no-repeat",
+              backgroundSize: "cover",
+            }}
+          >
+            <h2 class="text-white font-medium text-2xl lg:text-2xl text-center">
+              {item?.cardHeading}
+            </h2>
+            <h2 class="text-white text-base lg:text-lg text-left">
+              {item?.cardDescription}
+            </h2>
+          </div>
+        );
+      })
+    }
+  </div>
+</div>

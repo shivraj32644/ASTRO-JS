@@ -1,0 +1,924 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-10-27T07:51:37.551Z",
+            "updatedAt": "2023-02-08T05:03:11.906Z",
+            "publishedAt": "2022-10-27T07:53:47.348Z",
+            "Blocks": [
+                {
+                    "id": 10,
+                    "__component": "block.hero",
+                    "Content": "Find the Perfect Fixed Deposit Solution for Your Business with Our Wide Range of Options",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 130,
+                            "attributes": {
+                                "name": "hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                "alternativeText": "hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                "caption": "hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                "width": 1440,
+                                "height": 620,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365.png",
+                                        "hash": "large_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365",
+                                        "mime": "image/png",
+                                        "name": "large_hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                        "path": null,
+                                        "size": 473.01,
+                                        "width": 1000,
+                                        "height": 431
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365.png",
+                                        "hash": "small_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365",
+                                        "mime": "image/png",
+                                        "name": "small_hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                        "path": null,
+                                        "size": 110.02,
+                                        "width": 500,
+                                        "height": 215
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365.png",
+                                        "hash": "medium_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365",
+                                        "mime": "image/png",
+                                        "name": "medium_hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                        "path": null,
+                                        "size": 254.7,
+                                        "width": 750,
+                                        "height": 323
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365.png",
+                                        "hash": "thumbnail_hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_hand-stack-woods-block-step-table-with-icon-action-plan-goal-target-success.png",
+                                        "path": null,
+                                        "size": 29.29,
+                                        "width": 245,
+                                        "height": 105
+                                    }
+                                },
+                                "hash": "hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 855.43,
+                                "url": "/uploads/hand_stack_woods_block_step_table_with_icon_action_plan_goal_target_success_5b7f86f365.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T07:45:56.506Z",
+                                "updatedAt": "2022-10-27T07:45:56.506Z"
+                            }
+                        }
+                    },
+                    "Button": {
+                        "id": 8,
+                        "theme": "primary",
+                        "link": {
+                            "id": 72,
+                            "href": "# ",
+                            "label": "Get Started",
+                            "target": null,
+                            "isExternal": false,
+                            "theme": "primary",
+                            "linkImage": {
+                                "data": null
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "__component": "block.col-tabs",
+                    "heading": "INVEST IN SECURED FIXED DEPOSITS",
+                    "subHeading": "Right investment Guidance based on research data, safety rating & stability",
+                    "tabs": [
+                        {
+                            "id": 9,
+                            "panelHeading": "One-stop destination for corporate FDs",
+                            "panelDescription": "Browse and compare different fixed deposit options in one place, saving them time and effort.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 131,
+                                    "attributes": {
+                                        "name": "Group 241334.png",
+                                        "alternativeText": "Group 241334.png",
+                                        "caption": "Group 241334.png",
+                                        "width": 640,
+                                        "height": 391,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241334_ab4349c696.png",
+                                                "hash": "small_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241334.png",
+                                                "path": null,
+                                                "size": 26.77,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241334_ab4349c696.png",
+                                                "hash": "thumbnail_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241334.png",
+                                                "path": null,
+                                                "size": 10.29,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241334_ab4349c696",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 14.84,
+                                        "url": "/uploads/Group_241334_ab4349c696.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:47:05.356Z",
+                                        "updatedAt": "2022-10-27T07:47:05.356Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 110,
+                                    "attributes": {
+                                        "name": "search (3) 1.png",
+                                        "alternativeText": "search (3) 1.png",
+                                        "caption": "search (3) 1.png",
+                                        "width": 32,
+                                        "height": 33,
+                                        "formats": null,
+                                        "hash": "search_3_1_6b24621b5c",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.71,
+                                        "url": "/uploads/search_3_1_6b24621b5c.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.287Z",
+                                        "updatedAt": "2022-10-27T07:19:01.287Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 10,
+                            "panelHeading": "Fixed deposit calculator",
+                            "panelDescription": "Easily calculate the estimated returns on their fixed deposit investments based on various factors such as the deposit amount, term length, and interest rate.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 131,
+                                    "attributes": {
+                                        "name": "Group 241334.png",
+                                        "alternativeText": "Group 241334.png",
+                                        "caption": "Group 241334.png",
+                                        "width": 640,
+                                        "height": 391,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241334_ab4349c696.png",
+                                                "hash": "small_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241334.png",
+                                                "path": null,
+                                                "size": 26.77,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241334_ab4349c696.png",
+                                                "hash": "thumbnail_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241334.png",
+                                                "path": null,
+                                                "size": 10.29,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241334_ab4349c696",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 14.84,
+                                        "url": "/uploads/Group_241334_ab4349c696.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:47:05.356Z",
+                                        "updatedAt": "2022-10-27T07:47:05.356Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 108,
+                                    "attributes": {
+                                        "name": "Group (10).png",
+                                        "alternativeText": "Group (10).png",
+                                        "caption": "Group (10).png",
+                                        "width": 32,
+                                        "height": 31,
+                                        "formats": null,
+                                        "hash": "Group_10_52f5d0c2f2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.34,
+                                        "url": "/uploads/Group_10_52f5d0c2f2.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.286Z",
+                                        "updatedAt": "2022-10-27T07:19:01.286Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 11,
+                            "panelHeading": "Online execution for individual investors",
+                            "panelDescription": "Easily open and manage fixed deposit accounts online, saving the need to visit a bank branch in person.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 131,
+                                    "attributes": {
+                                        "name": "Group 241334.png",
+                                        "alternativeText": "Group 241334.png",
+                                        "caption": "Group 241334.png",
+                                        "width": 640,
+                                        "height": 391,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241334_ab4349c696.png",
+                                                "hash": "small_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241334.png",
+                                                "path": null,
+                                                "size": 26.77,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241334_ab4349c696.png",
+                                                "hash": "thumbnail_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241334.png",
+                                                "path": null,
+                                                "size": 10.29,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241334_ab4349c696",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 14.84,
+                                        "url": "/uploads/Group_241334_ab4349c696.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:47:05.356Z",
+                                        "updatedAt": "2022-10-27T07:47:05.356Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 109,
+                                    "attributes": {
+                                        "name": "XMLID_669_.png",
+                                        "alternativeText": "XMLID_669_.png",
+                                        "caption": "XMLID_669_.png",
+                                        "width": 32,
+                                        "height": 29,
+                                        "formats": null,
+                                        "hash": "XMLID_669_4233375312",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.68,
+                                        "url": "/uploads/XMLID_669_4233375312.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.288Z",
+                                        "updatedAt": "2023-03-29T06:37:12.589Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 12,
+                            "panelHeading": "Personalized guidance for institutions",
+                            "panelDescription": "Personalized guidance and support to help larger corporate and business clients for choosing the best fixed deposit options as per need.",
+                            "panelImage": {
+                                "data": {
+                                    "id": 131,
+                                    "attributes": {
+                                        "name": "Group 241334.png",
+                                        "alternativeText": "Group 241334.png",
+                                        "caption": "Group 241334.png",
+                                        "width": 640,
+                                        "height": 391,
+                                        "formats": {
+                                            "small": {
+                                                "ext": ".png",
+                                                "url": "/uploads/small_Group_241334_ab4349c696.png",
+                                                "hash": "small_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "small_Group 241334.png",
+                                                "path": null,
+                                                "size": 26.77,
+                                                "width": 500,
+                                                "height": 305
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Group_241334_ab4349c696.png",
+                                                "hash": "thumbnail_Group_241334_ab4349c696",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Group 241334.png",
+                                                "path": null,
+                                                "size": 10.29,
+                                                "width": 245,
+                                                "height": 150
+                                            }
+                                        },
+                                        "hash": "Group_241334_ab4349c696",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 14.84,
+                                        "url": "/uploads/Group_241334_ab4349c696.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:47:05.356Z",
+                                        "updatedAt": "2022-10-27T07:47:05.356Z"
+                                    }
+                                }
+                            },
+                            "panelIcon": {
+                                "data": {
+                                    "id": 111,
+                                    "attributes": {
+                                        "name": "Group (9).png",
+                                        "alternativeText": "Group (9).png",
+                                        "caption": "Group (9).png",
+                                        "width": 26,
+                                        "height": 31,
+                                        "formats": null,
+                                        "hash": "Group_9_f387453279",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.65,
+                                        "url": "/uploads/Group_9_f387453279.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:19:01.293Z",
+                                        "updatedAt": "2022-10-27T07:19:01.293Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                },
+                {
+                    "id": 4,
+                    "__component": "block.why-corpcare-is-different",
+                    "heading": "WHY Corporate fixed deposits",
+                    "subHeading": "Corporate FDs secures your investments with fixed and predictable returns",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 136,
+                            "attributes": {
+                                "name": "artistic-outdoor-spiral-staircase 4 (1).png",
+                                "alternativeText": "artistic-outdoor-spiral-staircase 4 (1).png",
+                                "caption": "artistic-outdoor-spiral-staircase 4 (1).png",
+                                "width": 960,
+                                "height": 899,
+                                "formats": {
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_artistic_outdoor_spiral_staircase_4_1_9dc66d898f.png",
+                                        "hash": "small_artistic_outdoor_spiral_staircase_4_1_9dc66d898f",
+                                        "mime": "image/png",
+                                        "name": "small_artistic-outdoor-spiral-staircase 4 (1).png",
+                                        "path": null,
+                                        "size": 392.96,
+                                        "width": 500,
+                                        "height": 468
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_artistic_outdoor_spiral_staircase_4_1_9dc66d898f.png",
+                                        "hash": "medium_artistic_outdoor_spiral_staircase_4_1_9dc66d898f",
+                                        "mime": "image/png",
+                                        "name": "medium_artistic-outdoor-spiral-staircase 4 (1).png",
+                                        "path": null,
+                                        "size": 851.08,
+                                        "width": 750,
+                                        "height": 702
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_artistic_outdoor_spiral_staircase_4_1_9dc66d898f.png",
+                                        "hash": "thumbnail_artistic_outdoor_spiral_staircase_4_1_9dc66d898f",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_artistic-outdoor-spiral-staircase 4 (1).png",
+                                        "path": null,
+                                        "size": 57.1,
+                                        "width": 167,
+                                        "height": 156
+                                    }
+                                },
+                                "hash": "artistic_outdoor_spiral_staircase_4_1_9dc66d898f",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 1031.73,
+                                "url": "/uploads/artistic_outdoor_spiral_staircase_4_1_9dc66d898f.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T07:50:42.293Z",
+                                "updatedAt": "2022-10-27T07:50:42.293Z"
+                            }
+                        }
+                    },
+                    "whyCorpcareCard": [
+                        {
+                            "id": 49,
+                            "cardHeading": "Attractive interest rates",
+                            "cardDescription": " We offer competitive interest rates on our fixed deposits, helping our clients earn more on their investment and grow their wealth over time.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 133,
+                                    "attributes": {
+                                        "name": "Group (18).png",
+                                        "alternativeText": "Group (18).png",
+                                        "caption": "Group (18).png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_18_9237fc2edc",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.77,
+                                        "url": "/uploads/Group_18_9237fc2edc.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:49:32.931Z",
+                                        "updatedAt": "2022-10-27T07:49:32.931Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 50,
+                            "cardHeading": "Flexible Tenure & Terms",
+                            "cardDescription": "We offer a range of options, such as short-term and long-term deposits, allowing our clients to choose the term that best fits their needs and financial goals.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 135,
+                                    "attributes": {
+                                        "name": "Group (19).png",
+                                        "alternativeText": "Group (19).png",
+                                        "caption": "Group (19).png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_19_b49d2e40ab",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.9,
+                                        "url": "/uploads/Group_19_b49d2e40ab.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:49:32.935Z",
+                                        "updatedAt": "2022-10-27T07:49:32.935Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 51,
+                            "cardHeading": "Lower Risk",
+                            "cardDescription": "Our fixed deposits are backed by reputed rating agencies, providing an added layer of security for our corporate and business clients.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 134,
+                                    "attributes": {
+                                        "name": "shield 1.png",
+                                        "alternativeText": "shield 1.png",
+                                        "caption": "shield 1.png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "shield_1_7dcc767b18",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.41,
+                                        "url": "/uploads/shield_1_7dcc767b18.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:49:32.933Z",
+                                        "updatedAt": "2022-10-27T07:49:32.933Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 93,
+                            "cardHeading": "Diversification",
+                            "cardDescription": "We provide a variety of fixed deposit options that allow clients to diversify their investment portfolio, potentially reducing risk and increasing overall returns.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 249,
+                                    "attributes": {
+                                        "name": "Group (1).png",
+                                        "alternativeText": "Group (1).png",
+                                        "caption": "Group (1).png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_1_c28db89d76",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.06,
+                                        "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Group_1_c28db89d76.png",
+                                        "previewUrl": null,
+                                        "provider": "aws-s3",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-28T10:09:34.980Z",
+                                        "updatedAt": "2022-12-28T10:09:34.980Z"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "__component": "block.faq",
+                    "heading": "HAVE QUESTIONS?",
+                    "subHeading": "Frequently Asked Questions",
+                    "theme": "white",
+                    "miscellaneousFigure": [],
+                    "disclosure": [
+                        {
+                            "id": 20,
+                            "disclosureHeading": "Can Company/Trust/LLPs/Partnership Firms/HUFs invest in a recurring deposit scheme?",
+                            "disclosureDescription": "Only individuals can invest in a recurring deposit scheme. "
+                        },
+                        {
+                            "id": 21,
+                            "disclosureHeading": "What is the lock in period for premature withdrawal?",
+                            "disclosureDescription": "The fixed deposit should complete at least up to 3 months."
+                        },
+                        {
+                            "id": 22,
+                            "disclosureHeading": "What are the interest rates applicable after 3 months – before/ up to 6 months?",
+                            "disclosureDescription": "The interest rate range applicable for individual category ranges from No Interest applicable up to 4% and for non- individual category No interest is applicable."
+                        },
+                        {
+                            "id": 23,
+                            "disclosureHeading": "What are the interest rates applicable after 6 months – before / up to maturity?",
+                            "disclosureDescription": "The interest rate applicable for individual and non-individual category ranges from 1% up to 3%."
+                        },
+                        {
+                            "id": 56,
+                            "disclosureHeading": "What are the interest rates applicable if no rate is specified for the period for which deposit is issued?",
+                            "disclosureDescription": "The interest rate applicable for individual and non-individual category ranges from 2% up to 3%."
+                        },
+                        {
+                            "id": 59,
+                            "disclosureHeading": "What is the rate of interest on Loan against Fixed Deposit?",
+                            "disclosureDescription": "The rate of interest applicable on Loan against Fixed Deposit is 2% more than the effective FD rate of interest."
+                        },
+                        {
+                            "id": 61,
+                            "disclosureHeading": "What is the maximum loan amount that can be availed?",
+                            "disclosureDescription": "You can avail loan amount up to 75% of the fixed deposit amount."
+                        },
+                        {
+                            "id": 57,
+                            "disclosureHeading": " Is CIBIL score checked as a part of processing of loan?",
+                            "disclosureDescription": "No, the CIBIL score is not checked the loan is given on the basis of existing Fixed Deposit."
+                        },
+                        {
+                            "id": 60,
+                            "disclosureHeading": "What is the eligibility for applying Loan against FD request? ",
+                            "disclosureDescription": "Loan can be taken against FD after completion of 90 days from the effective date of deposit."
+                        },
+                        {
+                            "id": 58,
+                            "disclosureHeading": "What are the mandatory KYC documents required for generating Corporate Fixed Deposits?",
+                            "disclosureDescription": "COI, REGISTRATION CERTIFICATE, MOA & AOA, PAN, RESOLUTION FROM BOD"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "__component": "block.our-partners",
+                    "Heading": "Collaborators",
+                    "SubHeading": null,
+                    "Theme": "Main Page Background",
+                    "miscellaneousFigure": [],
+                    "PartnerImages": {
+                        "data": [
+                            {
+                                "id": 9,
+                                "attributes": {
+                                    "name": "bajaj-finserve 1.png",
+                                    "alternativeText": "bajaj-finserve 1.png",
+                                    "caption": "bajaj-finserve 1.png",
+                                    "width": 150,
+                                    "height": 65,
+                                    "formats": null,
+                                    "hash": "bajaj_finserve_1_3256ab90b7",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 1.88,
+                                    "url": "/uploads/bajaj_finserve_1_3256ab90b7.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.457Z",
+                                    "updatedAt": "2022-10-20T06:50:19.457Z"
+                                }
+                            },
+                            {
+                                "id": 432,
+                                "attributes": {
+                                    "name": "hdfc fd.png",
+                                    "alternativeText": "hdfc fd.png",
+                                    "caption": "hdfc fd.png",
+                                    "width": 331,
+                                    "height": 123,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_hdfc_fd_26b6ec0962.png",
+                                            "hash": "thumbnail_hdfc_fd_26b6ec0962",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_hdfc fd.png",
+                                            "path": null,
+                                            "size": 11.61,
+                                            "width": 245,
+                                            "height": 91
+                                        }
+                                    },
+                                    "hash": "hdfc_fd_26b6ec0962",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 6.11,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/hdfc_fd_26b6ec0962.png",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T10:17:20.150Z",
+                                    "updatedAt": "2023-02-01T10:17:20.150Z"
+                                }
+                            },
+                            {
+                                "id": 435,
+                                "attributes": {
+                                    "name": "icici fd.jpg",
+                                    "alternativeText": "icici fd.jpg",
+                                    "caption": "icici fd.jpg",
+                                    "width": 512,
+                                    "height": 296,
+                                    "formats": {
+                                        "small": {
+                                            "ext": ".jpg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_icici_fd_1ccc58172d.jpg",
+                                            "hash": "small_icici_fd_1ccc58172d",
+                                            "mime": "image/jpeg",
+                                            "name": "small_icici fd.jpg",
+                                            "path": null,
+                                            "size": 14.07,
+                                            "width": 500,
+                                            "height": 289
+                                        },
+                                        "thumbnail": {
+                                            "ext": ".jpg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_icici_fd_1ccc58172d.jpg",
+                                            "hash": "thumbnail_icici_fd_1ccc58172d",
+                                            "mime": "image/jpeg",
+                                            "name": "thumbnail_icici fd.jpg",
+                                            "path": null,
+                                            "size": 5.55,
+                                            "width": 245,
+                                            "height": 142
+                                        }
+                                    },
+                                    "hash": "icici_fd_1ccc58172d",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 14.08,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/icici_fd_1ccc58172d.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T10:17:20.257Z",
+                                    "updatedAt": "2023-02-01T10:17:20.257Z"
+                                }
+                            },
+                            {
+                                "id": 433,
+                                "attributes": {
+                                    "name": "Mahindra fd.png",
+                                    "alternativeText": "Mahindra fd.png",
+                                    "caption": "Mahindra fd.png",
+                                    "width": 404,
+                                    "height": 148,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_Mahindra_fd_c127b6b114.png",
+                                            "hash": "thumbnail_Mahindra_fd_c127b6b114",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_Mahindra fd.png",
+                                            "path": null,
+                                            "size": 10.95,
+                                            "width": 245,
+                                            "height": 90
+                                        }
+                                    },
+                                    "hash": "Mahindra_fd_c127b6b114",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 6.02,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Mahindra_fd_c127b6b114.png",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T10:17:20.173Z",
+                                    "updatedAt": "2023-02-01T10:17:20.173Z"
+                                }
+                            },
+                            {
+                                "id": 434,
+                                "attributes": {
+                                    "name": "shriram fd.jpg",
+                                    "alternativeText": "shriram fd.jpg",
+                                    "caption": "shriram fd.jpg",
+                                    "width": 512,
+                                    "height": 151,
+                                    "formats": {
+                                        "small": {
+                                            "ext": ".jpg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_shriram_fd_7c0d75f011.jpg",
+                                            "hash": "small_shriram_fd_7c0d75f011",
+                                            "mime": "image/jpeg",
+                                            "name": "small_shriram fd.jpg",
+                                            "path": null,
+                                            "size": 13.82,
+                                            "width": 500,
+                                            "height": 147
+                                        },
+                                        "thumbnail": {
+                                            "ext": ".jpg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_shriram_fd_7c0d75f011.jpg",
+                                            "hash": "thumbnail_shriram_fd_7c0d75f011",
+                                            "mime": "image/jpeg",
+                                            "name": "thumbnail_shriram fd.jpg",
+                                            "path": null,
+                                            "size": 5.62,
+                                            "width": 245,
+                                            "height": 72
+                                        }
+                                    },
+                                    "hash": "shriram_fd_7c0d75f011",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 14.44,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/shriram_fd_7c0d75f011.jpg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-02-01T10:17:20.254Z",
+                                    "updatedAt": "2023-02-01T10:17:20.254Z"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "__component": "block.cta",
+                    "content": "Let us have the opportunity to assist you better.",
+                    "buttonTheme": "primary",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 1,
+                            "attributes": {
+                                "name": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "alternativeText": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "caption": "closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                "width": 1440,
+                                "height": 400,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "large_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "large_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 243.63,
+                                        "width": 1000,
+                                        "height": 278
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "small_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "small_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 52.1,
+                                        "width": 500,
+                                        "height": 139
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "medium_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "medium_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 126.23,
+                                        "width": 750,
+                                        "height": 208
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                        "hash": "thumbnail_closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_closeup-king-chess-standing-chess-board-concept-team-player-business-team-leadership-strategy-human-resources-organization-management.png",
+                                        "path": null,
+                                        "size": 13.17,
+                                        "width": 245,
+                                        "height": 68
+                                    }
+                                },
+                                "hash": "closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 482.1,
+                                "url": "/uploads/closeup_king_chess_standing_chess_board_concept_team_player_business_team_leadership_strategy_human_resources_organization_management_ed2cc77df2.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-10T07:04:00.210Z",
+                                "updatedAt": "2022-10-12T09:47:36.234Z"
+                            }
+                        }
+                    },
+                    "button": {
+                        "id": 73,
+                        "href": "# ",
+                        "label": "START INVESTING",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

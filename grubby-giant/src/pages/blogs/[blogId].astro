@@ -1,0 +1,28 @@
+---
+import { FaFacebookSquare, FaLinkedin, FaTwitter } from "react-icons/fa";
+import BlogDetails from "../../components/react-blocks/BlogDetails";
+const { blogId } = Astro.params;
+import Layout from "../../layouts/Layout.astro";
+import { CiCalendar } from "react-icons/ci";
+import { cmsApiInstance } from "../../../api-requests/common";
+import type { IArticlesCard } from "../../../schemas/shared";
+import { normalizeCmsImage } from "../../../utils/common";
+import MarkdownPreviewer from "../../components/astro-blocks/MarkdownPreviewer.astro";
+import { markdown, Markdown } from "@astropub/md";
+// const {
+//   data: { data },
+// } = await cmsApiInstance.get<{
+//   data: {
+//     attributes: IArticlesCard & { Blocks: any };
+//   }[];
+// }>(`/articles?filters[slug]=${blogId}&populate=deep,5`);
+
+// const pageData = data[0]?.attributes;
+
+// const icon = normalizeCmsImage(pageData?.category?.data?.attributes?.image);
+// const image = normalizeCmsImage(pageData?.Image);
+---
+
+<Layout title="CorpCare">
+  <BlogDetails client:load slug={blogId} />
+</Layout>

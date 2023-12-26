@@ -1,0 +1,35 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import bonds_data from "../../../data/bonds.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import ColTabs from "../../components/astro-blocks/ColTabs.astro";
+import TheWayItWorks from "../../components/astro-blocks/TheWayItWorks.astro";
+import WhyCorpCareForFixedIncome from "../../components/astro-blocks/WhyCorpCareForFixedIncome.astro";
+import FAQ from "../../components/astro-blocks/FAQ.astro";
+import { Cta } from "../../components/react-blocks/Cta";
+---
+
+<Layout title="CorpCare">
+  {
+    bonds_data?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <>
+          {block?.__component === "block.hero" && <Hero blocks={block} />}
+          {block?.__component === "block.col-tabs" && <ColTabs data={block} />}
+          {block?.__component === "block.the-way-it-works" && (
+            <TheWayItWorks data={block} />
+          )}
+          {block?.__component === "block.why-corp-care-for-fixed-income" && (
+            <WhyCorpCareForFixedIncome data={block} />
+          )}
+          {block?.__component === "block.faq" && <FAQ data={block} />}
+          {block?.__component === "block.cta" && (
+            <Cta client:load data={block} />
+          )}
+
+        
+        </>
+      );
+    })
+  }
+</Layout>

@@ -1,0 +1,88 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-11-04T08:02:10.898Z",
+            "updatedAt": "2022-11-04T08:02:12.605Z",
+            "publishedAt": "2022-11-04T08:02:12.583Z",
+            "Blocks": [
+                {
+                    "id": 15,
+                    "__component": "block.hero",
+                    "Content": "Market Insights",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 186,
+                            "attributes": {
+                                "name": "image 23 (1).png",
+                                "alternativeText": "image 23 (1).png",
+                                "caption": "image 23 (1).png",
+                                "width": 1440,
+                                "height": 400,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_image_23_1_a0fdb3565d.png",
+                                        "hash": "large_image_23_1_a0fdb3565d",
+                                        "mime": "image/png",
+                                        "name": "large_image 23 (1).png",
+                                        "path": null,
+                                        "size": 297.46,
+                                        "width": 1000,
+                                        "height": 278
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_image_23_1_a0fdb3565d.png",
+                                        "hash": "small_image_23_1_a0fdb3565d",
+                                        "mime": "image/png",
+                                        "name": "small_image 23 (1).png",
+                                        "path": null,
+                                        "size": 74.25,
+                                        "width": 500,
+                                        "height": 139
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_image_23_1_a0fdb3565d.png",
+                                        "hash": "medium_image_23_1_a0fdb3565d",
+                                        "mime": "image/png",
+                                        "name": "medium_image 23 (1).png",
+                                        "path": null,
+                                        "size": 161.78,
+                                        "width": 750,
+                                        "height": 208
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_image_23_1_a0fdb3565d.png",
+                                        "hash": "thumbnail_image_23_1_a0fdb3565d",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_image 23 (1).png",
+                                        "path": null,
+                                        "size": 21.73,
+                                        "width": 245,
+                                        "height": 68
+                                    }
+                                },
+                                "hash": "image_23_1_a0fdb3565d",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 485.15,
+                                "url": "/uploads/image_23_1_a0fdb3565d.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-11-04T08:02:07.480Z",
+                                "updatedAt": "2022-11-04T08:02:07.480Z"
+                            }
+                        }
+                    },
+                    "Button": null
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

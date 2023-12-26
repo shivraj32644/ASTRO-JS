@@ -124,7 +124,7 @@ export interface IAboutHero {
 export interface ITheWayItWorks {
   heading?: string;
   subheading?: string;
-  items: {
+  items?: {
     cardImage?: CmsImage;
     cardHeading?: string;
     cardDescription?: string;

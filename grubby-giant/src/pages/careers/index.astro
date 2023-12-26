@@ -1,0 +1,41 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import careersData from "../../../data/careers.json";
+import CareersHero from "../../components/astro-blocks/CareersHero.astro";
+import WorkLifeAtCorpCare from "../../components/astro-blocks/WorkLifeAtCorpCare.astro";
+import BeThePartOfCorpCareTeam from "../../components/astro-blocks/BeThePartOfCorpCareTeam.astro";
+import JoinOurTeam from "../../components/astro-blocks/JoinOurTeam.astro";
+import FAQ from "../../components/astro-blocks/FAQ.astro";
+import { Cta } from "../../components/react-blocks/Cta";
+import ContactUsCards from "../../components/astro-blocks/ContactUsCards.astro";
+---
+
+<Layout title="CorpCare">
+  {
+    careersData?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div >
+          <div>
+            {block?.__component === "block.careers-hero" && <CareersHero data={block} />}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.work-life-at-corp-care" && (
+              <WorkLifeAtCorpCare data={block} />
+            )}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.be-the-part-of-corp-care-team" && (
+              <BeThePartOfCorpCareTeam data={block} />
+            )}
+          </div>
+          <div class="mt-6">
+            {block?.__component === "block.join-our-team" && (
+              <JoinOurTeam data={block} />
+            )}
+          </div>
+        
+        </div>
+      );
+    })
+  }
+</Layout>

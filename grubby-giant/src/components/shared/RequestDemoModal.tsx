@@ -4,14 +4,9 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import { useForm } from "react-hook-form";
 import { Fragment } from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import type { IFormData } from "../../../schemas/hero_schemas";
 import axios from "axios";
 
-// import {
-//   IFormData,
-//   useSubmitFormData,
-//   mobileField,
-// } from '@corpcare/shared/api';
+
 export const mobileField = yup
   .number()
   .min(10, "Please Enter valid Phone no.")
@@ -40,7 +35,7 @@ export default function RequestDemoModal({
   });
 
   const handleFormSubmit = (data: any) => {
-    const payload: IFormData = {
+    const payload:any = {
       token: "request-demo-form",
       formName: "request-demo-form",
       data: data,

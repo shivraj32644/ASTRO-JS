@@ -1,0 +1,750 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-10-27T06:49:09.652Z",
+            "updatedAt": "2023-06-26T08:15:00.344Z",
+            "publishedAt": "2022-10-27T06:49:14.462Z",
+            "Blocks": [
+                {
+                    "id": 4,
+                    "__component": "block.hero",
+                    "Content": "Elevate Your Surplus Management Strategy with Our Proven Portfolio Construction and Risk Management Expertise to Optimize Portfolio Yields",
+                    "backgroundImage": {
+                        "data": {
+                            "id": 76,
+                            "attributes": {
+                                "name": "CC Banner 1.png",
+                                "alternativeText": "CC Banner 1.png",
+                                "caption": "CC Banner 1.png",
+                                "width": 1440,
+                                "height": 620,
+                                "formats": {
+                                    "large": {
+                                        "ext": ".png",
+                                        "url": "/uploads/large_CC_Banner_1_96f7cd8938.png",
+                                        "hash": "large_CC_Banner_1_96f7cd8938",
+                                        "mime": "image/png",
+                                        "name": "large_CC Banner 1.png",
+                                        "path": null,
+                                        "size": 394.53,
+                                        "width": 1000,
+                                        "height": 431
+                                    },
+                                    "small": {
+                                        "ext": ".png",
+                                        "url": "/uploads/small_CC_Banner_1_96f7cd8938.png",
+                                        "hash": "small_CC_Banner_1_96f7cd8938",
+                                        "mime": "image/png",
+                                        "name": "small_CC Banner 1.png",
+                                        "path": null,
+                                        "size": 100.78,
+                                        "width": 500,
+                                        "height": 215
+                                    },
+                                    "medium": {
+                                        "ext": ".png",
+                                        "url": "/uploads/medium_CC_Banner_1_96f7cd8938.png",
+                                        "hash": "medium_CC_Banner_1_96f7cd8938",
+                                        "mime": "image/png",
+                                        "name": "medium_CC Banner 1.png",
+                                        "path": null,
+                                        "size": 220.8,
+                                        "width": 750,
+                                        "height": 323
+                                    },
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_CC_Banner_1_96f7cd8938.png",
+                                        "hash": "thumbnail_CC_Banner_1_96f7cd8938",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_CC Banner 1.png",
+                                        "path": null,
+                                        "size": 28.9,
+                                        "width": 245,
+                                        "height": 105
+                                    }
+                                },
+                                "hash": "CC_Banner_1_96f7cd8938",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 524.97,
+                                "url": "/uploads/CC_Banner_1_96f7cd8938.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T06:43:18.176Z",
+                                "updatedAt": "2022-10-27T06:43:18.176Z"
+                            }
+                        }
+                    },
+                    "Button": {
+                        "id": 3,
+                        "theme": "primary",
+                        "link": {
+                            "id": 58,
+                            "href": "#",
+                            "label": "Register",
+                            "target": null,
+                            "isExternal": false,
+                            "theme": "primary",
+                            "linkImage": {
+                                "data": null
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "__component": "block.treasury-management",
+                    "miscellaneousFigure": [],
+                    "leftSection": {
+                        "id": 1,
+                        "heading": "Treasury Management",
+                        "subheading": "Specialized Guidance and quality service",
+                        "content": "We help determine the appropriate levels of cash, cash equivalents and other\nfixed income instruments to allow businesses the ability to meet their financial\nobligations with ease, and proactively mitigate risks.",
+                        "image": {
+                            "data": {
+                                "id": 150,
+                                "attributes": {
+                                    "name": "Buildings One 1 (8).png",
+                                    "alternativeText": "Buildings One 1 (8).png",
+                                    "caption": "Buildings One 1 (8).png",
+                                    "width": 480,
+                                    "height": 382,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_Buildings_One_1_8_36b9f1f004.png",
+                                            "hash": "thumbnail_Buildings_One_1_8_36b9f1f004",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_Buildings One 1 (8).png",
+                                            "path": null,
+                                            "size": 81.08,
+                                            "width": 196,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "Buildings_One_1_8_36b9f1f004",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 368.22,
+                                    "url": "/uploads/Buildings_One_1_8_36b9f1f004.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-04T07:06:52.598Z",
+                                    "updatedAt": "2022-11-04T07:06:52.598Z"
+                                }
+                            }
+                        }
+                    },
+                    "rightSection": {
+                        "id": 2,
+                        "heading": "Treasury Management",
+                        "subheading": "Superior treasury & surplus management",
+                        "content": "We help determine the appropriate level of cash, cash equivalent and other fixed income instruments to allow businesses the ability to meet their financial obligations with ease and proactively mitigate risk.",
+                        "image": {
+                            "data": {
+                                "id": 151,
+                                "attributes": {
+                                    "name": "Treasury Products 2 1.png",
+                                    "alternativeText": "Treasury Products 2 1.png",
+                                    "caption": "Treasury Products 2 1.png",
+                                    "width": 480,
+                                    "height": 382,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_Treasury_Products_2_1_13b9b5930b.png",
+                                            "hash": "thumbnail_Treasury_Products_2_1_13b9b5930b",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_Treasury Products 2 1.png",
+                                            "path": null,
+                                            "size": 56.38,
+                                            "width": 196,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "Treasury_Products_2_1_13b9b5930b",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 236.06,
+                                    "url": "/uploads/Treasury_Products_2_1_13b9b5930b.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-11-04T07:06:52.648Z",
+                                    "updatedAt": "2022-11-04T07:06:52.648Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "__component": "block.how-can-we-help-you",
+                    "heading": "HOW CAN WE HELP YOU",
+                    "subHeading": "We offer a range of specialty services for corporates",
+                    "card": [
+                        {
+                            "id": 21,
+                            "cardHeading": "Consultation",
+                            "cardDescription": "Comprehensive review of business objectives , financials, and current portfolio during initial consultative conversation.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 77,
+                                    "attributes": {
+                                        "name": "image 39.png",
+                                        "alternativeText": "image 39.png",
+                                        "caption": "image 39.png",
+                                        "width": 350,
+                                        "height": 306,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_image_39_8e12bb75bc.png",
+                                                "hash": "thumbnail_image_39_8e12bb75bc",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_image 39.png",
+                                                "path": null,
+                                                "size": 53.75,
+                                                "width": 178,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "image_39_8e12bb75bc",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 131.8,
+                                        "url": "/uploads/image_39_8e12bb75bc.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:44:45.888Z",
+                                        "updatedAt": "2022-10-27T06:44:45.888Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 22,
+                            "cardHeading": "Expert portfolio customization with advanced analytics and research",
+                            "cardDescription": "Curated portfolio recommendations based on in-depth research and tailored asset allocation using advanced analytics",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 78,
+                                    "attributes": {
+                                        "name": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (2).png",
+                                        "alternativeText": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (2).png",
+                                        "caption": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (2).png",
+                                        "width": 350,
+                                        "height": 306,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_2_6776838566.png",
+                                                "hash": "thumbnail_financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_2_6776838566",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (2).png",
+                                                "path": null,
+                                                "size": 61.25,
+                                                "width": 178,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_2_6776838566",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 147.84,
+                                        "url": "/uploads/financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_2_6776838566.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:44:45.896Z",
+                                        "updatedAt": "2022-10-27T06:44:45.896Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 23,
+                            "cardHeading": "Risk- Focused Portfolio Review",
+                            "cardDescription": "Constant monitoring of portfolio with focused on yield enhancement and stringent risk mitigation",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 79,
+                                    "attributes": {
+                                        "name": "Buildings One 1 (7).png",
+                                        "alternativeText": "Buildings One 1 (7).png",
+                                        "caption": "Buildings One 1 (7).png",
+                                        "width": 350,
+                                        "height": 306,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Buildings_One_1_7_85df2cab71.png",
+                                                "hash": "thumbnail_Buildings_One_1_7_85df2cab71",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Buildings One 1 (7).png",
+                                                "path": null,
+                                                "size": 71.69,
+                                                "width": 178,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Buildings_One_1_7_85df2cab71",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 162.96,
+                                        "url": "/uploads/Buildings_One_1_7_85df2cab71.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:44:45.996Z",
+                                        "updatedAt": "2022-10-27T06:44:45.996Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 24,
+                            "cardHeading": "Diverse Product suite",
+                            "cardDescription": "We offer our clients a wide range of fixed income options, including high-quality fixed deposits, NBFC deposits, commercial paper, non-convertible debentures, market-linked debentures, and mutual funds.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 79,
+                                    "attributes": {
+                                        "name": "Buildings One 1 (7).png",
+                                        "alternativeText": "Buildings One 1 (7).png",
+                                        "caption": "Buildings One 1 (7).png",
+                                        "width": 350,
+                                        "height": 306,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Buildings_One_1_7_85df2cab71.png",
+                                                "hash": "thumbnail_Buildings_One_1_7_85df2cab71",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Buildings One 1 (7).png",
+                                                "path": null,
+                                                "size": 71.69,
+                                                "width": 178,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Buildings_One_1_7_85df2cab71",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 162.96,
+                                        "url": "/uploads/Buildings_One_1_7_85df2cab71.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:44:45.996Z",
+                                        "updatedAt": "2022-10-27T06:44:45.996Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 133,
+                            "cardHeading": "Investment Policy construction and risk mitigation",
+                            "cardDescription": "Our experts help clients create a\ncomprehensive Investment Policy to guide their investment decisions and manage risk. The policy includes guardrails on asset classes, concentration, liquidity, and other portfolio parameters to ensure efficient risk management.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 578,
+                                    "attributes": {
+                                        "name": "CC_Asset_1.png",
+                                        "alternativeText": "CC_Asset_1.png",
+                                        "caption": "CC_Asset_1.png",
+                                        "width": 350,
+                                        "height": 306,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_CC_Asset_1_9c8530e301.png",
+                                                "hash": "thumbnail_CC_Asset_1_9c8530e301",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_CC_Asset_1.png",
+                                                "path": null,
+                                                "size": 36.19,
+                                                "width": 178,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "CC_Asset_1_9c8530e301",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 112.78,
+                                        "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/CC_Asset_1_9c8530e301.png",
+                                        "previewUrl": null,
+                                        "provider": "aws-s3",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-05-04T05:40:38.040Z",
+                                        "updatedAt": "2023-05-04T05:40:38.040Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 84,
+                            "cardHeading": "In-depth analytics",
+                            "cardDescription": "Detailed dashboards and proprietary analytical tools give clients an immediate view of their portfolio, performance, risk parameters, and ensure adherence to the Investment Policy guardrails.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 148,
+                                    "attributes": {
+                                        "name": "Rectangle 6577 (1).png",
+                                        "alternativeText": "Rectangle 6577 (1).png",
+                                        "caption": "Rectangle 6577 (1).png",
+                                        "width": 340,
+                                        "height": 160,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Rectangle_6577_1_bbfca85d97.png",
+                                                "hash": "thumbnail_Rectangle_6577_1_bbfca85d97",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Rectangle 6577 (1).png",
+                                                "path": null,
+                                                "size": 53.93,
+                                                "width": 245,
+                                                "height": 115
+                                            }
+                                        },
+                                        "hash": "Rectangle_6577_1_bbfca85d97",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 76.34,
+                                        "url": "/uploads/Rectangle_6577_1_bbfca85d97.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-11-04T06:50:46.633Z",
+                                        "updatedAt": "2022-12-16T11:30:33.455Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 134,
+                            "cardHeading": "State of the art technology",
+                            "cardDescription": "Our cutting edge technology platform provides our clients with cost effective, seamless transaction fulfilment. Our clients also get the best-in-class analytics on their portfolio.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 579,
+                                    "attributes": {
+                                        "name": "CC_Asset_2.png",
+                                        "alternativeText": "CC_Asset_2.png",
+                                        "caption": "CC_Asset_2.png",
+                                        "width": 350,
+                                        "height": 306,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_CC_Asset_2_3be4002728.png",
+                                                "hash": "thumbnail_CC_Asset_2_3be4002728",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_CC_Asset_2.png",
+                                                "path": null,
+                                                "size": 15.52,
+                                                "width": 178,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "CC_Asset_2_3be4002728",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 49.05,
+                                        "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/CC_Asset_2_3be4002728.png",
+                                        "previewUrl": null,
+                                        "provider": "aws-s3",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-05-04T05:41:03.064Z",
+                                        "updatedAt": "2023-05-04T05:41:03.064Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                },
+                {
+                    "id": 2,
+                    "__component": "block.whom-we-serve",
+                    "heading": "WHOM WE SERVE",
+                    "subHeading": "Expert-Guided Investment Solutions Tailored for Corporates, Family Offices, HNWIs, and Start-ups.",
+                    "content": "We specialize in providing customized solutions and adopting unique approaches for different sectors in order to deliver the best possible outcomes for our clients.",
+                    "card": [
+                        {
+                            "id": 14,
+                            "cardHeading": "Consultants \n& Partners",
+                            "cardImage": {
+                                "data": {
+                                    "id": 83,
+                                    "attributes": {
+                                        "name": "Group(23).png",
+                                        "alternativeText": "Group(23).png",
+                                        "caption": "Group(23).png",
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "Group_23_46d56a477d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.13,
+                                        "url": "/uploads/Group_23_46d56a477d.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:46:23.241Z",
+                                        "updatedAt": "2022-10-27T06:46:23.241Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 16,
+                            "cardHeading": "Endowments \n& Foundations",
+                            "cardImage": {
+                                "data": {
+                                    "id": 82,
+                                    "attributes": {
+                                        "name": "Group(22).png",
+                                        "alternativeText": "Group(22).png",
+                                        "caption": "Group(22).png",
+                                        "width": 64,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_22_ce9827780b",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.51,
+                                        "url": "/uploads/Group_22_ce9827780b.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:46:23.242Z",
+                                        "updatedAt": "2022-10-27T06:46:23.242Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 13,
+                            "cardHeading": "Corporates\n& Fintechs",
+                            "cardImage": {
+                                "data": {
+                                    "id": 80,
+                                    "attributes": {
+                                        "name": "Group(24).png",
+                                        "alternativeText": "Group(24).png",
+                                        "caption": "Group(24).png",
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "Group_24_7d8079a266",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.76,
+                                        "url": "/uploads/Group_24_7d8079a266.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:46:23.219Z",
+                                        "updatedAt": "2022-10-27T06:46:23.219Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "cardHeading": "Asset Management\nCompanies",
+                            "cardImage": {
+                                "data": {
+                                    "id": 81,
+                                    "attributes": {
+                                        "name": "Group(21).png",
+                                        "alternativeText": "Group(21).png",
+                                        "caption": "Group(21).png",
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "Group_21_a69240047d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.04,
+                                        "url": "/uploads/Group_21_a69240047d.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:46:23.240Z",
+                                        "updatedAt": "2022-10-27T06:46:23.240Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": [],
+                    "button": {
+                        "id": 59,
+                        "href": "#",
+                        "label": "TALK TO EXPERT",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                },
+                {
+                    "id": 34,
+                    "__component": "block.whom-we-serve",
+                    "heading": "WHY US",
+                    "subHeading": "Right targeted sales for higher revenue",
+                    "content": "CorpCare offers a variety of tactics to ensure that your surplus is sold to the right purchasers through the right channels for the best possible return.",
+                    "card": [
+                        {
+                            "id": 34,
+                            "cardHeading": "Right Recovery \nDecisions",
+                            "cardImage": {
+                                "data": {
+                                    "id": 249,
+                                    "attributes": {
+                                        "name": "Group (1).png",
+                                        "alternativeText": "Group (1).png",
+                                        "caption": "Group (1).png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_1_c28db89d76",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.06,
+                                        "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/Group_1_c28db89d76.png",
+                                        "previewUrl": null,
+                                        "provider": "aws-s3",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-28T10:09:34.980Z",
+                                        "updatedAt": "2022-12-28T10:09:34.980Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 35,
+                            "cardHeading": "Expert team & \nProven process",
+                            "cardImage": {
+                                "data": {
+                                    "id": 74,
+                                    "attributes": {
+                                        "name": "rating (3) 1.png",
+                                        "alternativeText": "rating (3) 1.png",
+                                        "caption": "rating (3) 1.png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "rating_3_1_922b3f4f97",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.02,
+                                        "url": "/uploads/rating_3_1_922b3f4f97.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:39:12.305Z",
+                                        "updatedAt": "2022-10-27T06:39:12.305Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 36,
+                            "cardHeading": "Optimize use \nof resources",
+                            "cardImage": {
+                                "data": {
+                                    "id": 73,
+                                    "attributes": {
+                                        "name": "Group (3).png",
+                                        "alternativeText": "Group (3).png",
+                                        "caption": "Group (3).png",
+                                        "width": 60,
+                                        "height": 60,
+                                        "formats": null,
+                                        "hash": "Group_3_51e4482d53",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 2.03,
+                                        "url": "/uploads/Group_3_51e4482d53.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:39:12.293Z",
+                                        "updatedAt": "2022-10-27T06:39:12.293Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 37,
+                            "cardHeading": "Continous \nMonitoring",
+                            "cardImage": {
+                                "data": {
+                                    "id": 72,
+                                    "attributes": {
+                                        "name": "Group (2).png",
+                                        "alternativeText": "Group (2).png",
+                                        "caption": "Group (2).png",
+                                        "width": 60,
+                                        "height": 58,
+                                        "formats": null,
+                                        "hash": "Group_2_4dead01374",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 0.65,
+                                        "url": "/uploads/Group_2_4dead01374.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T06:39:12.280Z",
+                                        "updatedAt": "2022-10-27T06:39:12.280Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": [],
+                    "button": {
+                        "id": 100,
+                        "href": "#",
+                        "label": "TALK TO EXPERT",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

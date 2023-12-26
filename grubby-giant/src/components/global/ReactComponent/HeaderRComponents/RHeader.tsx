@@ -1,17 +1,17 @@
 import { createRef, Fragment, useEffect, useMemo, useState } from "react";
 import { Popover, Transition, Disclosure } from "@headlessui/react";
 import classNames from "classnames";
+import { IoChevronDownOutline } from "react-icons/io5";
 import { normalizeCmsImage } from "../../../../../utils/common";
 import { globalData } from "../../../../../data/global";
-// import { ChevronIcon, CrossIcon, HamburgerMenuIcon } from '@corpcare/web/ui';
-import ChevronIcon from '../../../../../icons/chevron.svg'
+import { RxCross2 } from "react-icons/rx";
 const RHeader = () => {
   const headerImage = normalizeCmsImage(
     globalData?.attributes?.header?.companyLogo
   );
 
   const [opacity, setOpacity] = useState<100 | 90>(100);
-
+  
   useEffect(() => {
     if (typeof window === "undefined") return;
     window.addEventListener("scroll", () => {
@@ -21,7 +21,7 @@ const RHeader = () => {
         setOpacity(100);
       }
     });
-  });
+  },[]);
 
   const refs = useMemo(() => {
     return (
@@ -45,8 +45,9 @@ const RHeader = () => {
     });
   }
   return (
-    <div>
+    <div >
       <Popover
+
         className={classNames(
           `bg-[#191919] sticky top-0 z-40 shadow-lg backdrop-blur-md`,
           opacity === 90 && "opacity-90",
@@ -66,7 +67,13 @@ const RHeader = () => {
               </a>
             </div>
             <div className="-my-2 -mr-2 lg:hidden ">
-              <Popover.Button className="flex">
+              <Popover.Button className="flex items-center justify-center ">
+                <div className="flex flex-col gap-2 items-center justify-center h-8 w-8 ">
+                    <span className="h-0.5 w-full block bg-white"></span>
+                    <span className="h-0.5 w-full block bg-white"></span>
+                    <span className="h-0.5 w-full block bg-white"></span>
+                </div>
+                
                 {/* <HamburgerMenuIcon className="w-8 h-8 text-white hover:cursor-pointer flex-shrink-0" /> */}
               </Popover.Button>
             </div>
@@ -83,12 +90,13 @@ const RHeader = () => {
                           )}
                         >
                           <span>{item?.heading}</span>
-                          {/* <ChevronIcon
+                          <IoChevronDownOutline
                           className={classNames(
                             open ? "text-brand rotate-180" : "text-white",
-                            "ml-2 h-3 w-3 group-hover:text-brand transition-transform"
+                            "ml-2 h-4 w-4 group-hover:text-brand transition-transform"
                           )}
-                        /> */}
+                        />
+                       
                           
                         </Popover.Button>
 
@@ -138,7 +146,7 @@ const RHeader = () => {
                                           <a
                                             key={idx}
                                             href={_item?.href}
-                                            target={_item?.target || "_blank"}
+                                            target={_item?.target || ""}
                                             className="-m-3 flex items-start rounded-lg p-3 hover:bg-light cursor-pointer"
                                             onClick={() => {
                                               close();
@@ -218,9 +226,9 @@ const RHeader = () => {
                     </a>
 
                     <Popover.Button className="Button bg-[#191919] text-white border border-white flex p-2">
-                      {/* <CrossIcon class
-                      Name="h-4 w-4 flex-shrink-0" /> */}
-                      cross
+                      <RxCross2 class
+                      Name="h-4 w-4 flex-shrink-0" />
+                      
                     </Popover.Button>
                   </div>
                   <div className="mt-6">
@@ -241,14 +249,14 @@ const RHeader = () => {
                                   onClick={() => handleClosingOthers(index)}
                                 >
                                   <span>{item?.heading}</span>
-                                  {/* <ChevronIcon
+                                  <IoChevronDownOutline
                                   className={classNames(
                                     open
                                       ? "text-brand rotate-180"
                                       : "text-white",
                                     "ml-2 h-3 w-3 group-hover:text-brand transition-transform"
                                   )}
-                                /> */}
+                                />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="pt-4 pb-2 text-sm text-gray-500">
                                   <div className="relative grid gap-6 bg-[#191919] lg:gap-8 ">
@@ -334,3 +342,4 @@ const RHeader = () => {
 };
 
 export default RHeader;
+

@@ -1,0 +1,41 @@
+---
+import lending_solution from "../../../data/lending-solution.json";
+import Layout from "../../layouts/Layout.astro";
+import Hero from "../../components/Home/Hero.astro";
+import AboutCard from "../../components/astro-blocks/AboutCard.astro";
+import HowCanWeHelpYou from "../../components/astro-blocks/HowCanWeHelpYou.astro";
+import OurClients from "../../components/astro-blocks/OurClients.astro";
+import WhomWeServe from "../../components/astro-blocks/WhomWeServe.astro";
+import AdvisoryDescription from "../../components/astro-blocks/AdvisoryDescription.astro";
+import WhyCorpcareIsDifferent from "../../components/Home/WhyCorpcareIsDifferent.astro";
+import TheProcessWeFollow from "../../components/astro-blocks/TheProcessWeFollow.astro";
+import {Cta} from "../../components/react-blocks/Cta.tsx";
+
+
+---
+
+<Layout title="Lending Solution">
+  {
+    lending_solution?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <>
+          {block?.__component === "block.hero" && <Hero blocks={block} />}
+          {block?.__component === "block.about-card" && (
+            <AboutCard data={block} />
+          )}
+
+          {block?.__component === "block.why-corpcare-is-different" && (
+            <WhyCorpcareIsDifferent data={block} />
+          )}
+          {block?.__component === "block.the-process-we-follow" && (
+            <TheProcessWeFollow data={block} />
+          )}
+          {block?.__component === "block.cta" && (
+            <Cta client:load data={block} />
+          )}
+         
+        </>
+      );
+    })
+  }
+</Layout>

@@ -1,0 +1,582 @@
+{
+    "id": 1,
+    "attributes": {
+        "createdAt": "2022-10-27T06:57:45.351Z",
+        "updatedAt": "2023-05-26T04:42:20.169Z",
+        "publishedAt": "2022-10-27T07:01:14.217Z",
+        "Blocks": [
+            {
+                "id": 5,
+                "__component": "block.hero",
+                "Content": "Expert Portfolio Management for Corporates, Family Offices, HNWIs, and Start-ups",
+                "backgroundImage": {
+                    "data": {
+                        "id": 87,
+                        "attributes": {
+                            "name": "closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                            "alternativeText": "closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                            "caption": "closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                            "width": 1440,
+                            "height": 620,
+                            "formats": {
+                                "large": {
+                                    "ext": ".png",
+                                    "url": "/uploads/large_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675.png",
+                                    "hash": "large_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675",
+                                    "mime": "image/png",
+                                    "name": "large_closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                                    "path": null,
+                                    "size": 455.15,
+                                    "width": 1000,
+                                    "height": 431
+                                },
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "/uploads/small_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675.png",
+                                    "hash": "small_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675",
+                                    "mime": "image/png",
+                                    "name": "small_closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                                    "path": null,
+                                    "size": 123.44,
+                                    "width": 500,
+                                    "height": 215
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "/uploads/medium_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675.png",
+                                    "hash": "medium_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675",
+                                    "mime": "image/png",
+                                    "name": "medium_closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                                    "path": null,
+                                    "size": 263.29,
+                                    "width": 750,
+                                    "height": 323
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "/uploads/thumbnail_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675.png",
+                                    "hash": "thumbnail_closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_closeup-hand-is-placing-wood-block-stacked-stair-step 1.png",
+                                    "path": null,
+                                    "size": 33.98,
+                                    "width": 245,
+                                    "height": 105
+                                }
+                            },
+                            "hash": "closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 684.87,
+                            "url": "/uploads/closeup_hand_is_placing_wood_block_stacked_stair_step_1_286fb2f675.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-27T06:55:06.792Z",
+                            "updatedAt": "2022-10-27T06:55:06.792Z"
+                        }
+                    }
+                },
+                "Button": {
+                    "id": 4,
+                    "theme": "primary",
+                    "link": {
+                        "id": 64,
+                        "href": "#",
+                        "label": "Get started",
+                        "target": null,
+                        "isExternal": false,
+                        "theme": "primary",
+                        "linkImage": {
+                            "data": null
+                        }
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "__component": "block.about-card",
+                "heading": "Wealth management",
+                "subHeading": "Collaborative Wealth Management Solutions for Your Complex Needs",
+                "content": "We offer market-leading data and tools to help wealth managers and investors make confident decisions. Our innovative wealth products also provide personalized solutions.",
+                "imagePosition": "left",
+                "image": {
+                    "data": {
+                        "id": 88,
+                        "attributes": {
+                            "name": "businessman-analyzing-company-financial-report-with-augmented-reality-graphics 4.png",
+                            "alternativeText": "businessman-analyzing-company-financial-report-with-augmented-reality-graphics 4.png",
+                            "caption": "businessman-analyzing-company-financial-report-with-augmented-reality-graphics 4.png",
+                            "width": 480,
+                            "height": 544,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "/uploads/small_businessman_analyzing_company_financial_report_with_augmented_reality_graphics_4_2b031ef94a.png",
+                                    "hash": "small_businessman_analyzing_company_financial_report_with_augmented_reality_graphics_4_2b031ef94a",
+                                    "mime": "image/png",
+                                    "name": "small_businessman-analyzing-company-financial-report-with-augmented-reality-graphics 4.png",
+                                    "path": null,
+                                    "size": 458.87,
+                                    "width": 441,
+                                    "height": 500
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "/uploads/thumbnail_businessman_analyzing_company_financial_report_with_augmented_reality_graphics_4_2b031ef94a.png",
+                                    "hash": "thumbnail_businessman_analyzing_company_financial_report_with_augmented_reality_graphics_4_2b031ef94a",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_businessman-analyzing-company-financial-report-with-augmented-reality-graphics 4.png",
+                                    "path": null,
+                                    "size": 56.17,
+                                    "width": 138,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "businessman_analyzing_company_financial_report_with_augmented_reality_graphics_4_2b031ef94a",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 358.28,
+                            "url": "/uploads/businessman_analyzing_company_financial_report_with_augmented_reality_graphics_4_2b031ef94a.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-27T06:55:45.649Z",
+                            "updatedAt": "2022-10-27T06:55:45.649Z"
+                        }
+                    }
+                },
+                "ctaButton": null,
+                "miscellaneousFigure": []
+            },
+            {
+                "id": 3,
+                "__component": "block.how-can-we-help-you",
+                "heading": "HOW CAN WE HELP YOU",
+                "subHeading": "Discover Our Wealth Management Solutions",
+                "miscellaneousFigure": [],
+                "card": [
+                    {
+                        "id": 25,
+                        "cardHeading": "Expert Consultation and Personalized Portfolio Review",
+                        "cardDescription": "We consult with you to understand your goals, cashflow, financial needs, risks and review your portfolio to provide personalized wealth management solutions.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 91,
+                                "attributes": {
+                                    "name": "man-wooden-cubes-table-management-concept (1) 1.png",
+                                    "alternativeText": "man-wooden-cubes-table-management-concept (1) 1.png",
+                                    "caption": "man-wooden-cubes-table-management-concept (1) 1.png",
+                                    "width": 350,
+                                    "height": 306,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_man_wooden_cubes_table_management_concept_1_1_3e6e29f255.png",
+                                            "hash": "thumbnail_man_wooden_cubes_table_management_concept_1_1_3e6e29f255",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_man-wooden-cubes-table-management-concept (1) 1.png",
+                                            "path": null,
+                                            "size": 55.68,
+                                            "width": 178,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "man_wooden_cubes_table_management_concept_1_1_3e6e29f255",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 159.56,
+                                    "url": "/uploads/man_wooden_cubes_table_management_concept_1_1_3e6e29f255.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:57:22.581Z",
+                                    "updatedAt": "2022-10-27T06:57:22.581Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 26,
+                        "cardHeading": "Diverse Product Offerings for Your Investment Needs",
+                        "cardDescription": "We offer a range of high-quality investment options including fixed deposits, NBFC deposits, commercial papers, debentures, mutual funds, portfolio management services, alternative investment funds, private equity and venture capital funds, and real estate investment opportunities.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 90,
+                                "attributes": {
+                                    "name": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                    "alternativeText": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                    "caption": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                    "width": 350,
+                                    "height": 306,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b.png",
+                                            "hash": "thumbnail_financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                            "path": null,
+                                            "size": 52.32,
+                                            "width": 178,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 118.29,
+                                    "url": "/uploads/financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:57:22.579Z",
+                                    "updatedAt": "2022-10-27T06:57:22.579Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 27,
+                        "cardHeading": "Well Researched Portfolio Building, and Asset Allocation Services",
+                        "cardDescription": "We use proprietary analytics and research methodologies to customize portfolio recommendations and construct asset allocation models tailored to your needs.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 89,
+                                "attributes": {
+                                    "name": "planning-risk-strategy-project-management-business 1.png",
+                                    "alternativeText": "planning-risk-strategy-project-management-business 1.png",
+                                    "caption": "planning-risk-strategy-project-management-business 1.png",
+                                    "width": 350,
+                                    "height": 306,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_planning_risk_strategy_project_management_business_1_595884d54c.png",
+                                            "hash": "thumbnail_planning_risk_strategy_project_management_business_1_595884d54c",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_planning-risk-strategy-project-management-business 1.png",
+                                            "path": null,
+                                            "size": 53.19,
+                                            "width": 178,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "planning_risk_strategy_project_management_business_1_595884d54c",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 116.4,
+                                    "url": "/uploads/planning_risk_strategy_project_management_business_1_595884d54c.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:57:22.542Z",
+                                    "updatedAt": "2022-10-27T06:57:22.542Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 28,
+                        "cardHeading": "Seamless Execution of Investment Transactions",
+                        "cardDescription": "We offer cost-effective, seamless investment transaction fulfillment through cutting-edge technology and strong partnerships.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 89,
+                                "attributes": {
+                                    "name": "planning-risk-strategy-project-management-business 1.png",
+                                    "alternativeText": "planning-risk-strategy-project-management-business 1.png",
+                                    "caption": "planning-risk-strategy-project-management-business 1.png",
+                                    "width": 350,
+                                    "height": 306,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_planning_risk_strategy_project_management_business_1_595884d54c.png",
+                                            "hash": "thumbnail_planning_risk_strategy_project_management_business_1_595884d54c",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_planning-risk-strategy-project-management-business 1.png",
+                                            "path": null,
+                                            "size": 53.19,
+                                            "width": 178,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "planning_risk_strategy_project_management_business_1_595884d54c",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 116.4,
+                                    "url": "/uploads/planning_risk_strategy_project_management_business_1_595884d54c.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:57:22.542Z",
+                                    "updatedAt": "2022-10-27T06:57:22.542Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 85,
+                        "cardHeading": "Deep Analytics for Informed Investment Decisions",
+                        "cardDescription": "Detailed dashboards and proprietary tools give you a live view of your portfolio's performance and risk parameters, helping you make informed investment decisions and allowing for reviews and reallocations.",
+                        "cardContent": null,
+                        "cardImage": {
+                            "data": {
+                                "id": 90,
+                                "attributes": {
+                                    "name": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                    "alternativeText": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                    "caption": "financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                    "width": 350,
+                                    "height": 306,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "ext": ".png",
+                                            "url": "/uploads/thumbnail_financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b.png",
+                                            "hash": "thumbnail_financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b",
+                                            "mime": "image/png",
+                                            "name": "thumbnail_financial-money-bag-up-drawn-chart-increase-salary-income-copyspace 1 1 (3).png",
+                                            "path": null,
+                                            "size": 52.32,
+                                            "width": 178,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 118.29,
+                                    "url": "/uploads/financial_money_bag_up_drawn_chart_increase_salary_income_copyspace_1_1_3_65a7f5a85b.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:57:22.579Z",
+                                    "updatedAt": "2022-10-27T06:57:22.579Z"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "__component": "block.our-clients",
+                "Heading": "WHAT PEOPLE SAY",
+                "subHeading": "Testimonials from Our Clients",
+                "miscellaneousFigure": [],
+                "Clients": [
+                    {
+                        "id": 10,
+                        "rating": 5,
+                        "comment": "As sharp as they are sensitive, the core team of CorpCare are seasoned industry professionals who organised and expanded my portfolio with exhaustive market research and brilliant, expert insight.  Highly recommended! ",
+                        "authorName": "Siddharth Dhanvant Shanghvi,",
+                        "authorDesignation": "Author",
+                        "authorImage": {
+                            "data": {
+                                "id": 273,
+                                "attributes": {
+                                    "name": "client_1.jpeg",
+                                    "alternativeText": "client_1.jpeg",
+                                    "caption": "client_1.jpeg",
+                                    "width": 852,
+                                    "height": 1280,
+                                    "formats": {
+                                        "large": {
+                                            "ext": ".jpeg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_client_1_b0d5e657da.jpeg",
+                                            "hash": "large_client_1_b0d5e657da",
+                                            "mime": "image/jpeg",
+                                            "name": "large_client_1.jpeg",
+                                            "path": null,
+                                            "size": 71.31,
+                                            "width": 666,
+                                            "height": 1000
+                                        },
+                                        "small": {
+                                            "ext": ".jpeg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_client_1_b0d5e657da.jpeg",
+                                            "hash": "small_client_1_b0d5e657da",
+                                            "mime": "image/jpeg",
+                                            "name": "small_client_1.jpeg",
+                                            "path": null,
+                                            "size": 24.26,
+                                            "width": 333,
+                                            "height": 500
+                                        },
+                                        "medium": {
+                                            "ext": ".jpeg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_client_1_b0d5e657da.jpeg",
+                                            "hash": "medium_client_1_b0d5e657da",
+                                            "mime": "image/jpeg",
+                                            "name": "medium_client_1.jpeg",
+                                            "path": null,
+                                            "size": 45.64,
+                                            "width": 499,
+                                            "height": 750
+                                        },
+                                        "thumbnail": {
+                                            "ext": ".jpeg",
+                                            "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_client_1_b0d5e657da.jpeg",
+                                            "hash": "thumbnail_client_1_b0d5e657da",
+                                            "mime": "image/jpeg",
+                                            "name": "thumbnail_client_1.jpeg",
+                                            "path": null,
+                                            "size": 4.09,
+                                            "width": 104,
+                                            "height": 156
+                                        }
+                                    },
+                                    "hash": "client_1_b0d5e657da",
+                                    "ext": ".jpeg",
+                                    "mime": "image/jpeg",
+                                    "size": 89.42,
+                                    "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/client_1_b0d5e657da.jpeg",
+                                    "previewUrl": null,
+                                    "provider": "aws-s3",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-01-02T03:33:58.909Z",
+                                    "updatedAt": "2023-01-02T03:33:58.909Z"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "__component": "block.whom-we-serve",
+                "heading": "WHOM WE SERVE",
+                "subHeading": "Portfolio management solutions across a diverse range of clients, tailor-made to suit specific requirements.",
+                "content": "We specialize in providing customized solutions and adopting unique approaches for different client segments, to deliver the best possible outcomes for our customers.",
+                "miscellaneousFigure": [],
+                "card": [
+                    {
+                        "id": 18,
+                        "cardHeading": "Family Offices",
+                        "cardImage": {
+                            "data": {
+                                "id": 83,
+                                "attributes": {
+                                    "name": "Group(23).png",
+                                    "alternativeText": "Group(23).png",
+                                    "caption": "Group(23).png",
+                                    "width": 64,
+                                    "height": 64,
+                                    "formats": null,
+                                    "hash": "Group_23_46d56a477d",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 2.13,
+                                    "url": "/uploads/Group_23_46d56a477d.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:46:23.241Z",
+                                    "updatedAt": "2022-10-27T06:46:23.241Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "cardHeading": "Corporate Treasury",
+                        "cardImage": {
+                            "data": {
+                                "id": 82,
+                                "attributes": {
+                                    "name": "Group(22).png",
+                                    "alternativeText": "Group(22).png",
+                                    "caption": "Group(22).png",
+                                    "width": 64,
+                                    "height": 60,
+                                    "formats": null,
+                                    "hash": "Group_22_ce9827780b",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 1.51,
+                                    "url": "/uploads/Group_22_ce9827780b.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:46:23.242Z",
+                                    "updatedAt": "2022-10-27T06:46:23.242Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "cardHeading": "Trust & Foundations",
+                        "cardImage": {
+                            "data": {
+                                "id": 80,
+                                "attributes": {
+                                    "name": "Group(24).png",
+                                    "alternativeText": "Group(24).png",
+                                    "caption": "Group(24).png",
+                                    "width": 64,
+                                    "height": 64,
+                                    "formats": null,
+                                    "hash": "Group_24_7d8079a266",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 0.76,
+                                    "url": "/uploads/Group_24_7d8079a266.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:46:23.219Z",
+                                    "updatedAt": "2022-10-27T06:46:23.219Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 20,
+                        "cardHeading": "Startups",
+                        "cardImage": {
+                            "data": {
+                                "id": 81,
+                                "attributes": {
+                                    "name": "Group(21).png",
+                                    "alternativeText": "Group(21).png",
+                                    "caption": "Group(21).png",
+                                    "width": 64,
+                                    "height": 64,
+                                    "formats": null,
+                                    "hash": "Group_21_a69240047d",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 2.04,
+                                    "url": "/uploads/Group_21_a69240047d.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-27T06:46:23.240Z",
+                                    "updatedAt": "2022-10-27T06:46:23.240Z"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "button": {
+                    "id": 65,
+                    "href": "#",
+                    "label": "TALK TO EXPERT",
+                    "target": null,
+                    "isExternal": false,
+                    "theme": "primary",
+                    "linkImage": {
+                        "data": null
+                    }
+                }
+            }
+        ],
+        "seo": null
+    }
+}

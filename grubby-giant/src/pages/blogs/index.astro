@@ -1,0 +1,25 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import blogs_page_data from "../../../data/blogs-page.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import AboutCard from "../../components/astro-blocks/AboutCard.astro";
+import {BlogListing} from '../../components/react-blocks/BlogListing.tsx'
+---
+
+<Layout title="CorpCare">
+  {
+    blogs_page_data?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div >
+          <div>
+            {block?.__component === "block.hero" && <Hero blocks={block} />}
+          </div>
+          <div class="mt-6">
+            <BlogListing client:load />
+          </div>
+         
+        </div>
+      );
+    })
+  }
+</Layout>

@@ -1,0 +1,39 @@
+---
+import treasury_data from "../../../data/treasury-solution.json";
+import Hero from "../../components/astro-blocks/Hero.astro";
+import HowCanWeHelpYou from "../../components/astro-blocks/HowCanWeHelpYou.astro";
+import TreasuryManagement from "../../components/astro-blocks/TreasuryManagement.astro";
+import WhomWeServe from "../../components/astro-blocks/WhomWeServe.astro";
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout title="Treasury Solution">
+  {
+    treasury_data?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div class="flex flex-col gap-2">
+          <div>
+            {block?.__component === "block.hero" && <Hero blocks={block} />}
+          </div>
+
+          <div>
+            {block?.__component === "block.treasury-management" && (
+              <TreasuryManagement data={block} />
+            )}
+          </div>
+          <div>
+            {block?.__component === "block.how-can-we-help-you" && (
+              <HowCanWeHelpYou data={block} />
+            )}
+          </div>
+         
+          <div>
+            {block?.__component === "block.whom-we-serve" && (
+              <WhomWeServe data={block} />
+            )}
+          </div>
+        </div>
+      );
+    })
+  }
+</Layout>

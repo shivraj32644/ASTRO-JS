@@ -1,10 +1,14 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { normalizeCmsImage } from "../../../utils/common";
 import type { IServiceCard, IServicesWeOffer } from "../../../schemas/block";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Keyboard, Grid, Pagination, Autoplay } from "swiper/modules";
 import classNames from "classnames";
-// import {   } from 'swiper';
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/bundle';
+
 
 export const ServiceCard = ({ service }: { service: IServiceCard }) => {
   const [showmore, setShowmore] = useState(false);
@@ -68,10 +72,9 @@ export const ServiceCard = ({ service }: { service: IServiceCard }) => {
 
 export function ServicesWeOfferRComponent({
   data,
-}: {
+}: Readonly<{
   data?: IServicesWeOffer;
-}) {
-  
+}>) {
   return (
     <div className="bg-white relative">
       {data?.miscellaneousFigure?.map((item, index) => {
@@ -115,7 +118,7 @@ export function ServicesWeOfferRComponent({
             );
           })}
         </h1>
-        {/* <Swiper
+        <Swiper
           slidesPerView={3}
           loop={true}
           breakpoints={{
@@ -139,14 +142,17 @@ export function ServicesWeOfferRComponent({
           modules={[Keyboard, Grid, Pagination, Autoplay]}
           spaceBetween={30}
           className="!pb-12"
-        ></Swiper> */}
-        <div className="flex w-full max-w-full overflow-x-auto gap-9 ">
+        >
           {data?.services?.map((service, index) => (
-            <div key={index} className="cursor-grab min-w-[400px] basis-[400px]">
+            <SwiperSlide
+              key={index}
+              className="h-auto w-full cursor-pointer flex"
+            >
               <ServiceCard service={service} />
-            </div>
+            </SwiperSlide>
           ))}
-        </div>
+        </Swiper>
+   
       </div>
     </div>
   );

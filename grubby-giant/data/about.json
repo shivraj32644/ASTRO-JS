@@ -1,0 +1,839 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "createdAt": "2022-10-20T06:50:38.339Z",
+            "updatedAt": "2023-10-31T11:09:30.485Z",
+            "publishedAt": "2022-10-20T06:52:48.411Z",
+            "Blocks": [
+                {
+                    "id": 1,
+                    "__component": "block.about-hero",
+                    "heading": "Who we are",
+                    "subheading": "Comprehensive, Personalized Financial Solutions on Both Sides of the Balance Sheet with Open Architecture, Expertise, Transparent Pricing, and Seamless Execution",
+                    "description": "We provide comprehensive solutions through research, partnerships, and a solution-first, product-agnostic approach.",
+                    "imageBig": {
+                        "data": {
+                            "id": 126,
+                            "attributes": {
+                                "name": "Rectangle 13 (3).png",
+                                "alternativeText": "Rectangle 13 (3).png",
+                                "caption": "Rectangle 13 (3).png",
+                                "width": 480,
+                                "height": 446,
+                                "formats": {
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_Rectangle_13_3_692965430b.png",
+                                        "hash": "thumbnail_Rectangle_13_3_692965430b",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_Rectangle 13 (3).png",
+                                        "path": null,
+                                        "size": 35.77,
+                                        "width": 168,
+                                        "height": 156
+                                    }
+                                },
+                                "hash": "Rectangle_13_3_692965430b",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 212.47,
+                                "url": "/uploads/Rectangle_13_3_692965430b.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T07:39:12.686Z",
+                                "updatedAt": "2022-10-27T07:39:12.686Z"
+                            }
+                        }
+                    },
+                    "imageSmall": {
+                        "data": {
+                            "id": 125,
+                            "attributes": {
+                                "name": "Rectangle 13 (4).png",
+                                "alternativeText": "Rectangle 13 (4).png",
+                                "caption": "Rectangle 13 (4).png",
+                                "width": 294,
+                                "height": 294,
+                                "formats": {
+                                    "thumbnail": {
+                                        "ext": ".png",
+                                        "url": "/uploads/thumbnail_Rectangle_13_4_4a71c85fbe.png",
+                                        "hash": "thumbnail_Rectangle_13_4_4a71c85fbe",
+                                        "mime": "image/png",
+                                        "name": "thumbnail_Rectangle 13 (4).png",
+                                        "path": null,
+                                        "size": 47.59,
+                                        "width": 156,
+                                        "height": 156
+                                    }
+                                },
+                                "hash": "Rectangle_13_4_4a71c85fbe",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 106.96,
+                                "url": "/uploads/Rectangle_13_4_4a71c85fbe.png",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T07:39:12.490Z",
+                                "updatedAt": "2022-10-27T07:39:12.490Z"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "__component": "block.corpcare-team",
+                    "miscellaneousFigure": [],
+                    "subHeadingParts": [
+                        {
+                            "id": 17,
+                            "text": "Core Members",
+                            "color": "black"
+                        },
+                        {
+                            "id": 15,
+                            "text": "100+ Years Experience",
+                            "color": "black"
+                        },
+                        {
+                            "id": 16,
+                            "text": "Specialized Experts",
+                            "color": "black"
+                        }
+                    ],
+                    "teamCard": [
+                        {
+                            "id": 1,
+                            "cardHeading": "Sourabh Kumar",
+                            "cardDescription": "Co-Founder",
+                            "cardContent": "Sourabh is the Co-Founder of Corpcare Ventures. He is an experienced leader with a demonstrated history of working in the wealth management financial services industry. He is skilled in Digital Strategy, Consumer Products, Treasury, Mentoring, and Management. He was the Business Head of wealth management and distribution at Aditya Birla Capital, and worked with Citi India for 19 years, heading the Retail bank strategy, segments, liabilities product, NRI businesses, client service and sales planning in his most recent role.",
+                            "Linkedin_Url": "https://www.linkedin.com/in/sourabh-kumar-755574a3/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 219,
+                                    "attributes": {
+                                        "name": "saurabh-corpcare.png",
+                                        "alternativeText": "saurabh-corpcare.png",
+                                        "caption": "saurabh-corpcare.png",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_saurabh_corpcare_1eaed3352c.png",
+                                                "hash": "thumbnail_saurabh_corpcare_1eaed3352c",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_saurabh-corpcare.png",
+                                                "path": null,
+                                                "size": 48.41,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "saurabh_corpcare_1eaed3352c",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 116.3,
+                                        "url": "/uploads/saurabh_corpcare_1eaed3352c.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T12:59:34.796Z",
+                                        "updatedAt": "2022-12-16T12:59:34.796Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "cardHeading": "Hussain Selani",
+                            "cardDescription": "Co-Founder & CEO",
+                            "cardContent": "Hussain is the CEO and Co-Founder of Corpcare Ventures. He has 20 years of experience with a track record of successfully setting up Wealth Management and Private Banking businesses. He has a depth of experience of portfolio management of Ultra High net-worth clients, investment advisory, and comprehensive knowledge of structures, dynamics, regulatory and compliance in wealth management industries (both Onshore and Offshore). He has been the Business Head for wealth products and investment product sales at both Aditya Birla Capital as well as Citi India. He has also worked with both UBS in both India and Hong Kong in their private banking and investment management divisions.",
+                            "Linkedin_Url": "https://www.linkedin.com/in/hussain-selani-7b5a7b4/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 3,
+                                    "attributes": {
+                                        "name": "thumbnail_Hussain_026e5ca4f4.png",
+                                        "alternativeText": "thumbnail_Hussain_026e5ca4f4.png",
+                                        "caption": "thumbnail_Hussain_026e5ca4f4.png",
+                                        "width": 156,
+                                        "height": 156,
+                                        "formats": null,
+                                        "hash": "thumbnail_Hussain_026e5ca4f4_1618814515",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 54.48,
+                                        "url": "/uploads/thumbnail_Hussain_026e5ca4f4_1618814515.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-20T06:47:24.958Z",
+                                        "updatedAt": "2022-10-20T06:47:24.958Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 90,
+                            "cardHeading": "Jitendra Rathore",
+                            "cardDescription": "Co-Founder & Executive Director",
+                            "cardContent": "Jitendra is a Co-Founder and Executive Director of Corpcare Ventures, spearheading the syndication, structuring and credit. He comes with 18 years of experience across Corporate Banking and Wealth Management. He has extensive experience in structured finance, capital markets, and corporate finance with Aditya Birla Capital. His area of expertise includes structuring complex corporate loans of varied natures, and his comprehensive knowledge of the Indian lending market makes him an expert in identifying synergies between lenders and borrowers. He has also worked with BnP Sharekhan and Indiabulls in wealth management at the beginning of his career. ",
+                            "Linkedin_Url": "https://www.linkedin.com/in/jitendra-rathore-7299b07/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 224,
+                                    "attributes": {
+                                        "name": "Jitendra-Rathore-final.png",
+                                        "alternativeText": "Jitendra-Rathore-final.png",
+                                        "caption": "Jitendra-Rathore-final.png",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Jitendra_Rathore_final_2113eaafc0.png",
+                                                "hash": "thumbnail_Jitendra_Rathore_final_2113eaafc0",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Jitendra-Rathore-final.png",
+                                                "path": null,
+                                                "size": 29.06,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Jitendra_Rathore_final_2113eaafc0",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 73.85,
+                                        "url": "/uploads/Jitendra_Rathore_final_2113eaafc0.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T13:05:30.348Z",
+                                        "updatedAt": "2022-12-16T13:05:30.348Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "cardHeading": "Suraj Gaydhane",
+                            "cardDescription": "Chief Digital & Technology Officer",
+                            "cardContent": "Suraj Gaydhane is a seasoned professional in the Financial Services industry with over a decade of experience, and his expertise and insights have been finely honed through his remarkable career. With a remarkable track record of driving above-average growth and spearheading digital transformation across diverse business verticals, Suraj has played a pivotal role in shaping the growth trajectories of renowned organizations such as Aditya Birla Capital, Citibank, CorpCare (a Fintech platform for corporates and HNIs), and Finizon (a Fintech platform for retail).\n\nDuring his tenure as Deputy Vice President at Edelweiss Wealth and Digital Head of Aditya Birla Sun Life Insurance Co. Ltd., Suraj showcased exceptional leadership skills. Since 2018, he has been a valued member of Aditya Birla Capital, where he co-owns multiple group-level strategic initiatives, including BizLabs, a thriving startup ecosystem within ABG. As a core member of the think tank, Suraj has contributed extensively to strategizing and operationalizing the company's financial services business growth.\n\nBefore joining Aditya Birla Capital, Suraj served as the Product Head at Citi, where he successfully managed the Debit Card portfolio. His professional journey began at Infosys in 2010, where he started as an engineer. Throughout his career, Suraj has received numerous personal and professional accolades, showcasing his exceptional talent and commitment. He holds an MBA in finance from JBIMS, Mumbai, and remains an esteemed alumnus of the institution.",
+                            "Linkedin_Url": "https://www.linkedin.com/in/surajgaydhane/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 220,
+                                    "attributes": {
+                                        "name": "Suraj-1.png",
+                                        "alternativeText": "Suraj-1.png",
+                                        "caption": "Suraj-1.png",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Suraj_1_0fdef26082.png",
+                                                "hash": "thumbnail_Suraj_1_0fdef26082",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Suraj-1.png",
+                                                "path": null,
+                                                "size": 64.46,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Suraj_1_0fdef26082",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 118.24,
+                                        "url": "/uploads/Suraj_1_0fdef26082.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T13:00:45.536Z",
+                                        "updatedAt": "2022-12-16T13:00:45.536Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "cardHeading": "Shulin V K Satoskar",
+                            "cardDescription": "Head - Equities and Alternates",
+                            "cardContent": "Shulin heads the Equities and Alternates vertical at Corpcare Ventures. He comes with 10+ years of experience across the wealth management spectrum. He was the Team Lead -Equities under Research vertical at Aditya Birla Wealth and responsible for developing the market outlook, research and publications, mutual fund/PMS/AIF/structured products evaluation, and business development. He has earlier worked with NSE, developing new-to-market products, index and portfolio design for major AMCs, and managing products and research. He has also worked with CRISIL Limited as an Research Analyst.",
+                            "Linkedin_Url": "https://www.linkedin.com/in/shulin-v-k-satoskar-75765a18/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 221,
+                                    "attributes": {
+                                        "name": "Shulin.png",
+                                        "alternativeText": "Shulin.png",
+                                        "caption": "Shulin.png",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Shulin_d7fe5ab962.png",
+                                                "hash": "thumbnail_Shulin_d7fe5ab962",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Shulin.png",
+                                                "path": null,
+                                                "size": 75.15,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Shulin_d7fe5ab962",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 178.35,
+                                        "url": "/uploads/Shulin_d7fe5ab962.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T13:02:06.976Z",
+                                        "updatedAt": "2022-12-16T13:02:06.976Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 86,
+                            "cardHeading": "Danish Sayyed",
+                            "cardDescription": "Head - Fixed Income Research",
+                            "cardContent": "Danish Heads the Fixed Income Research vertical at Corpcare Ventures. He comes with 13 years of experience across fixed income research, mutual fund research, investment advisory and investment product management. He brings a wealth of knowledge through his experience with Aditya Birla Capital, Karvy Private Wealth, Edelweiss Investment Advisors, and iFAST Financial India Pvt Ltd., catering investment research services to various client segments – Corporate Treasuries, Family Office, and Ultra HNI.",
+                            "Linkedin_Url": "https://www.linkedin.com/in/danish-sayyed-65b718b/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 222,
+                                    "attributes": {
+                                        "name": "Danish.png",
+                                        "alternativeText": "Danish.png",
+                                        "caption": "Danish.png",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Danish_2745e63239.png",
+                                                "hash": "thumbnail_Danish_2745e63239",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Danish.png",
+                                                "path": null,
+                                                "size": 52.15,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Danish_2745e63239",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 121.73,
+                                        "url": "/uploads/Danish_2745e63239.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T13:02:43.964Z",
+                                        "updatedAt": "2022-12-16T13:02:43.964Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 88,
+                            "cardHeading": "Amaan Kamran Patel",
+                            "cardDescription": "Head - Bond Desk",
+                            "cardContent": "Amaan heads the bond desk at Corpcare Ventures. He comes with 7 years of experience in advising the retiral funds of Global MNCs and major Indian conglomerates, and has managed an AUM of Approx. INR 50 Bn. He was earlier a Fixed Income specialist at Aditya Birla Capital, where he was responsible for managing the Fixed Income Investment Desk across product, process, regulatory compliance, sales support, and product line profitability. He has also spent 5+ years with Dara Shaw, where he was responsible for portfolio management and investment advisory services for provident funds, gratuity funds & pension funds of MNCs.",
+                            "Linkedin_Url": "https://www.linkedin.com/in/amaan-patel/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 223,
+                                    "attributes": {
+                                        "name": "Amaan.png",
+                                        "alternativeText": "Amaan.png",
+                                        "caption": "Amaan.png",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".png",
+                                                "url": "/uploads/thumbnail_Amaan_c6a3353e0d.png",
+                                                "hash": "thumbnail_Amaan_c6a3353e0d",
+                                                "mime": "image/png",
+                                                "name": "thumbnail_Amaan.png",
+                                                "path": null,
+                                                "size": 60.61,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Amaan_c6a3353e0d",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 142.56,
+                                        "url": "/uploads/Amaan_c6a3353e0d.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T13:03:18.100Z",
+                                        "updatedAt": "2022-12-16T13:03:18.100Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 89,
+                            "cardHeading": "Mithali Raghavan",
+                            "cardDescription": "Head - New Age Business",
+                            "cardContent": "Mithali is the Head of New Age businesses at Corpcare Ventures. She is a highly driven finance professional with a digital-first approach to product management. She has 10 years of expertise with Citi across consumer bank wealth management, core investment product strategy, digital transformation initiatives, operational risk & controls, and most recently, NBFC treasury management. She was the product manager for mutual funds and Portfolio Management Services for Citi consumer bank managing INR 28000 cr of AUM, after which she was the Treasurer for Citicorp Finance India Limited (CFIL).",
+                            "Linkedin_Url": "https://www.linkedin.com/in/mithaliraghavan/",
+                            "cardImage": {
+                                "data": {
+                                    "id": 225,
+                                    "attributes": {
+                                        "name": "Mithali.jpg",
+                                        "alternativeText": "Mithali.jpg",
+                                        "caption": "Mithali.jpg",
+                                        "width": 300,
+                                        "height": 300,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "ext": ".jpg",
+                                                "url": "/uploads/thumbnail_Mithali_4a164b1851.jpg",
+                                                "hash": "thumbnail_Mithali_4a164b1851",
+                                                "mime": "image/jpeg",
+                                                "name": "thumbnail_Mithali.jpg",
+                                                "path": null,
+                                                "size": 5.86,
+                                                "width": 156,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "Mithali_4a164b1851",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 18.15,
+                                        "url": "/uploads/Mithali_4a164b1851.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-12-16T13:06:58.166Z",
+                                        "updatedAt": "2022-12-16T13:06:58.166Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "headingParts": [
+                        {
+                            "id": 20,
+                            "text": "Meet the ",
+                            "color": "black"
+                        },
+                        {
+                            "id": 18,
+                            "text": "investment professionals ",
+                            "color": "brand"
+                        },
+                        {
+                            "id": 19,
+                            "text": "from CorpCare",
+                            "color": "black"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "__component": "block.values-we-live-by",
+                    "heading": "Values we live by",
+                    "subheading": "We prioritize our clients' needs and provide solutions with integrity, confidentiality, trust, and transparency",
+                    "items": [
+                        {
+                            "id": 46,
+                            "cardHeading": "Tailored Solutions",
+                            "cardDescription": "Our surplus management and lending solutions are customized to meet the specific needs of each client.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 128,
+                                    "attributes": {
+                                        "name": "Group (15).png",
+                                        "alternativeText": "Group (15).png",
+                                        "caption": "Group (15).png",
+                                        "width": 80,
+                                        "height": 74,
+                                        "formats": null,
+                                        "hash": "Group_15_f7d6aade33",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.75,
+                                        "url": "/uploads/Group_15_f7d6aade33.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:40:09.673Z",
+                                        "updatedAt": "2022-10-27T07:40:09.673Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 47,
+                            "cardHeading": "Expert Guidance",
+                            "cardDescription": "Our team of experts provides valuable guidance and support throughout the wealth management and lending process.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 127,
+                                    "attributes": {
+                                        "name": "Group (16).png",
+                                        "alternativeText": "Group (16).png",
+                                        "caption": "Group (16).png",
+                                        "width": 72,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_16_e7477f7bf3",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.99,
+                                        "url": "/uploads/Group_16_e7477f7bf3.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:40:09.667Z",
+                                        "updatedAt": "2022-10-27T07:40:09.667Z"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 48,
+                            "cardHeading": "Cutting-edge Technology",
+                            "cardDescription": "We use the latest technology to drive rich insights and ensure seamless execution.",
+                            "cardContent": null,
+                            "Linkedin_Url": null,
+                            "cardImage": {
+                                "data": {
+                                    "id": 129,
+                                    "attributes": {
+                                        "name": "Group (17).png",
+                                        "alternativeText": "Group (17).png",
+                                        "caption": "Group (17).png",
+                                        "width": 72,
+                                        "height": 80,
+                                        "formats": null,
+                                        "hash": "Group_17_e5ed83d5b5",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "size": 1.93,
+                                        "url": "/uploads/Group_17_e5ed83d5b5.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2022-10-27T07:40:41.431Z",
+                                        "updatedAt": "2022-10-27T07:40:41.431Z"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "__component": "block.our-partners",
+                    "Heading": "Collaborators",
+                    "SubHeading": null,
+                    "Theme": "Main Page Background",
+                    "miscellaneousFigure": [],
+                    "PartnerImages": {
+                        "data": [
+                            {
+                                "id": 7,
+                                "attributes": {
+                                    "name": "Vector.png",
+                                    "alternativeText": "Vector.png",
+                                    "caption": "Vector.png",
+                                    "width": 150,
+                                    "height": 40,
+                                    "formats": null,
+                                    "hash": "Vector_9ac370945a",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 3.02,
+                                    "url": "/uploads/Vector_9ac370945a.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.454Z",
+                                    "updatedAt": "2022-10-20T06:50:19.454Z"
+                                }
+                            },
+                            {
+                                "id": 9,
+                                "attributes": {
+                                    "name": "bajaj-finserve 1.png",
+                                    "alternativeText": "bajaj-finserve 1.png",
+                                    "caption": "bajaj-finserve 1.png",
+                                    "width": 150,
+                                    "height": 65,
+                                    "formats": null,
+                                    "hash": "bajaj_finserve_1_3256ab90b7",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 1.88,
+                                    "url": "/uploads/bajaj_finserve_1_3256ab90b7.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.457Z",
+                                    "updatedAt": "2022-10-20T06:50:19.457Z"
+                                }
+                            },
+                            {
+                                "id": 10,
+                                "attributes": {
+                                    "name": "Equitas_Small_Finance_Bank_Limited_Logo_2-removebg-preview 1.png",
+                                    "alternativeText": "Equitas_Small_Finance_Bank_Limited_Logo_2-removebg-preview 1.png",
+                                    "caption": "Equitas_Small_Finance_Bank_Limited_Logo_2-removebg-preview 1.png",
+                                    "width": 150,
+                                    "height": 53,
+                                    "formats": null,
+                                    "hash": "Equitas_Small_Finance_Bank_Limited_Logo_2_removebg_preview_1_1b65f7ed30",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 4.7,
+                                    "url": "/uploads/Equitas_Small_Finance_Bank_Limited_Logo_2_removebg_preview_1_1b65f7ed30.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.461Z",
+                                    "updatedAt": "2022-10-20T06:50:19.461Z"
+                                }
+                            },
+                            {
+                                "id": 11,
+                                "attributes": {
+                                    "name": "hdfc-mutual-fund-vector-logo-small-removebg-preview 1.png",
+                                    "alternativeText": "hdfc-mutual-fund-vector-logo-small-removebg-preview 1.png",
+                                    "caption": "hdfc-mutual-fund-vector-logo-small-removebg-preview 1.png",
+                                    "width": 151,
+                                    "height": 52,
+                                    "formats": null,
+                                    "hash": "hdfc_mutual_fund_vector_logo_small_removebg_preview_1_5351f5a2e4",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 9.46,
+                                    "url": "/uploads/hdfc_mutual_fund_vector_logo_small_removebg_preview_1_5351f5a2e4.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.458Z",
+                                    "updatedAt": "2022-10-20T06:50:19.458Z"
+                                }
+                            },
+                            {
+                                "id": 13,
+                                "attributes": {
+                                    "name": "IDFMF-removebg-preview 1.png",
+                                    "alternativeText": "IDFMF-removebg-preview 1.png",
+                                    "caption": "IDFMF-removebg-preview 1.png",
+                                    "width": 151,
+                                    "height": 43,
+                                    "formats": null,
+                                    "hash": "IDFMF_removebg_preview_1_4efcdd50fa",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 1.99,
+                                    "url": "/uploads/IDFMF_removebg_preview_1_4efcdd50fa.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.665Z",
+                                    "updatedAt": "2022-10-20T06:50:19.665Z"
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "attributes": {
+                                    "name": "icici-bank-logo 1.png",
+                                    "alternativeText": "icici-bank-logo 1.png",
+                                    "caption": "icici-bank-logo 1.png",
+                                    "width": 150,
+                                    "height": 50,
+                                    "formats": null,
+                                    "hash": "icici_bank_logo_1_08b29388ac",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 3.35,
+                                    "url": "/uploads/icici_bank_logo_1_08b29388ac.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.392Z",
+                                    "updatedAt": "2022-10-20T06:50:19.392Z"
+                                }
+                            },
+                            {
+                                "id": 12,
+                                "attributes": {
+                                    "name": "1200px-Kotak_Mutual_Fund_logo 1.png",
+                                    "alternativeText": "1200px-Kotak_Mutual_Fund_logo 1.png",
+                                    "caption": "1200px-Kotak_Mutual_Fund_logo 1.png",
+                                    "width": 151,
+                                    "height": 51,
+                                    "formats": null,
+                                    "hash": "1200px_Kotak_Mutual_Fund_logo_1_43b33ce459",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 6.31,
+                                    "url": "/uploads/1200px_Kotak_Mutual_Fund_logo_1_43b33ce459.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.663Z",
+                                    "updatedAt": "2022-10-20T06:50:19.663Z"
+                                }
+                            },
+                            {
+                                "id": 14,
+                                "attributes": {
+                                    "name": "Mirae_Asset_Logo 1.png",
+                                    "alternativeText": "Mirae_Asset_Logo 1.png",
+                                    "caption": "Mirae_Asset_Logo 1.png",
+                                    "width": 151,
+                                    "height": 36,
+                                    "formats": null,
+                                    "hash": "Mirae_Asset_Logo_1_15cb3aa2e4",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 3.25,
+                                    "url": "/uploads/Mirae_Asset_Logo_1_15cb3aa2e4.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.667Z",
+                                    "updatedAt": "2022-10-20T06:50:19.667Z"
+                                }
+                            },
+                            {
+                                "id": 8,
+                                "attributes": {
+                                    "name": "Mahindra-Finance-logo-Vector 1.png",
+                                    "alternativeText": "Mahindra-Finance-logo-Vector 1.png",
+                                    "caption": "Mahindra-Finance-logo-Vector 1.png",
+                                    "width": 150,
+                                    "height": 48,
+                                    "formats": null,
+                                    "hash": "Mahindra_Finance_logo_Vector_1_744316adad",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "size": 3.14,
+                                    "url": "/uploads/Mahindra_Finance_logo_Vector_1_744316adad.png",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2022-10-20T06:50:19.456Z",
+                                    "updatedAt": "2022-10-20T06:50:19.456Z"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "__component": "block.our-clients",
+                    "Heading": "WHAT PEOPLE SAY",
+                    "subHeading": "Words Of Our Clients",
+                    "Clients": [
+                        {
+                            "id": 2,
+                            "rating": 5,
+                            "comment": "As sharp as they are sensitive, the core team of CorpCare are seasoned industry professionals who organised and expanded my portfolio with exhaustive market research and brilliant, expert insight.  Highly recommended! ",
+                            "authorName": "Siddharth Dhanvant Shanghvi",
+                            "authorDesignation": "Author",
+                            "authorImage": {
+                                "data": {
+                                    "id": 273,
+                                    "attributes": {
+                                        "name": "client_1.jpeg",
+                                        "alternativeText": "client_1.jpeg",
+                                        "caption": "client_1.jpeg",
+                                        "width": 852,
+                                        "height": 1280,
+                                        "formats": {
+                                            "large": {
+                                                "ext": ".jpeg",
+                                                "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/large_client_1_b0d5e657da.jpeg",
+                                                "hash": "large_client_1_b0d5e657da",
+                                                "mime": "image/jpeg",
+                                                "name": "large_client_1.jpeg",
+                                                "path": null,
+                                                "size": 71.31,
+                                                "width": 666,
+                                                "height": 1000
+                                            },
+                                            "small": {
+                                                "ext": ".jpeg",
+                                                "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/small_client_1_b0d5e657da.jpeg",
+                                                "hash": "small_client_1_b0d5e657da",
+                                                "mime": "image/jpeg",
+                                                "name": "small_client_1.jpeg",
+                                                "path": null,
+                                                "size": 24.26,
+                                                "width": 333,
+                                                "height": 500
+                                            },
+                                            "medium": {
+                                                "ext": ".jpeg",
+                                                "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/medium_client_1_b0d5e657da.jpeg",
+                                                "hash": "medium_client_1_b0d5e657da",
+                                                "mime": "image/jpeg",
+                                                "name": "medium_client_1.jpeg",
+                                                "path": null,
+                                                "size": 45.64,
+                                                "width": 499,
+                                                "height": 750
+                                            },
+                                            "thumbnail": {
+                                                "ext": ".jpeg",
+                                                "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/thumbnail_client_1_b0d5e657da.jpeg",
+                                                "hash": "thumbnail_client_1_b0d5e657da",
+                                                "mime": "image/jpeg",
+                                                "name": "thumbnail_client_1.jpeg",
+                                                "path": null,
+                                                "size": 4.09,
+                                                "width": 104,
+                                                "height": 156
+                                            }
+                                        },
+                                        "hash": "client_1_b0d5e657da",
+                                        "ext": ".jpeg",
+                                        "mime": "image/jpeg",
+                                        "size": 89.42,
+                                        "url": "https://corpcare-cms-assets-dev.s3.ap-south-1.amazonaws.com/client_1_b0d5e657da.jpeg",
+                                        "previewUrl": null,
+                                        "provider": "aws-s3",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-01-02T03:33:58.909Z",
+                                        "updatedAt": "2023-01-02T03:33:58.909Z"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "miscellaneousFigure": []
+                }
+            ],
+            "seo": null
+        }
+    },
+    "meta": {}
+}

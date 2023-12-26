@@ -1,8 +1,8 @@
 ---
-import {OurClientRComponents} from '../blocks/OurClientRComponents'
-const {data} = Astro.props
+import { OurClientRComponents } from "../react-blocks/OurClientRComponents.tsx";
+const { data } = Astro.props;
 ---
 
 <div>
-    <OurClientRComponents data={data} />
+  <OurClientRComponents client:load data={data} />
 </div>

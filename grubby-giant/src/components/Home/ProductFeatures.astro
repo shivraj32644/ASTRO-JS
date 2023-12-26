@@ -1,13 +1,11 @@
 ---
 import classNames from "classnames";
 import { normalizeCmsImage } from "../../../utils/common";
-import ProductFeaturesRComponent from "../blocks/ProductFeaturesRComponent";
+import ProductFeaturesRComponent from "../react-blocks/ProductFeaturesRComponent.tsx";
 
-const {data} = Astro.props
-
+const { data } = Astro.props;
 ---
 
-
 <div>
-  <ProductFeaturesRComponent data={data} />
+  <ProductFeaturesRComponent client:load data={data} />
 </div>

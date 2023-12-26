@@ -1,0 +1,50 @@
+---
+
+import classNames from "classnames";
+import { normalizeCmsImage } from "../../../utils/common";
+import { RColTabs } from "../react-blocks/RColTabs";
+const { data } = Astro.props;
+---
+
+<div class="bg-white relative">
+  {
+    data?.miscellaneousFigure?.map((item:any, index:number) => {
+      const figure = normalizeCmsImage(item?.figure);
+
+      return (
+        <div
+          class={classNames(
+            "absolute",
+            item?.alignment === "Top-Left" && "top-0 left-0",
+            item?.alignment === "Top-Right" && "top-0 right-0",
+            item?.alignment === "Bottom-Left" && "bottom-0 left-0",
+            item?.alignment === "Bottom-Right" && "bottom-0 right-0",
+            item?.alignment === "Center-Left" && "bottom-1/2 left-0",
+            item?.alignment === "Center-Right" && "bottom-1/2 right-0"
+          )}
+        >
+          <img
+            src={figure?.url}
+            alt={figure?.alternativeText}
+            class="object-cover w-auto h-auto"
+          />
+        </div>
+      );
+    })
+  }
+  <div class="container mx-auto lg:p-10 p-5">
+    <h2
+      class="font-medium text-be lg:text-xl lg:leading-8 tracking-[0.02em] text-brand uppercase text-left overflow-hidden before:h-[2px]
+     before:bg-brand before:inline-block before:relative before:align-middle
+     before:w-6 before:right-2 p-4"
+    >
+      {data?.heading}
+    </h2>
+    <h1
+      class="font-medium text-2xl lg:text-4xl tracking-[0.02em] text-[#191919] text-left lg:leading-[48px] mb-5 lg:mb-10 max-w-md lg:max-w-2xl"
+    >
+      {data?.subHeading}
+    </h1>
+    <RColTabs data={data} client:load />
+  </div>
+</div>

@@ -1,0 +1,43 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import about_data from "../../../data/about.json";
+import OurClients from "../../components/astro-blocks/OurClients.astro";
+import ValuesWeLiveBy from "../../components/astro-blocks/ValuesWeLiveBy.astro";
+import OurPartners from "../../components/astro-blocks/OurPartners.astro";
+import CorpcareTeam from "../../components/astro-blocks/CorpcareTeam.astro";
+import AboutHero from "../../components/astro-blocks/AboutHero.astro";
+---
+
+<Layout title="CorpCare">
+  {
+    about_data?.data?.attributes?.Blocks?.map((block: any) => {
+      return (
+        <div>
+          <div class="mt-8">
+            {block?.__component === "block.about-hero" && <AboutHero data={block} />}
+          </div>
+          <div class="mt-8">
+            {block?.__component === "block.corpcare-team" && (
+              <CorpcareTeam data={block} />
+            )}
+          </div>
+          <div class="mt-8">
+            {block?.__component === "block.values-we-live-by" && (
+              <ValuesWeLiveBy data={block} />
+            )}
+          </div>
+          <div class="mt-8">
+            {block?.__component === "block.our-partners" && (
+              <OurPartners data={block} />
+            )}
+          </div>
+          <div class="mt-8">
+            {block?.__component === "block.our-clients" && (
+              <OurClients data={block} />
+            )}
+          </div>
+        </div>
+      );
+    })
+  }
+</Layout>

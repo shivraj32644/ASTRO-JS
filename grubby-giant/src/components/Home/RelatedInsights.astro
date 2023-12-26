@@ -1,10 +1,10 @@
 ---
 import classNames from "classnames";
 import { normalizeCmsImage } from "../../../utils/common";
-import InsightCard from "./InsightCard.astro";
+import RelatedInsightsRComponents from "../react-blocks/RelatedInsightsRComponents";
 
 const { data } = Astro.props;
-const sortedInsights = data?.insights?.data?.sort((a:any, b:any) => {
+const sortedInsights = data?.insights?.data?.sort((a: any, b: any) => {
   if (
     a.attributes?.createdAt &&
     b.attributes?.createdAt &&
@@ -21,11 +21,12 @@ const sortedInsights = data?.insights?.data?.sort((a:any, b:any) => {
     return 0;
   }
 });
+
 ---
 
 <div class="bg-white relative">
   {
-    data?.miscellaneousFigure?.map((item:any, index:number) => {
+    data?.miscellaneousFigure?.map((item: any, index: number) => {
       const figure = normalizeCmsImage(item?.figure);
 
       return (
@@ -78,15 +79,19 @@ const sortedInsights = data?.insights?.data?.sort((a:any, b:any) => {
         </span>
       </a>
     </div>
-    <div class="flex w-full max-w-full overflow-x-auto gap-9 ">
+    <!-- <div class="flex w-full max-w-full overflow-x-auto gap-9">
       {
-        sortedInsights?.map(({ attributes }:{ attributes:any }, index:number) => (
-          <div class="cursor-grab min-w-[400px] basis-[400px]">
-            <InsightCard data={attributes} />
-          </div>
-        ))
+        sortedInsights?.map(
+          ({ attributes }: { attributes: any }, index: number) => (
+            <div class="cursor-grab min-w-[400px] basis-[400px]">
+              <InsightCard data={attributes} />
+            </div>
+          )
+        )
       }
-    </div>
-    
+    </div> -->
+    <RelatedInsightsRComponents client:load sortedInsights={sortedInsights} />
   </div>
 </div>
+
+ 
