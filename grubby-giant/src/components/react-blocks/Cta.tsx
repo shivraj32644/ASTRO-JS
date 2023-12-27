@@ -1,9 +1,9 @@
 
 import classNames from 'classnames';
 import { useState } from 'react';
-import RequestDemoModal from '../shared/RequestDemoModal';
 import { normalizeCmsImage } from '../../../utils/common';
 import type { ICta } from '../../../schemas/block';
+import { RRequestDemoModal } from '../react-shared/RRequestDemoModal';
 
 export function Cta({ data }: { data?: ICta }) {
   const backgroundImage = normalizeCmsImage(data?.backgroundImage);
@@ -32,7 +32,7 @@ export function Cta({ data }: { data?: ICta }) {
           {data?.button?.label}
         </button>
       </div>
-      <RequestDemoModal isOpen={isOpen} closeModal={() => setIsOpen(false)} />
+      <RRequestDemoModal isOpen={isOpen} closeModal={() => setIsOpen(false)} />
     </div>
   );
 }

@@ -1,8 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import home_page from "../../data/home_page.json";
-import BlockManager from "../components/shared/BlockManager";
-import Hero from "../components/Home/Hero.astro";
+import Hero from "../components/astro-blocks/Hero.astro";
 import ServicesWeOffer from "../components/Home/ServicesWeOffer.astro";
 import HowWeAreDifferent from "../components/Home/HowWeAreDifferent.astro";
 import OurProducts from "../components/Home/OurProducts.astro";
@@ -11,7 +10,7 @@ import WhyCorpcareIsDifferent from "../components/Home/WhyCorpcareIsDifferent.as
 import OurClients from "../components/Home/OurClients.astro";
 import Recognization from "../components/Home/Recognization.astro";
 import RelatedInsights from "../components/Home/RelatedInsights.astro";
-import Cta from "../components/Home/Cta.astro";
+import {Cta} from "../components/react-blocks/Cta";
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
@@ -48,7 +47,7 @@ import 'swiper/css/pagination';
           {block?.__component === "block.related-insights" && (
             <RelatedInsights data={block} />
           )}
-          {block?.__component === "block.cta" && <Cta data={block} />}
+          {block?.__component === "block.cta" && <Cta client:load data={block} />}
         </>
       );
     })

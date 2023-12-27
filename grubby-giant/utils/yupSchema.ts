@@ -30,3 +30,7 @@ interface Config {
   validations?: Validation[];
 }
 
+export const mobileField = yup
+  .number()
+  .min(10, 'Please Enter valid Phone no.')
+  .max(10, 'Please Enter valid Phone no.');
